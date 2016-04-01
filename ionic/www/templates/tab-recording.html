@@ -1,25 +1,25 @@
 <ion-view view-title="Recording">
   <ion-content class="padding">
     <h3 align="center">Daniel Makes Us Work Again</h3>
-    <p align="center" ng-show="inFeedingState">Recording feeding amount: {{feedingAmount}} ml</p>
-    <p align="center" ng-show="inChangingDiapelState">How wet Diaper is: {{wetPersentage}} %</p>
+    <p align="center" ng-show="rctrl.inFeedingState">Recording feeding amount: {{rctrl.feedingAmount}} ml</p>
+    <p align="center" ng-show="rctrl.inChangingDiapelState">How wet Diaper is: {{rctrl.wetPersentage}} %</p>
 
     <div class="card">
       <div class="row">
         <div class="col">
-          <button class="button button-block button-positive" ng-click="feeding()" ng-disabled="disableCard1">
-            {{txtBtn1}}
+          <button class="button button-block button-positive" ng-click="rctrl.feeding()" ng-disabled="rctrl.disableCard">
+            {{rctrl.txtBtn1}}
           </button>
         </div>
       </div>
       <div class="row">
         <div class="col">
-          <div class="range" ng-show="inFeedingState">
+          <div class="range" ng-show="rctrl.inFeedingState">
             <i class="icon ion-ios-flask-outline"></i>
             <input type="range"
                    name="volume"
-                   ng-model="feedingAmount"
-                   ng-disabled="disableCard1"
+                   ng-model="rctrl.feedingAmount"
+                   ng-disabled="rctrl.disableCard"
                    min="10"
                    max="100"
                    step="5">
@@ -32,19 +32,19 @@
     <div class="card">
       <div class="row">
         <div class="col">
-          <button class="button button-block button-positive" ng-click="changing()" ng-disabled="disableCard2">
-            {{txtBtn2}}
+          <button class="button button-block button-positive" ng-click="rctrl.changing()" ng-disabled="rctrl.disableCard">
+            {{rctrl.txtBtn2}}
           </button>
         </div>
       </div>
       <div class="row">
         <div class="col">
-          <div class="range" ng-show="inChangingDiapelState">
+          <div class="range" ng-show="rctrl.inChangingDiapelState">
             <i class="icon ion-ios-flask-outline"></i>
             <input type="range"
                    name="volume"
-                   ng-model="wetPersentage"
-                   ng-disabled="disableCard2"
+                   ng-model="rctrl.wetPersentage"
+                   ng-disabled="rctrl.disableCard"
                    min="10"
                    max="100"
                    step="10">

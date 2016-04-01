@@ -45,7 +45,7 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
     views: {
       'tab-recording': {
         templateUrl: 'templates/tab-recording.html',
-        controller: 'RecordingCtrl'
+        controller: 'RecordingCtrl as rctrl'
       }
     }
   })

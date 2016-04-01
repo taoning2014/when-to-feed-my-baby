@@ -1,50 +1,51 @@
 angular.module('starter.controllers', [])
 
-  .controller('RecordingCtrl', function ($scope, $timeout, StorageFactory) {
+  .controller('RecordingCtrl', function ($timeout, StorageFactory) {
+    var self = this;
     // properties to card 1
-    $scope.inFeedingState = false;
-    $scope.txtBtn1 = "Feeding Daniel";
-    $scope.feedingAmount = 50;
+    self.inFeedingState = false;
+    self.txtBtn1 = "Feeding Daniel";
+    self.feedingAmount = 50;
 
     // properties to card 2
-    $scope.inChangingDiapelState = false;
-    $scope.txtBtn2 = "Changing Daniel's Diaper";
-    $scope.wetPersentage = 50;
+    self.inChangingDiapelState = false;
+    self.txtBtn2 = "Changing Daniel's Diaper";
+    self.wetPersentage = 50;
 
-    $scope.feeding = function () {
-      if (!$scope.inFeedingState) {
-        $scope.inFeedingState = true;
-        $scope.inChangingDiapelState = false;
-        $scope.txtBtn1 = "Click again to record";
+    self.feeding = function () {
+      if (!self.inFeedingState) {
+        self.inFeedingState = true;
+        self.inChangingDiapelState = false;
+        self.txtBtn1 = "Click again to record";
       } else {
         // set record
-        StorageFactory.setFeeding($scope.feedingAmount);
-        $scope.feedingAmount = 50;
-        $scope.txtBtn1 = "Recording to server...";
-        $scope.disableCard1 = true;
+        StorageFactory.setFeeding(self.feedingAmount);
+        self.txtBtn1 = "Recording to server...";
+        self.disableCard = true;
         $timeout(function(){
-          $scope.txtBtn1 = "Feeding Daniel";
-          $scope.disableCard1 = false;
-          $scope.inFeedingState = false;
+          self.txtBtn1 = "Feeding Daniel";
+          self.disableCard = false;
+          self.inFeedingState = false;
+          self.feedingAmount = 50;
         },1500)
       }
     }
 
-    $scope.changing = function () {
-      if (!$scope.inChangingDiapelState) {
-        $scope.inFeedingState = false;
-        $scope.inChangingDiapelState = true;
-        $scope.txtBtn2 = "Click again to record";
+    self.changing = function () {
+      if (!self.inChangingDiapelState) {
+        self.inFeedingState = false;
+        self.inChangingDiapelState = true;
+        self.txtBtn2 = "Click again to record";
       } else {
         // set record
-        StorageFactory.setChanging($scope.wetPersentage);
-        $scope.wetPersentage = 50;
-        $scope.txtBtn2 = "Recording to server...";
-        $scope.disableCard2 = true;
+        StorageFactory.setChanging(self.wetPersentage);
+        self.txtBtn2 = "Recording to server...";
+        self.disableCard = true;
         $timeout(function(){
-          $scope.txtBtn2 = "Changing Daniel's Diaper";
-          $scope.disableCard2 = false;
-          $scope.inChangingDiapelState = false;
+          self.txtBtn2 = "Changing Daniel's Diaper";
+          self.disableCard = false;
+          self.inChangingDiapelState = false;
+          self.wetPersentage = 50;
         },1500)
       }
     }
