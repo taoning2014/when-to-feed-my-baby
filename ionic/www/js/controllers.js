@@ -1,6 +1,9 @@
 angular.module('starter.controllers', [])
 
-.controller('RecordingCtrl', function($scope) {})
+.controller('RecordingCtrl', function($scope) {
+  $scope.isFeeding = false;
+  $scope.isChangingDiapel = false;
+})
 
 .controller('HistoryCtrl', function($scope, Chats) {
   // With the new view caching in Ionic, Controllers are only called

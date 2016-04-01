@@ -1,20 +1,21 @@
 <ion-view view-title="Recording">
   <ion-content class="padding">
     <h3 align="center">Daniel Makes Us Work Again</h3>
-
-
+    <p align="center" ng-show="isFeeding">Recording feeding amount: {{}}</p>
+    <p align="center" ng-show="isChangingDiapel">How wet Diaper is: {{}}</p>
     <div class="card">
       <div class="row">
         <div class="col">
-          <button class="button button-positive ">
+          <button class="button button-block button-positive ">
             Feeding Daniel
           </button>
         </div>
-
+      </div>
+      <div class="row">
         <div class="col">
-          <div class="range">
+          <div class="range" ng-show="isFeeding">
             <i class="icon ion-ios-flask-outline"></i>
-            <input type="range" name="volume">
+            <input type="range" name="volume" ng-disabled="isFeeding">
             <i class="icon ion-ios-flask"></i>
           </div>
 
@@ -26,21 +27,21 @@
     <div class="card">
       <div class="row">
         <div class="col">
-          <button class="button button-positive ">
+          <button class="button button-block button-positive ">
             Changin Diaper
           </button>
         </div>
-
+      </div>
+      <div class="row">
         <div class="col">
-          <div class="range">
+          <div class="range" ng-show="isChangingDiapel">
             <i class="icon ion-ios-flask-outline"></i>
-            <input type="range" name="volume">
+            <input type="range" name="volume"  ng-disabled="isChangingDiapel">
             <i class="icon ion-ios-flask"></i>
           </div>
 
         </div>
       </div>
     </div>
-
   </ion-content>
 </ion-view>
