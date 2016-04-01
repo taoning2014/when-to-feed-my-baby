@@ -18,7 +18,10 @@
     <ion-refresher pulling-text="Pull to refresh..." on-refresh="hctrl.doRefresh()">
     </ion-refresher>
     <ion-list  ng-repeat="itemArray in hctrl.items" >
-      <ion-item class="item-remove-animate item-avatar item-icon-right" ng-repeat="item in itemArray" type="item-text-wrap">
+      <ion-item
+        class="item-remove-animate item-avatar item-icon-right"
+        ng-repeat="item in itemArray  | orderBy:'time'"
+        type="item-text-wrap">
         <h2>{{item.type}}</h2>
         <p>{{item.time | date:'medium'}}</p>
         <i class="icon ion-chevron-right icon-accessory"></i>
