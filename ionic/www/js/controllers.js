@@ -1,25 +1,57 @@
 angular.module('starter.controllers', [])
 
-.controller('RecordingCtrl', function($scope) {
-  $scope.isFeeding = false;
-  $scope.isChangingDiapel = false;
-})
+  .controller('RecordingCtrl', function ($scope, StorageFactory) {
+    // properties to card 1
+    $scope.inFeedingState = false;
+    $scope.txtBtn1 = "Feeding Daniel";
+    $scope.feedingAmount = 50;
 
-.controller('HistoryCtrl', function($scope, Chats) {
-  // With the new view caching in Ionic, Controllers are only called
-  // when they are recreated or on app start, instead of every page change.
-  // To listen for when this page is active (for example, to refresh data),
-  // listen for the $ionicView.enter event:
-  //
-  //$scope.$on('$ionicView.enter', function(e) {
-  //});
+    // properties to card 2
+    $scope.inChangingDiapelState = false;
 
-  $scope.chats = Chats.all();
-  $scope.remove = function(chat) {
-    Chats.remove(chat);
-  };
-})
+    $scope.feeding = function () {
+      if (!$scope.inFeedingState) {
+        $scope.inFeedingState = true;
+        $scope.inChangingDiapelState = false;
 
-.controller('HistoryDetailCtrl', function($scope, $stateParams, Chats) {
-  $scope.chat = Chats.get($stateParams.chatId);
-});
+        $scope.txtBtn1 = "Click again to record";
+      } else {
+        // set record
+        StorageFactory.setFeeding($scope.feedingAmount);
+        $scope.feedingAmount = 50;
+        $scope.inFeedingState = false;
+        $scope.txtBtn1 = "Feeding Daniel";
+      }
+    }
+  })
+
+  .controller('HistoryCtrl', function ($scope, Chats) {
+    // With the new view caching in Ionic, Controllers are only called
+    // when they are recreated or on app start, instead of every page change.
+    // To listen for when this page is active (for example, to refresh data),
+    // listen for the $ionicView.enter event:
+    //
+    //$scope.$on('$ionicView.enter', function(e) {
+    //});
+
+    $scope.chats = Chats.all();
+    $scope.remove = function (chat) {
+      Chats.remove(chat);
+    };
+  })
+
+  .controller('HistoryDetailCtrl', function ($scope, $stateParams, Chats) {
+    $scope.chat = Chats.get($stateParams.chatId);
+  })
+
+  .factory('StorageFactory', function ($window) {
+    var store = $window.localStorage;
+    return {
+      setFeeding: function(amount){store.setItem(createKey("feeding"), amount);},
+      setChanging: function(amount){store.setItem(createKey("changing"), amount);}
+    };
+
+    function createKey(prefix) {
+      return prefix + Date.now();
+    }
+  });

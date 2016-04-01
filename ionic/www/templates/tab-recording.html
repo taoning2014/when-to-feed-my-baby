@@ -1,21 +1,27 @@
 <ion-view view-title="Recording">
   <ion-content class="padding">
     <h3 align="center">Daniel Makes Us Work Again</h3>
-    <p align="center" ng-show="isFeeding">Recording feeding amount: {{}}</p>
-    <p align="center" ng-show="isChangingDiapel">How wet Diaper is: {{}}</p>
+    <p align="center" ng-show="inFeedingState">Recording feeding amount: {{feedingAmount}} ml</p>
+    <p align="center" ng-show="inChangingDiapelState">How wet Diaper is: {{}}</p>
     <div class="card">
       <div class="row">
         <div class="col">
-          <button class="button button-block button-positive ">
-            Feeding Daniel
+          <button class="button button-block button-positive" ng-click="feeding()">
+            {{txtBtn1}}
           </button>
         </div>
       </div>
       <div class="row">
         <div class="col">
-          <div class="range" ng-show="isFeeding">
+          <div class="range" ng-show="inFeedingState">
             <i class="icon ion-ios-flask-outline"></i>
-            <input type="range" name="volume" ng-disabled="isFeeding">
+            <input type="range"
+                   name="volume"
+                   ng-disabled="!inFeedingState"
+                   ng-model="feedingAmount"
+                   min="10"
+                   max="100"
+                   step="5">
             <i class="icon ion-ios-flask"></i>
           </div>
 
@@ -34,9 +40,9 @@
       </div>
       <div class="row">
         <div class="col">
-          <div class="range" ng-show="isChangingDiapel">
+          <div class="range" ng-show="inChangingDiapelState" ng-click="changing()">
             <i class="icon ion-ios-flask-outline"></i>
-            <input type="range" name="volume"  ng-disabled="isChangingDiapel">
+            <input type="range" name="volume"  ng-disabled="inChangingDiapelState">
             <i class="icon ion-ios-flask"></i>
           </div>
 
