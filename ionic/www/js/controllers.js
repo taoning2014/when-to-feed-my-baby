@@ -1,4 +1,4 @@
-angular.module('starter.controllers', [])
+angular.module('starter.controllers', ['ionic'])
 
   .controller('RecordingCtrl', function ($timeout, StorageFactory) {
     var self = this;
@@ -51,16 +51,18 @@ angular.module('starter.controllers', [])
     }
   })
 
-  .controller('HistoryCtrl', function (StorageFactory) {
+  .controller('HistoryCtrl', function ($scope, $timeout,StorageFactory) {
     var self = this;
+    self.items = StorageFactory.getStorage();
 
-    self.update = function() {
-      console.log("update");
+    self.doRefresh = function() {
+      console.log("doRefresh");
       self.items = StorageFactory.getStorage();
-      console.log(self.items);
+      $timeout(function(){
+        console.log("Done, now broadcasting");
+        $scope.$broadcast('scroll.refreshComplete');
+      },1500)
     }
-
-    self.update();
   })
 
   .factory('StorageFactory', function ($window) {
