@@ -3,13 +3,13 @@
     <button class="button button-small" disabled>
       sort by:
     </button>
-    <button class="button button-small" ng-click="hctrl.sortAll()">
+    <button class="button button-small" ng-click="hctrl.filterBy = ''">
       all
     </button>
-    <button class="button button-small" ng-click="hctrl.sortByFeeding()">
+    <button class="button button-small" ng-click="hctrl.filterBy = 'Dianel got hungry, so we fed him'">
       feeding
     </button>
-    <button class="button button-small" ng-click="hctrl.sortByDiapel()">
+    <button class="button button-small" ng-click="hctrl.filterBy = 'Oops, he do it again, so we dress him a new diaper'">
       diapel
     </button>
   </ion-nav-buttons>
@@ -20,7 +20,7 @@
     <ion-list  ng-repeat="itemArray in hctrl.items" >
       <ion-item
         class="item-remove-animate item-avatar item-icon-right"
-        ng-repeat="item in itemArray  | orderBy:'time'"
+        ng-repeat="item in itemArray | orderBy:'time' | filter: hctrl.filterBy"
         type="item-text-wrap">
         <h2>{{item.type}}</h2>
         <p>{{item.time | date:'medium'}}</p>

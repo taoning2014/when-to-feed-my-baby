@@ -54,8 +54,10 @@ angular.module('starter.controllers', ['ionic'])
   .controller('HistoryCtrl', function ($scope, $timeout,StorageFactory) {
     var self = this;
     self.items = StorageFactory.getStorage();
+    self.filterBy ='Dianel got hungry, so we fed him';
 
     self.doRefresh = function() {
+      console.log(self.filterBy);
       console.log("doRefresh");
       self.items = StorageFactory.getStorage();
       $timeout(function(){
