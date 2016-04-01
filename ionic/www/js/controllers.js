@@ -19,15 +19,15 @@ angular.module('starter.controllers', [])
         self.txtBtn1 = "Click again to record";
       } else {
         // set record
-        StorageFactory.setFeeding(self.feedingAmount);
+        StorageFactory.setStorage(self.feedingAmount, "feeding");
         self.txtBtn1 = "Recording to server...";
         self.disableCard = true;
-        $timeout(function(){
+        $timeout(function () {
           self.txtBtn1 = "Feeding Daniel";
           self.disableCard = false;
           self.inFeedingState = false;
           self.feedingAmount = 50;
-        },1500)
+        }, 1500)
       }
     }
 
@@ -38,46 +38,71 @@ angular.module('starter.controllers', [])
         self.txtBtn2 = "Click again to record";
       } else {
         // set record
-        StorageFactory.setChanging(self.wetPersentage);
+        StorageFactory.setStorage(self.wetPersentage, "changing");
         self.txtBtn2 = "Recording to server...";
         self.disableCard = true;
-        $timeout(function(){
+        $timeout(function () {
           self.txtBtn2 = "Changing Daniel's Diaper";
           self.disableCard = false;
           self.inChangingDiapelState = false;
           self.wetPersentage = 50;
-        },1500)
+        }, 1500)
       }
     }
   })
 
-  .controller('HistoryCtrl', function ($scope, Chats) {
-    // With the new view caching in Ionic, Controllers are only called
-    // when they are recreated or on app start, instead of every page change.
-    // To listen for when this page is active (for example, to refresh data),
-    // listen for the $ionicView.enter event:
-    //
-    //$scope.$on('$ionicView.enter', function(e) {
-    //});
+  .controller('HistoryCtrl', function (StorageFactory) {
+    var self = this;
 
-    $scope.chats = Chats.all();
-    $scope.remove = function (chat) {
-      Chats.remove(chat);
-    };
-  })
+    self.update = function() {
+      console.log("update");
+      self.items = StorageFactory.getStorage();
+      console.log(self.items);
+    }
 
-  .controller('HistoryDetailCtrl', function ($scope, $stateParams, Chats) {
-    $scope.chat = Chats.get($stateParams.chatId);
+    self.update();
   })
 
   .factory('StorageFactory', function ($window) {
     var store = $window.localStorage;
+
     return {
-      setFeeding: function(amount){store.setItem(createKey("feeding"), amount);},
-      setChanging: function(amount){store.setItem(createKey("changing"), amount);}
+      getStorage: getStorage,
+      setStorage: setStorage
     };
 
-    function createKey(prefix) {
-      return prefix + Date.now();
+    // return an obj contains 2 arrays
+    function getStorage() {
+      var feeding = store.getItem("feeding");
+      var changing = store.getItem("changing");
+      return {
+        feedingArray: JSON.parse(feeding),
+        changingArray: JSON.parse(changing)
+      }
     }
+
+    // push data into one array based on the key
+    function setStorage(amountParam, key) {
+      // create an object to push in array in storage
+      var keyStr;
+      if (key === "feeding") {
+        keyStr = "Dianel got hungry, so we fed him";
+      } else {
+        keyStr = "Oops, he do it again, so we dress him a new diaper";
+      }
+      var obj = {
+        type: keyStr,
+        time: Date.now(),
+        amount:amountParam
+      };
+
+      if (!store.getItem(key)) {
+        store.setItem(key, JSON.stringify([obj]));
+      } else {
+        var array = JSON.parse(store.getItem(key));
+        array.push(obj);
+        store.setItem(key, JSON.stringify(array));
+      }
+    }
+
   });

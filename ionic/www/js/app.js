@@ -55,7 +55,7 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
       views: {
         'tab-history': {
           templateUrl: 'templates/tab-history.html',
-          controller: 'HistoryCtrl'
+          controller: 'HistoryCtrl as hctrl'
         }
       }
     })

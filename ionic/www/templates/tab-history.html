@@ -1,13 +1,27 @@
 <ion-view view-title="History">
+  <ion-nav-buttons side="right">
+    <button class="button button-small" disabled>
+      sort by:
+    </button>
+    <button class="button button-small" ng-click="hctrl.sortAll()">
+      all
+    </button>
+    <button class="button button-small" ng-click="hctrl.sortByFeeding()">
+      feeding
+    </button>
+    <button class="button button-small" ng-click="hctrl.sortByDiapel()">
+      diapel
+    </button>
+  </ion-nav-buttons>
+
   <ion-content>
-    <ion-list>
-      <ion-item class="item-remove-animate item-avatar item-icon-right" ng-repeat="chat in chats" type="item-text-wrap" href="#/tab/chats/{{chat.id}}">
-        <img ng-src="{{chat.face}}">
-        <h2>{{chat.name}}</h2>
-        <p>{{chat.lastText}}</p>
+    <ion-list  ng-repeat="itemArray in hctrl.items" >
+      <ion-item class="item-remove-animate item-avatar item-icon-right" ng-repeat="item in itemArray" type="item-text-wrap">
+        <h2>{{item.type}}</h2>
+        <p>{{item.time | date:'medium'}}</p>
         <i class="icon ion-chevron-right icon-accessory"></i>
 
-        <ion-option-button class="button-assertive" ng-click="remove(chat)">
+        <ion-option-button class="button-assertive" ng-click="remove(item)">
           Delete
         </ion-option-button>
       </ion-item>
