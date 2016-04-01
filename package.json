@@ -1,0 +1,35 @@
+{
+  "name": "when-to-feed-my-baby",
+  "version": "0.0.0",
+  "description": "an app as a gift for my baby(xiaoyong)",
+  "main": "index.js",
+  "scripts": {
+    "commit": "git-cz",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taoning2014/when-to-feed-my-baby.git"
+  },
+  "keywords": [
+    "ionic",
+    "express",
+    "xiaoyong",
+    "baby",
+    "love"
+  ],
+  "author": "Tao Ning",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taoning2014/when-to-feed-my-baby/issues"
+  },
+  "homepage": "https://github.com/taoning2014/when-to-feed-my-baby#readme",
+  "devDependencies": {
+    "commitizen": "^2.7.6"
+  },
+  "config": {
+    "commitizen": {
+      "path": "node_modules/cz-conventional-changelog"
+    }
+  }
+}
