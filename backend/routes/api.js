@@ -15,7 +15,9 @@ MongoClient.connect(uristring, function(err, db) {
   console.log("Successfully connected to MongoDB.");
 
   router.get('/api/v1', function(req, res) {
-    res.send('get request for /api/v1');
+    db.collection('daniel').find().toArray(function(err, docs) {
+      res.json(docs);
+    })
   });
 
   router.post('/api/v1', function(req, res) {
