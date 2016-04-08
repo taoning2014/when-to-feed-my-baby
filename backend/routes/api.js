@@ -21,7 +21,14 @@ MongoClient.connect(uristring, function(err, db) {
   });
 
   router.post('/api/v1', function(req, res) {
-    res.send('post request for /api/v1');
+    var obj = req.body;
+    db.collection('daniel').insertOne(obj, function(err) {
+      if (err) {
+        res.send('Insert failed');
+      } else {
+        res.send('Insert success');
+      }
+    });
   });
 });
 
