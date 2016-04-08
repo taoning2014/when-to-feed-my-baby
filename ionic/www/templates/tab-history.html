@@ -14,7 +14,8 @@
     <button class="button button-small" ng-click="hctrl.filterBy = 'Dianel got hungry, so we fed him'">
       feeding
     </button>
-    <button class="button button-small" ng-click="hctrl.filterBy = 'Oops, he do it again, so we dress him a new diaper'">
+    <button class="button button-small"
+            ng-click="hctrl.filterBy = 'Oops, he do it again, so we dress him a new diaper'">
       diapel
     </button>
   </ion-nav-buttons>
@@ -23,7 +24,7 @@
     <p align="left">Hi, Moms pull to refresh</p>
     <ion-refresher pulling-text="Pull to refresh..." on-refresh="hctrl.doRefresh()">
     </ion-refresher>
-    <ion-list  ng-repeat="itemArray in hctrl.items" >
+    <ion-list ng-repeat="itemArray in hctrl.items">
       <ion-item
         class="item-remove-animate item-avatar item-icon-right"
         ng-repeat="item in itemArray | orderBy:'time' | filter: hctrl.filterBy"
