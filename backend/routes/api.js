@@ -10,21 +10,19 @@ var uristring =
   'mongodb://localhost:27017/daniel';
 
 MongoClient.connect(uristring, function(err, db) {
-
   assert.equal(err, null);
-  console.log("Successfully connected to MongoDB.");
+  console.log('Successfully connected to MongoDB.');
 
   router.get('/api/v1', function(req, res) {
     db.collection('daniel').find().toArray(function(err, docs) {
+      assert.equal(err, null);
       res.json(docs);
-    })
+    });
   });
 
   router.post('/api/v1', function(req, res) {
     res.send('post request for /api/v1');
   });
-
-
 });
 
 

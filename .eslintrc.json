@@ -17,6 +17,7 @@
 		"no-console": 0,
 		"func-names": 1,
 		"max-len": [2, 120, 2],
-		"space-before-function-paren": 0
+		"space-before-function-paren": 0,
+    "no-shadow": 1
 	}
 }
