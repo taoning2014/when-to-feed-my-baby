@@ -65,49 +65,5 @@ angular.module('starter.controllers', ['ionic'])
         $scope.$broadcast('scroll.refreshComplete');
       }, 1500);
     };
-  })
-
-  .factory('StorageFactory', function ($window) {
-    var store = $window.localStorage;
-
-    // return an obj contains 2 arrays
-    function getStorage() {
-      var feeding = store.getItem('feeding');
-      var changing = store.getItem('changing');
-      return {
-        feedingArray: JSON.parse(feeding),
-        changingArray: JSON.parse(changing)
-      };
-    }
-
-    // push data into one array based on the key
-    function setStorage(amountParam, key) {
-      // create an object to push in array in storage
-      var keyStr;
-      var array;
-      var obj = {
-        type: keyStr,
-        time: Date.now(),
-        amount: amountParam
-      };
-
-      if (key === 'feeding') {
-        keyStr = 'Dianel got hungry, so we fed him';
-      } else {
-        keyStr = 'Oops, he do it again, so we dress him a new diaper';
-      }
-
-      if (!store.getItem(key)) {
-        store.setItem(key, JSON.stringify([obj]));
-      } else {
-        array = JSON.parse(store.getItem(key));
-        array.push(obj);
-        store.setItem(key, JSON.stringify(array));
-      }
-    }
-
-    return {
-      getStorage: getStorage,
-      setStorage: setStorage
-    };
   });
+

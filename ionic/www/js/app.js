@@ -55,15 +55,6 @@ angular.module('starter', ['ionic', 'ionic.service.core', 'starter.controllers',
             controller: 'HistoryCtrl as hctrl'
           }
         }
-      })
-      .state('tab.chat-detail', {
-        url: '/history/:chatId',
-        views: {
-          'tab-history': {
-            templateUrl: 'templates/chat-detail.html',
-            controller: 'HistoryDetailCtrl'
-          }
-        }
       });
 
     // if none of the above states are matched, use this as the fallback
