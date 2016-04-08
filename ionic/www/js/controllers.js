@@ -2,6 +2,7 @@ angular.module('starter.controllers', ['ionic'])
 
   .controller('RecordingCtrl', function($timeout, StorageFactory) {
     var self = this;
+    //console.log('Data: ', data);
     // properties to card 1
     self.inFeedingState = false;
     self.txtBtn1 = 'Feeding Daniel';
@@ -51,16 +52,14 @@ angular.module('starter.controllers', ['ionic'])
     };
   })
 
-  .controller('HistoryCtrl', function($scope, $timeout, DataFactory) {
+  .controller('HistoryCtrl', function($scope, $timeout, DataFactory, data) {
     var self = this;
     self.filterBy = '';
+    self.items = data;
 
     self.doRefresh = function() {
-      console.log(self.filterBy);
-      console.log('doRefresh');
       self.items = DataFactory.getData();
       $timeout(function() {
-        console.log('Done, now broadcasting');
         $scope.$broadcast('scroll.refreshComplete');
       }, 1500);
     };

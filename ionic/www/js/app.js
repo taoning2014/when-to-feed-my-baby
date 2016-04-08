@@ -38,10 +38,6 @@ angular.module('starter', ['ionic', 'ionic.service.core', 'starter.controllers',
       // Each tab has its own nav history stack:
 
       .state('tab.recording', {
-        // TODO: add refresh in next commit
-        // resolve: {
-        //
-        // },
         url: '/recording',
         views: {
           'tab-recording': {
@@ -52,6 +48,12 @@ angular.module('starter', ['ionic', 'ionic.service.core', 'starter.controllers',
       })
 
       .state('tab.history', {
+        // get data before load this page
+        resolve: {
+          data: function(DataFactory) {
+            return DataFactory.getData();
+          }
+        },
         url: '/history',
         views: {
           'tab-history': {
