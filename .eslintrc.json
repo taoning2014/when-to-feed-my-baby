@@ -8,11 +8,14 @@
   "globals": {
     "angular": true,
     "module": true,
-    "inject": true
+    "inject": true,
+		"cordova": true,
+		"StatusBar": true
   },
   "rules": {
     "new-cap": 1,
     "no-console": 0,
-    "func-names": 1
+    "func-names": 1,
+		"max-len": [2, 120, 2]
   }
 }
