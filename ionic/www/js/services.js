@@ -49,10 +49,13 @@ angular.module('starter.services', [])
 
   // this factory get data from local storage and server
   // merge duplicate data then sort before serve to controller
-  .factory('DataFactory', function(StorageFactory) {
+  .factory('DataFactory', function(StorageFactory, $http) {
     function getData() {
-      // Todo, add fetch server login here later
-      return StorageFactory.getStorage();
+      // Todo, fetch server data
+      $http.get('http://localhost:3000/api/v1').then(function(result) {
+        console.log('get data: ', result.data);
+        return StorageFactory.getStorage();
+      });
     }
 
     return {
