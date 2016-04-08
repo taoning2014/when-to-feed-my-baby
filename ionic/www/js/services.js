@@ -1,6 +1,6 @@
 angular.module('starter.services', [])
 
-  .factory('StorageFactory', function ($window) {
+  .factory('StorageFactory', function($window) {
     var store = $window.localStorage;
 
     // return an obj contains 2 arrays
