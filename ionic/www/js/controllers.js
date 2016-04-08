@@ -51,15 +51,14 @@ angular.module('starter.controllers', ['ionic'])
     };
   })
 
-  .controller('HistoryCtrl', function($scope, $timeout, StorageFactory) {
+  .controller('HistoryCtrl', function($scope, $timeout, DataFactory) {
     var self = this;
-    self.items = StorageFactory.getStorage();
     self.filterBy = '';
 
     self.doRefresh = function() {
       console.log(self.filterBy);
       console.log('doRefresh');
-      self.items = StorageFactory.getStorage();
+      self.items = DataFactory.getData();
       $timeout(function() {
         console.log('Done, now broadcasting');
         $scope.$broadcast('scroll.refreshComplete');

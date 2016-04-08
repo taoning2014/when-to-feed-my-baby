@@ -45,4 +45,17 @@ angular.module('starter.services', [])
       getStorage: getStorage,
       setStorage: setStorage
     };
+  })
+
+  // this factory get data from local storage and server
+  // merge duplicate data then sort before serve to controller
+  .factory('DataFactory', function(StorageFactory) {
+    function getData() {
+      // Todo, add fetch server login here later
+      return StorageFactory.getStorage();
+    }
+
+    return {
+      getData: getData
+    };
   });
