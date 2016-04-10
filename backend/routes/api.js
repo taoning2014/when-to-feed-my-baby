@@ -30,6 +30,16 @@ MongoClient.connect(uristring, function(err, db) {
       }
     });
   });
+
+  router.delete('/api/v1', function(req, res) {
+    db.collection('daniel').remove(function(err) {
+      if (err) {
+        res.send('Remove failed');
+      } else {
+        res.send('Remove success');
+      }
+    });
+  });
 });
 
 
