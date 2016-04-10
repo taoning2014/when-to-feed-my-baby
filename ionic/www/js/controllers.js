@@ -1,8 +1,8 @@
 angular.module('starter.controllers', ['ionic'])
 
-  .controller('RecordingCtrl', function($timeout, StorageFactory) {
+  .controller('RecordingCtrl', function($timeout, LocalStorageFactory) {
     var self = this;
-    //console.log('Data: ', data);
+    // console.log('Data: ', data);
     // properties to card 1
     self.inFeedingState = false;
     self.txtBtn1 = 'Feeding Daniel';
@@ -20,7 +20,7 @@ angular.module('starter.controllers', ['ionic'])
         self.txtBtn1 = 'Click again to record';
       } else {
         // set record
-        StorageFactory.setStorage(self.feedingAmount, 'feeding');
+        LocalStorageFactory.setStorage(self.feedingAmount, 'feeding');
         self.txtBtn1 = 'Recording to server...';
         self.disableCard = true;
         $timeout(function() {
@@ -39,7 +39,7 @@ angular.module('starter.controllers', ['ionic'])
         self.txtBtn2 = 'Click again to record';
       } else {
         // set record
-        StorageFactory.setStorage(self.wetPersentage, 'changing');
+        LocalStorageFactory.setStorage(self.wetPersentage, 'changing');
         self.txtBtn2 = 'Recording to server...';
         self.disableCard = true;
         $timeout(function() {
@@ -52,10 +52,13 @@ angular.module('starter.controllers', ['ionic'])
     };
   })
 
-  .controller('HistoryCtrl', function($scope, $timeout, DataFactory, data) {
+  .controller('HistoryCtrl', function($scope, $timeout, LocalStorageFactory, DataFactory, data) {
     var self = this;
     self.filterBy = '';
     self.items = data;
+    self.clear = function() {
+      LocalStorageFactory.clearStorage();
+    }
     // console.log('data: ', data);
     self.doRefresh = function() {
       // console.log('data1: ', data);

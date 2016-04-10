@@ -1,6 +1,6 @@
 angular.module('starter.services', [])
 
-  .factory('StorageFactory', function($window) {
+  .factory('LocalStorageFactory', function($window) {
     var store = $window.localStorage;
 
     // return an obj contains 2 arrays
@@ -41,20 +41,27 @@ angular.module('starter.services', [])
       }
     }
 
+    // clear data store in local storage
+    function clearStorage() {
+      store.setItem('feeding', '[]');
+      store.setItem('changing', '[]');
+    }
+
     return {
       getStorage: getStorage,
-      setStorage: setStorage
+      setStorage: setStorage,
+      clearStorage: clearStorage
     };
   })
 
   // this factory get data from local storage and server
   // merge duplicate data then sort before serve to controller
-  .factory('DataFactory', function(StorageFactory, $http) {
+  .factory('DataFactory', function(LocalStorageFactory, $http) {
     function getData(cb) {
       // Todo, merge local and server data together
       return $http.get('http://localhost:3000/api/v1').then(function(result) {
         var dbData = result.data;
-        var storageData = StorageFactory.getStorage();
+        var storageData = LocalStorageFactory.getStorage();
         var itemArray = Array.prototype.concat.apply([], dbData);
         // console.log('itemArray: ', itemArray);
         itemArray = Array.prototype.concat.apply(itemArray, storageData.changingArray, storageData.feedingArray);
@@ -64,6 +71,7 @@ angular.module('starter.services', [])
         } else {
           return itemArray;
         }
+        return -1;
       });
     }
 
