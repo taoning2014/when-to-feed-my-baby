@@ -56,11 +56,15 @@ angular.module('starter.controllers', ['ionic'])
     var self = this;
     self.filterBy = '';
     self.items = data;
-
+    // console.log('data: ', data);
     self.doRefresh = function() {
-      self.items = DataFactory.getData();
-      $timeout(function() {
-        $scope.$broadcast('scroll.refreshComplete');
-      }, 1500);
+      // console.log('data1: ', data);
+      DataFactory.getData(function(data) {
+        self.items = data;
+        // console.log('data: ', self.items);
+        $timeout(function() {
+          $scope.$broadcast('scroll.refreshComplete');
+        }, 1500);
+      });
     };
   });

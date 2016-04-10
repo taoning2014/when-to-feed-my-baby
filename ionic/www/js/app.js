@@ -51,7 +51,7 @@ angular.module('starter', ['ionic', 'ionic.service.core', 'starter.controllers',
         // get data before load this page
         resolve: {
           data: function(DataFactory) {
-            return DataFactory.getData();
+            return DataFactory.getData(null);
           }
         },
         url: '/history',

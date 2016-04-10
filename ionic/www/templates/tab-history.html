@@ -24,10 +24,10 @@
     <p align="left">Hi, Moms pull to refresh</p>
     <ion-refresher pulling-text="Pull to refresh..." on-refresh="hctrl.doRefresh()">
     </ion-refresher>
-    <ion-list ng-repeat="itemArray in hctrl.items">
+    <ion-list>
       <ion-item
         class="item-remove-animate item-avatar item-icon-right"
-        ng-repeat="item in itemArray | orderBy:'time' | filter: hctrl.filterBy"
+        ng-repeat="item in hctrl.items | orderBy:'time' | filter: hctrl.filterBy"
         type="item-text-wrap">
         <h2>{{item.type}}</h2>
         <p>{{item.time | date:'medium'}}</p>
