@@ -64,7 +64,8 @@ angular.module('starter.services', [])
         var storageData = LocalStorageFactory.getStorage();
         var itemArray = Array.prototype.concat.apply([], dbData);
         // console.log('itemArray: ', itemArray);
-        itemArray = Array.prototype.concat.apply(itemArray, storageData.changingArray, storageData.feedingArray);
+        itemArray = Array.prototype.concat.apply(itemArray, storageData.changingArray);
+        itemArray = Array.prototype.concat.apply(itemArray, storageData.feedingArray);
         // console.log('concat: ', itemArray);
         if (typeof cb === 'function') {
           cb(itemArray);
