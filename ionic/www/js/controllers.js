@@ -29,6 +29,7 @@ angular.module('starter.controllers', ['ionic'])
         self.inFeedingState = true;
         self.inChangingDiapelState = false;
         self.txtBtn1 = 'Click again to record';
+        self.txtBtn2 = 'Changing Daniel\'s Diaper';
       } else {
         obj = createObj('feeding', self.feedingAmount);
         console.log('Test feeding amount: ', obj);
@@ -50,6 +51,7 @@ angular.module('starter.controllers', ['ionic'])
       if (!self.inChangingDiapelState) {
         self.inFeedingState = false;
         self.inChangingDiapelState = true;
+        self.txtBtn1 = 'Feeding Daniel';
         self.txtBtn2 = 'Click again to record';
       } else {
         obj = createObj('changing', self.wetPersentage);
