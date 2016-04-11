@@ -69,13 +69,18 @@ angular.module('starter.controllers', ['ionic'])
     };
   })
 
-  .controller('HistoryCtrl', function($scope, $timeout, LocalStorageFactory, DataFactory, data) {
+  .controller('HistoryCtrl', function($scope, $timeout, LocalStorageFactory, ServerStorageFactory, DataFactory, data) {
     var self = this;
     self.filterBy = '';
     self.items = data;
     self.clear = function() {
       LocalStorageFactory.clearStorage();
-    }
+      ServerStorageFactory.clearStorage(function() {
+        DataFactory.getData(function(data) {
+          self.items = data;
+        });
+      });
+    };
     // console.log('data: ', data);
     self.doRefresh = function() {
       // console.log('data1: ', data);
