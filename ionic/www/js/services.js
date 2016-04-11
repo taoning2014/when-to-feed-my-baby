@@ -53,6 +53,7 @@ angular.module('starter.services', [])
     }
 
     function setStorage(obj) {
+      obj._id = obj.time;
       return $http.post('http://localhost:3000/api/v1', obj);
     }
 
