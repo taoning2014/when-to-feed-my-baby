@@ -101,4 +101,18 @@ angular.module('starter.services', [])
     return {
       getData: getData
     };
+  })
+
+  // utility functions
+  .factory('UtilityFactory', function() {
+    function createObj(keyStr, amountNum) {
+      return {
+        type: keyStr,
+        time: Date.now(),
+        amount: amountNum
+      };
+    }
+    return {
+      createObj: createObj
+    };
   });

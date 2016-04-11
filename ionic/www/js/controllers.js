@@ -1,16 +1,6 @@
-// TODO: put this utility function into a module
-// use gulp andbrowserify to convert it
-function createObj(keyStr, amountNum) {
-  return {
-    type: keyStr,
-    time: Date.now(),
-    amount: amountNum
-  };
-}
-
 angular.module('starter.controllers', ['ionic'])
 
-  .controller('RecordingCtrl', function($timeout, LocalStorageFactory, ServerStorageFactory) {
+  .controller('RecordingCtrl', function($timeout, UtilityFactory, LocalStorageFactory, ServerStorageFactory) {
     var self = this;
     var obj;
       // console.log('Data: ', data);
@@ -31,8 +21,8 @@ angular.module('starter.controllers', ['ionic'])
         self.txtBtn1 = 'Click again to record';
         self.txtBtn2 = 'Changing Daniel\'s Diaper';
       } else {
-        obj = createObj('feeding', self.feedingAmount);
-        console.log('Test feeding amount: ', obj);
+        obj = UtilityFactory.createObj('feeding', self.feedingAmount);
+        // console.log('Test feeding amount: ', obj);
         // set record
         LocalStorageFactory.setStorage(obj);
         ServerStorageFactory.setStorage(obj);
@@ -54,8 +44,8 @@ angular.module('starter.controllers', ['ionic'])
         self.txtBtn1 = 'Feeding Daniel';
         self.txtBtn2 = 'Click again to record';
       } else {
-        obj = createObj('changing', self.wetPersentage);
-        console.log('Test changing amount: ', obj);
+        obj = UtilityFactory.createObj('changing', self.wetPersentage);
+        // console.log('Test changing amount: ', obj);
         // set record
         LocalStorageFactory.setStorage(obj);
         ServerStorageFactory.setStorage(obj);
@@ -71,15 +61,17 @@ angular.module('starter.controllers', ['ionic'])
     };
   })
 
-  .controller('HistoryCtrl', function($scope, $timeout, LocalStorageFactory, ServerStorageFactory, DataFactory, data) {
+  .controller('HistoryCtrl', function($scope, $timeout, LocalStorageFactory,
+                                      ServerStorageFactory, DataFactory, data,
+                                      describedFilter) {
     var self = this;
     self.filterBy = '';
-    self.items = data;
+    self.items = describedFilter(data);
     self.clear = function() {
       LocalStorageFactory.clearStorage();
       ServerStorageFactory.clearStorage(function() {
         DataFactory.getData(function(data) {
-          self.items = data;
+          self.items = describedFilter(data);
         });
       });
     };
@@ -87,7 +79,7 @@ angular.module('starter.controllers', ['ionic'])
     self.doRefresh = function() {
       // console.log('data1: ', data);
       DataFactory.getData(function(data) {
-        self.items = data;
+        self.items = describedFilter(data);
         // console.log('data: ', self.items);
         $timeout(function() {
           $scope.$broadcast('scroll.refreshComplete');
