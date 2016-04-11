@@ -14,21 +14,14 @@ angular.module('starter.services', [])
     }
 
     // push data into one array based on the key
-    function setStorage(amountParam, key) {
-      // create an object to push in array in storage
-      var keyStr;
+    function setStorage(obj) {
+      var key = obj.type;
       var array;
-      var obj = {
-        type: keyStr,
-        time: Date.now(),
-        amount: amountParam
-      };
-
-      if (key === 'feeding') {
-        obj.type = 'Dianel got hungry, so we fed him';
-      } else {
-        obj.type = 'Oops, he do it again, so we dress him a new diaper';
-      }
+      // if (obj.key === 'feeding') {
+      //   obj.type = 'Dianel got hungry, so we fed him';
+      // } else {
+      //   obj.type = 'Oops, he do it again, so we dress him a new diaper';
+      // }
 
       if (!store.getItem(key)) {
         store.setItem(key, JSON.stringify([obj]));
@@ -45,6 +38,26 @@ angular.module('starter.services', [])
     function clearStorage() {
       store.setItem('feeding', '[]');
       store.setItem('changing', '[]');
+    }
+
+    return {
+      getStorage: getStorage,
+      setStorage: setStorage,
+      clearStorage: clearStorage
+    };
+  })
+
+  .factory('ServerStorageFactory', function($http) {
+    function getStorage() {
+      return $http.get('http://localhost:3000/api/v1');
+    }
+
+    function setStorage(obj) {
+      return $http.post('http://localhost:3000/api/v1', obj);
+    }
+
+    function clearStorage(cb) {
+      return $http.delete('http://localhost:3000/api/v1').then(cb);
     }
 
     return {

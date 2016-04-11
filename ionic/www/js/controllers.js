@@ -1,8 +1,19 @@
+// TODO: put this utility function into a module
+// use gulp andbrowserify to convert it
+function createObj(keyStr, amountNum) {
+  return {
+    type: keyStr,
+    time: Date.now(),
+    amount: amountNum
+  };
+}
+
 angular.module('starter.controllers', ['ionic'])
 
-  .controller('RecordingCtrl', function($timeout, LocalStorageFactory) {
+  .controller('RecordingCtrl', function($timeout, LocalStorageFactory, ServerStorageFactory) {
     var self = this;
-    // console.log('Data: ', data);
+    var obj;
+      // console.log('Data: ', data);
     // properties to card 1
     self.inFeedingState = false;
     self.txtBtn1 = 'Feeding Daniel';
@@ -19,8 +30,11 @@ angular.module('starter.controllers', ['ionic'])
         self.inChangingDiapelState = false;
         self.txtBtn1 = 'Click again to record';
       } else {
+        obj = createObj('feeding', self.feedingAmount);
+        console.log('Test feeding amount: ', obj);
         // set record
-        LocalStorageFactory.setStorage(self.feedingAmount, 'feeding');
+        LocalStorageFactory.setStorage(obj);
+        ServerStorageFactory.setStorage(obj);
         self.txtBtn1 = 'Recording to server...';
         self.disableCard = true;
         $timeout(function() {
@@ -38,8 +52,11 @@ angular.module('starter.controllers', ['ionic'])
         self.inChangingDiapelState = true;
         self.txtBtn2 = 'Click again to record';
       } else {
+        obj = createObj('changing', self.wetPersentage);
+        console.log('Test changing amount: ', obj);
         // set record
-        LocalStorageFactory.setStorage(self.wetPersentage, 'changing');
+        LocalStorageFactory.setStorage(obj);
+        ServerStorageFactory.setStorage(obj);
         self.txtBtn2 = 'Recording to server...';
         self.disableCard = true;
         $timeout(function() {
