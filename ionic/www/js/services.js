@@ -74,6 +74,7 @@ angular.module('starter.services', [])
     function getData(cb) {
       // Todo, merge local and server data together
       return $http.get('http://localhost:3000/api/v1').then(function(result) {
+        var removeDuplicate;
         var dbData = result.data;
         var storageData = LocalStorageFactory.getStorage();
         var itemArray = Array.prototype.concat.apply([], dbData);
@@ -81,10 +82,17 @@ angular.module('starter.services', [])
         itemArray = Array.prototype.concat.apply(itemArray, storageData.changingArray);
         itemArray = Array.prototype.concat.apply(itemArray, storageData.feedingArray);
         // console.log('concat: ', itemArray);
+        // remove duplicate elements
+        removeDuplicate = itemArray.sort(function(item1, item2) {
+          return item1.time - item2.time;
+        }).filter(function(item, pos, array) {
+          return !pos || item.time !== array[pos - 1].time;
+        });
+        console.log(removeDuplicate);
         if (typeof cb === 'function') {
-          cb(itemArray);
+          cb(removeDuplicate);
         } else {
-          return itemArray;
+          return removeDuplicate;
         }
         return -1;
       });
