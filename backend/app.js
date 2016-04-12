@@ -8,6 +8,7 @@ var home = require('./routes/index');
 var api = require('./routes/api');
 // packages I added
 var cors = require('cors');
+var errorhandler = require('errorhandler');
 
 var app = express();
 
@@ -39,13 +40,7 @@ app.use(function(req, res) {
 // development error handler
 // will print stacktrace
 if (app.get('env') === 'development') {
-  app.use(function(err, req, res, next) {
-    res.status(err.status || 500);
-    res.render('error', {
-      message: err.message,
-      error: err
-    });
-  });
+  app.use(errorhandler());
 }
 
 // production error handler

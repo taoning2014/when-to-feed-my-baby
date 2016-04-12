@@ -26,6 +26,7 @@
   "homepage": "https://github.com/taoning2014/when-to-feed-my-baby#readme",
   "devDependencies": {
     "commitizen": "^2.7.6",
+    "errorhandler": "^1.4.3",
     "eslint": "^2.5.3",
     "eslint-config-airbnb": "^6.2.0",
     "eslint-plugin-angular": "^1.0.0"
