@@ -32,9 +32,9 @@
         class="item-remove-animate item-avatar item-icon-right"
         ng-repeat="item in hctrl.items | orderBy:'time' | filter: hctrl.filterBy"
         type="item-text-wrap">
+        <img ng-src="img/{{item.img}}">
         <h2>{{item.type}}</h2>
         <p>{{item.time | date:'medium'}}</p>
-        <i class="icon ion-chevron-right icon-accessory"></i>
 
         <ion-option-button class="button-assertive" ng-click="remove(item)">
           Delete

@@ -106,8 +106,11 @@ angular.module('starter.services', [])
   // utility functions
   .factory('UtilityFactory', function() {
     function createObj(keyStr, amountNum) {
+      var imgUrl = keyStr + '.png'
       return {
+        _id: Date.now(),
         type: keyStr,
+        img: imgUrl,
         time: Date.now(),
         amount: amountNum
       };
