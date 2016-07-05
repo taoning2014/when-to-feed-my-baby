@@ -119,8 +119,10 @@ angular.module('starter.services', [])
 
     // remove duplicate elements
     return itemArray
-      .sort((item1, item2) => item1.time - item2.time)
-      .filter((item, pos, array) => !pos || item.time !== array[pos - 1].time);
+      .sort(function(item1, item2) {
+        return item1.time - item2.time })
+      .filter(function(item, pos, array) {
+        return !pos || item.time !== array[pos - 1].time });
   }
 
   return {
