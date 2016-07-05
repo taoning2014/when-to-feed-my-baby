@@ -47,17 +47,19 @@ angular.module('starter.services', [])
   };
 })
 
-.factory('ServerStorageFactory', function($http) {
+.factory('ServerStorageFactory', function(UtilityFactory, $http) {
   function getStorage() {
-    return $http.get('http://localhost:3000/api/v1');
+    console.log('Debug: ');
+    console.log(UtilityFactory.herokuURL);
+    return $http.get(UtilityFactory.herokuURL);
   }
 
   function setStorage(obj) {
-    return $http.post('http://localhost:3000/api/v1', obj);
+    return $http.post(UtilityFactory.herokuURL, obj);
   }
 
   function clearStorage(cb) {
-    return $http.delete('http://localhost:3000/api/v1').then(cb);
+    return $http.delete(UtilityFactory.herokuURL).then(cb);
   }
 
   return {
@@ -72,7 +74,8 @@ angular.module('starter.services', [])
 .factory('DataFactory', function(LocalStorageFactory, UtilityFactory, $http) {
   function getData(cb) {
     // Todo, merge local and server data together
-    return $http.get('http://localhost:3000/api/v1').then(function(result) {
+    console.log(UtilityFactory.herokuURL);
+    return $http.get(UtilityFactory.herokuURL).then(function(result) {
       var removeDuplicate;
       var dbData = result.data;
       var storageData = LocalStorageFactory.getStorage();
@@ -122,6 +125,8 @@ angular.module('starter.services', [])
 
   return {
     createObj: createObj,
-    merge: merge
+    merge: merge,
+    localURL: 'http://localhost:3000/api/v1',
+    herokuURL: 'https://lychee-pudding-45780.herokuapp.com/api/v1'
   };
 });
