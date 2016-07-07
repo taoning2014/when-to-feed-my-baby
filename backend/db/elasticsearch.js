@@ -12,7 +12,6 @@ var elasticClient = new elasticsearch.Client({
 
 var indexName = 'daniel';
 
-
 // Delete an existing index
 function deleteIndex() {
   return elasticClient.indices.delete({
@@ -40,8 +39,8 @@ function initMapping() {
     type: 'document',
     body: {
       properties: {
-        title: {type: 'string'},
-        content: {type: 'string'}
+        title: { type: 'string' },
+        content: { type: 'string' }
       }
     }
   });
@@ -59,8 +58,26 @@ function addDocument(document) {
   });
 }
 
+function searchDocument() {
+  return elasticClient.search({
+    index: indexName,
+    type: 'document',
+    match_all: {}
+  });
+}
+
+function deleteDocument() {
+  return elasticClient.delete({
+    index: indexName,
+    type: 'document',
+    match_all: {}
+  });
+}
+
 exports.indexExists = indexExists;
 exports.deleteIndex = deleteIndex;
 exports.initIndex = initIndex;
 exports.initMapping = initMapping;
 exports.addDocument = addDocument;
+exports.searchDocument = searchDocument;
+exports.deleteDocument = deleteDocument;
