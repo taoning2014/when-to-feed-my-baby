@@ -5,7 +5,7 @@ var router = express.Router();
 // init db if index not exist
 elastic.indexExists().then(function (exists) {
   if (exists) {
-    console.log('index exist');
+    console.log('index exist, don\'t load init data');
     return;
   } else {
     elastic
