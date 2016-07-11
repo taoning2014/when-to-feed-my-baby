@@ -17,6 +17,7 @@ function deleteIndex() {
 
 // create the index
 function initIndex() {
+  console.log('call initIndex');
   return elasticClient.indices.create({
     index: indexName
   });
@@ -30,6 +31,7 @@ function indexExists() {
 }
 
 function initMapping() {
+  console.log('call initMapping');
   return elasticClient.indices.putMapping({
     index: indexName,
     type: 'document',
@@ -37,6 +39,7 @@ function initMapping() {
       properties: {
         date: { type: 'string' },
         time: { type: 'string' },
+        dateAndTime: { type: 'date' },
         feeding: { type: 'string' },
         pee: { type: 'string' },
         poop: { type: 'string' }
@@ -52,6 +55,7 @@ function addDocument(document) {
     body: {
       date: document.date,
       time: document.time,
+      dateAndTime: document.dateAndTime,
       title: document.title,
       feeding: document.feeding,
       pee: document.pee,

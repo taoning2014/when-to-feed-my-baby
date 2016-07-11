@@ -10,12 +10,14 @@ elastic.indexExists().then(function (exists) {
   } else {
     elastic
       .initIndex()
-      .then(elastic.initMapping)
+      .then(elastic.initMapping())
       .then(function () {
-        require('../db/initData').data
-          .map(function (dataObj) {
-            return elastic.addDocument(dataObj);
-          });
+        console.log('Debug: ');
+        var test = require('../db/initData.js');
+        console.log(test);
+        test.map(function (dataObj) {
+          return elastic.addDocument(dataObj);
+        });
         console.log('init data load success');
       });
   }

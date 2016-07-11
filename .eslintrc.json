@@ -19,6 +19,8 @@
 		"max-len": [2, 120, 2],
 		"space-before-function-paren": 0,
     "no-shadow": 1,
-    "no-param-reassign": 1
+    "no-param-reassign": 1,
+    "quotes": 0,
+    "quote-props": 0
 	}
 }
