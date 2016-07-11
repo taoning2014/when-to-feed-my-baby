@@ -35,8 +35,11 @@ function initMapping() {
     type: 'document',
     body: {
       properties: {
-        title: { type: 'string' },
-        content: { type: 'string' }
+        date: { type: 'string' },
+        time: { type: 'string' },
+        feeding: { type: 'string' },
+        pee: { type: 'string' },
+        poop: { type: 'string' }
       }
     }
   });
@@ -47,8 +50,12 @@ function addDocument(document) {
     index: indexName,
     type: 'document',
     body: {
+      date: document.date,
+      time: document.time,
       title: document.title,
-      content: document.content
+      feeding: document.feeding,
+      pee: document.pee,
+      poop: document.poop
     }
   });
 }
