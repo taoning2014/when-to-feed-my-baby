@@ -1,7 +1,36 @@
 var express = require('express');
 var elastic = require('../db/elasticsearch');
-
 var router = express.Router();
+
+//router.get('/api/v1', function (req, res) {
+//  elastic.indexExists().then(function (exists) {
+//    if (exists) {
+//      res.json(elastic)
+//    }
+//  });
+//});
+
+router.get('/api/v1', function (req, res) {
+  console.log('Got get request');
+  elastic.searchDocument().then(function(data) {
+    res.json(data);
+  });
+});
+
+router.post('/api/v1', function (req, res) {
+  console.log('Got post request');
+  console.log(req.body);
+  elastic.addDocument(req.body).then(function() {
+    res.end('add success!');
+  });
+});
+
+router.delete('/api/v1', function (req, res) {
+  elastic.deleteDocument().then(function() {
+    res.end('delete success!');
+  });
+});
+
 // rewrite the following 2 apis to use es
 //MongoClient.connect(uristring, function(err, db) {
 //  assert.equal(err, null);
@@ -71,9 +100,9 @@ var router = express.Router();
 //  console.log(hits);
 //});
 
-elastic.deleteDocument().then(function (resp) {
-  console.log('in deleteDocument');
-  console.log(resp);
-});
+//elastic.deleteDocument().then(function (resp) {
+//  console.log('in deleteDocument');
+//  console.log(resp);
+//});
 
 module.exports = router;

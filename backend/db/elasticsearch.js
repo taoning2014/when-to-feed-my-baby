@@ -1,16 +1,12 @@
 // got code from https://github.com/RaananW/express.js-elasticsearch-autocomplete-demo
 
 var elasticsearch = require('elasticsearch');
-var URL_STRING =
-  process.env.TOBE_ES ||
-  'localhost:9200';
-
+var URL_STRING = process.env.TOBE_ES || 'localhost:9200';
+var indexName = 'daniel';
 var elasticClient = new elasticsearch.Client({
   host: URL_STRING,
   log: 'info'
 });
-
-var indexName = 'daniel';
 
 // Delete an existing index
 function deleteIndex() {
@@ -46,7 +42,6 @@ function initMapping() {
   });
 }
 
-
 function addDocument(document) {
   return elasticClient.index({
     index: indexName,
@@ -61,16 +56,13 @@ function addDocument(document) {
 function searchDocument() {
   return elasticClient.search({
     index: indexName,
-    type: 'document',
-    match_all: {}
+    type: 'document'
   });
 }
 
 function deleteDocument() {
-  return elasticClient.delete({
-    index: indexName,
-    type: 'document',
-    match_all: {}
+  return elasticClient.indices.delete({
+    index: indexName
   });
 }
 
