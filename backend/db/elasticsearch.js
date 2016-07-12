@@ -38,6 +38,7 @@ function initMapping() {
     body: {
       properties: {
         date: {type: 'date'},
+        hour: {type: 'integer'},
         feeding: {type: 'integer'},
         changing: {type: 'integer'}
       }
@@ -51,6 +52,7 @@ function addDocument(document) {
     type: 'document',
     body: {
       date: document.date,
+      hour: document.hour,
       feeding: document.feeding,
       changing: document.changing
     }
