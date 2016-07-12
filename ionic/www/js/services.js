@@ -68,14 +68,6 @@ angular.module('starter.services', [])
   // merge duplicate data then sort before serve to controller
   .factory('DataFactory', function (LocalStorageFactory, UtilityFactory, $http) {
     function getData(cb) {
-      //var storageData = LocalStorageFactory.getStorage();
-      //var removeDuplicate = UtilityFactory.merge(null, storageData);
-      //if (typeof cb === 'function') {
-      //  cb(removeDuplicate);
-      //} else {
-      //  return removeDuplicate;
-      //}
-
       return $http.get(UtilityFactory.backendAPIURL).then(function (result) {
         var removeDuplicate;
         var dbData = result.data;
@@ -102,7 +94,7 @@ angular.module('starter.services', [])
   .factory('UtilityFactory', function () {
     function createObj(keyStr, amountNum) {
       var newObj = {
-        date: Date.now(),
+        date: (new Date()).toISOString(),
         feeding: 0,
         changing: 0
       };
