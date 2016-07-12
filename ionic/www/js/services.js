@@ -68,31 +68,29 @@ angular.module('starter.services', [])
   // merge duplicate data then sort before serve to controller
   .factory('DataFactory', function (LocalStorageFactory, UtilityFactory, $http) {
     function getData(cb) {
-      var storageData = LocalStorageFactory.getStorage();
-      var removeDuplicate = UtilityFactory.merge(null, storageData);
-      if (typeof cb === 'function') {
-        cb(removeDuplicate);
-      } else {
-        return removeDuplicate;
-      }
+      //var storageData = LocalStorageFactory.getStorage();
+      //var removeDuplicate = UtilityFactory.merge(null, storageData);
+      //if (typeof cb === 'function') {
+      //  cb(removeDuplicate);
+      //} else {
+      //  return removeDuplicate;
+      //}
 
-      //console.log(UtilityFactory.backendAPIURL);
-      //return $http.get(UtilityFactory.backendAPIURL).then(function (result) {
-      //  var removeDuplicate;
-      //  var dbData = result.data;
-      //  var storageData = LocalStorageFactory.getStorage();
-      //  // merge local and db
-      //  removeDuplicate = UtilityFactory.merge(dbData, storageData);
-      //  console.log('debug remove: ');
-      //  console.log(removeDuplicate);
-      //
-      //  if (typeof cb === 'function') {
-      //    cb(removeDuplicate);
-      //  } else {
-      //    return removeDuplicate;
-      //  }
-      //  return -1;
-      //});
+      return $http.get(UtilityFactory.backendAPIURL).then(function (result) {
+        var removeDuplicate;
+        var dbData = result.data;
+        var storageData = LocalStorageFactory.getStorage();
+        // merge local and db
+        removeDuplicate = UtilityFactory.merge(dbData, storageData);
+        console.log('debug remove: ');
+        console.log(removeDuplicate);
+        if (typeof cb === 'function') {
+          cb(removeDuplicate);
+        } else {
+          return removeDuplicate;
+        }
+        return -1;
+      });
     }
 
     return {

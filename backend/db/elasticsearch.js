@@ -60,7 +60,8 @@ function addDocument(document) {
 function searchDocument() {
   return elasticClient.search({
     index: indexName,
-    type: 'document'
+    type: 'document',
+    _source: true
   });
 }
 
