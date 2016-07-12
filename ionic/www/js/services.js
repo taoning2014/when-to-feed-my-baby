@@ -67,7 +67,12 @@ angular.module('starter.services', [])
   .factory('DataFactory', function (LocalStorageFactory, UtilityFactory, $http) {
     function getData(cb) {
       var storageData = LocalStorageFactory.getStorage();
-
+      var removeDuplicate = UtilityFactory.merge(null, storageData);
+      if (typeof cb === 'function') {
+        cb(removeDuplicate);
+      } else {
+        return removeDuplicate;
+      }
 
       //console.log(UtilityFactory.herokuURL);
       //return $http.get(UtilityFactory.herokuURL).then(function (result) {
@@ -125,10 +130,10 @@ angular.module('starter.services', [])
       // remove duplicate elements
       return itemArray
         .sort(function (item1, item2) {
-          return item1.time - item2.time
+          return item1.date - item2.date;
         })
         .filter(function (item, pos, array) {
-          return !pos || item.time !== array[pos - 1].time
+          return !pos || item.date !== array[pos - 1].date;
         });
     }
 
