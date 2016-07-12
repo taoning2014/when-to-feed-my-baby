@@ -38,11 +38,8 @@ function initMapping() {
     body: {
       properties: {
         date: {type: 'date'},
-        time: {type: 'string', "index": "not_analyzed"},
-        dateAndTime: {type: 'string', "index": "not_analyzed"},
         feeding: {type: 'integer'},
-        pee: {type: 'integer'},
-        poop: {type: 'integer'}
+        changing: {type: 'integer'}
       }
     }
   });
@@ -54,12 +51,8 @@ function addDocument(document) {
     type: 'document',
     body: {
       date: document.date,
-      time: document.time,
-      dateAndTime: document.dateAndTime,
-      title: document.title,
       feeding: document.feeding,
-      pee: document.pee,
-      poop: document.poop
+      changing: document.changing
     }
   });
 }

@@ -43,16 +43,18 @@ angular.module('starter.services', [])
   .factory('ServerStorageFactory', function (UtilityFactory, $http) {
     function getStorage() {
       console.log('Debug: ');
-      console.log(UtilityFactory.herokuURL);
-      return $http.get(UtilityFactory.herokuURL);
+      console.log(UtilityFactory.backendAPIURL);
+      return $http.get(UtilityFactory.backendAPIURL);
     }
 
     function setStorage(obj) {
-      return $http.post(UtilityFactory.herokuURL, obj);
+      console.log('call backend');
+      console.log(obj);
+      return $http.post(UtilityFactory.backendAPIURL, obj);
     }
 
     function clearStorage(cb) {
-      return $http.delete(UtilityFactory.herokuURL).then(cb);
+      return $http.delete(UtilityFactory.backendAPIURL).then(cb);
     }
 
     return {
@@ -74,8 +76,8 @@ angular.module('starter.services', [])
         return removeDuplicate;
       }
 
-      //console.log(UtilityFactory.herokuURL);
-      //return $http.get(UtilityFactory.herokuURL).then(function (result) {
+      //console.log(UtilityFactory.backendAPIURL);
+      //return $http.get(UtilityFactory.backendAPIURL).then(function (result) {
       //  var removeDuplicate;
       //  var dbData = result.data;
       //  var storageData = LocalStorageFactory.getStorage();
@@ -140,7 +142,6 @@ angular.module('starter.services', [])
     return {
       createObj: createObj,
       merge: merge,
-      localURL: 'http://localhost:3000/api/v1',
-      herokuURL: 'https://lychee-pudding-45780.herokuapp.com/api/v1'
+      backendAPIURL: 'http://localhost:3000/api/v1'
     };
   });

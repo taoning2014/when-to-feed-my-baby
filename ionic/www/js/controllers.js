@@ -25,7 +25,7 @@ angular.module('starter.controllers', ['ionic'])
         console.log('Test feeding amount: ', obj);
         // set record
         LocalStorageFactory.setStorage(obj);
-        //ServerStorageFactory.setStorage(obj);
+        ServerStorageFactory.setStorage(obj);
         self.txtBtn1 = 'Recording to server...';
         self.disableCard = true;
         $timeout(function () {
