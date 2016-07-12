@@ -37,12 +37,12 @@ function initMapping() {
     type: 'document',
     body: {
       properties: {
-        date: { type: 'string' },
-        time: { type: 'string' },
-        dateAndTime: { type: 'date' },
-        feeding: { type: 'string' },
-        pee: { type: 'string' },
-        poop: { type: 'string' }
+        date: {type: 'date'},
+        time: {type: 'string', "index": "not_analyzed"},
+        dateAndTime: {type: 'string', "index": "not_analyzed"},
+        feeding: {type: 'integer'},
+        pee: {type: 'integer'},
+        poop: {type: 'integer'}
       }
     }
   });

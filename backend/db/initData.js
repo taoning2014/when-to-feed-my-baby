@@ -1,6077 +1,6084 @@
 module.exports = [{
   "date": "3/6/16",
-  "time": "1:16:20",
-  "dateAndTime": "3/6/16 1:16",
-  "feeding": 58,
-  "pee": 0.7,
-  "poop": 0.8
+  "time": "01:30:53",
+  "feeding": 70,
+  "pee": 0.4,
+  "poop": 0.2,
+  "dateAndTime": "2016-03-06T01:30:53.000Z"
 }, {
   "date": "3/6/16",
-  "time": "3:11:50",
-  "dateAndTime": "3/6/16 3:11",
-  "feeding": 85,
-  "pee": 0.4,
-  "poop": 0.1
+  "time": "05:01:32",
+  "feeding": 64,
+  "pee": 0.5,
+  "poop": 0.7,
+  "dateAndTime": "2016-03-06T05:01:32.000Z"
 }, {
   "date": "3/6/16",
-  "time": "8:52:10",
-  "dateAndTime": "3/6/16 8:52",
-  "feeding": 77,
-  "pee": 0.1,
-  "poop": 0.5
+  "time": "08:53:37",
+  "feeding": 78,
+  "pee": 0.7,
+  "poop": 0.3,
+  "dateAndTime": "2016-03-06T08:53:37.000Z"
 }, {
   "date": "3/6/16",
-  "time": "9:14:37",
-  "dateAndTime": "3/6/16 9:14",
-  "feeding": 79,
-  "pee": 0.8,
-  "poop": 0.3
+  "time": "11:52:33",
+  "feeding": 80,
+  "pee": 0.1,
+  "poop": 0.7,
+  "dateAndTime": "2016-03-06T11:52:33.000Z"
 }, {
   "date": "3/6/16",
-  "time": "13:00:27",
-  "dateAndTime": "3/6/16 13:00",
-  "feeding": 55,
+  "time": "13:24:46",
+  "feeding": 69,
   "pee": 0.5,
-  "poop": 0.8
+  "poop": 0.5,
+  "dateAndTime": "2016-03-06T13:24:46.000Z"
 }, {
   "date": "3/6/16",
-  "time": "18:52:23",
-  "dateAndTime": "3/6/16 18:52",
-  "feeding": 87,
-  "pee": 0.4,
-  "poop": 0
+  "time": "17:19:13",
+  "feeding": 88,
+  "pee": 0.9,
+  "poop": 0,
+  "dateAndTime": "2016-03-06T17:19:13.000Z"
 }, {
   "date": "3/6/16",
-  "time": "21:05:58",
-  "dateAndTime": "3/6/16 21:05",
-  "feeding": 66,
-  "pee": 0.3,
-  "poop": 0.8
+  "time": "23:52:11",
+  "feeding": 89,
+  "pee": 0,
+  "poop": 0.2,
+  "dateAndTime": "2016-03-06T23:52:11.000Z"
 }, {
   "date": "3/7/16",
-  "time": "2:07:25",
-  "dateAndTime": "3/7/16 2:07",
-  "feeding": 84,
-  "pee": 0.7,
-  "poop": 0.3
+  "time": "02:45:02",
+  "feeding": 55,
+  "pee": 0.2,
+  "poop": 0.3,
+  "dateAndTime": "2016-03-07T02:45:02.000Z"
 }, {
   "date": "3/7/16",
-  "time": "3:19:34",
-  "dateAndTime": "3/7/16 3:19",
-  "feeding": 58,
-  "pee": 0.1,
-  "poop": 0.8
+  "time": "04:34:19",
+  "feeding": 74,
+  "pee": 0.2,
+  "poop": 0.9,
+  "dateAndTime": "2016-03-07T04:34:19.000Z"
 }, {
   "date": "3/7/16",
-  "time": "8:15:22",
-  "dateAndTime": "3/7/16 8:15",
-  "feeding": 53,
+  "time": "08:59:31",
+  "feeding": 65,
   "pee": 0.8,
-  "poop": 0
+  "poop": 0.8,
+  "dateAndTime": "2016-03-07T08:59:31.000Z"
 }, {
   "date": "3/7/16",
-  "time": "9:21:18",
-  "dateAndTime": "3/7/16 9:21",
+  "time": "11:01:41",
   "feeding": 78,
-  "pee": 1,
-  "poop": 0.1
+  "pee": 0.7,
+  "poop": 0.6,
+  "dateAndTime": "2016-03-07T11:01:41.000Z"
 }, {
   "date": "3/7/16",
-  "time": "14:56:09",
-  "dateAndTime": "3/7/16 14:56",
-  "feeding": 71,
+  "time": "13:31:16",
+  "feeding": 69,
   "pee": 0.1,
-  "poop": 0.8
+  "poop": 0.3,
+  "dateAndTime": "2016-03-07T13:31:16.000Z"
 }, {
   "date": "3/7/16",
-  "time": "18:32:29",
-  "dateAndTime": "3/7/16 18:32",
-  "feeding": 88,
-  "pee": 0.3,
-  "poop": 0.8
+  "time": "16:29:01",
+  "feeding": 82,
+  "pee": 0.8,
+  "poop": 0.5,
+  "dateAndTime": "2016-03-07T16:29:01.000Z"
 }, {
   "date": "3/7/16",
-  "time": "22:21:28",
-  "dateAndTime": "3/7/16 22:21",
-  "feeding": 50,
-  "pee": 0.6,
-  "poop": 0.1
+  "time": "21:57:07",
+  "feeding": 62,
+  "pee": 0.8,
+  "poop": 0,
+  "dateAndTime": "2016-03-07T21:57:07.000Z"
 }, {
   "date": "3/8/16",
-  "time": "1:24:20",
-  "dateAndTime": "3/8/16 1:24",
-  "feeding": 77,
-  "pee": 1,
-  "poop": 0.2
+  "time": "01:57:03",
+  "feeding": 51,
+  "pee": 0,
+  "poop": 0.4,
+  "dateAndTime": "2016-03-08T01:57:03.000Z"
 }, {
   "date": "3/8/16",
-  "time": "3:36:23",
-  "dateAndTime": "3/8/16 3:36",
-  "feeding": 57,
-  "pee": 0.3,
-  "poop": 0.7
+  "time": "03:43:49",
+  "feeding": 59,
+  "pee": 0.2,
+  "poop": 0.8,
+  "dateAndTime": "2016-03-08T03:43:49.000Z"
 }, {
   "date": "3/8/16",
-  "time": "6:14:45",
-  "dateAndTime": "3/8/16 6:14",
-  "feeding": 68,
-  "pee": 1,
-  "poop": 0.6
+  "time": "08:47:44",
+  "feeding": 56,
+  "pee": 0.6,
+  "poop": 0.5,
+  "dateAndTime": "2016-03-08T08:47:44.000Z"
 }, {
   "date": "3/8/16",
-  "time": "9:25:40",
-  "dateAndTime": "3/8/16 9:25",
-  "feeding": 71,
-  "pee": 0.7,
-  "poop": 0.2
+  "time": "09:55:03",
+  "feeding": 74,
+  "pee": 0.4,
+  "poop": 0.5,
+  "dateAndTime": "2016-03-08T09:55:03.000Z"
 }, {
   "date": "3/8/16",
-  "time": "13:18:00",
-  "dateAndTime": "3/8/16 13:18",
-  "feeding": 56,
-  "pee": 0.2,
-  "poop": 0.1
+  "time": "12:55:42",
+  "feeding": 59,
+  "pee": 0,
+  "poop": 0.5,
+  "dateAndTime": "2016-03-08T12:55:42.000Z"
 }, {
   "date": "3/8/16",
-  "time": "17:28:29",
-  "dateAndTime": "3/8/16 17:28",
-  "feeding": 89,
-  "pee": 0.4,
-  "poop": 0.5
+  "time": "17:47:02",
+  "feeding": 77,
+  "pee": 0.6,
+  "poop": 0.2,
+  "dateAndTime": "2016-03-08T17:47:02.000Z"
 }, {
   "date": "3/8/16",
-  "time": "21:57:11",
-  "dateAndTime": "3/8/16 21:57",
-  "feeding": 66,
-  "pee": 0,
-  "poop": 0.5
+  "time": "22:07:32",
+  "feeding": 68,
+  "pee": 0.4,
+  "poop": 0.6,
+  "dateAndTime": "2016-03-08T22:07:32.000Z"
 }, {
   "date": "3/9/16",
-  "time": "0:46:59",
-  "dateAndTime": "3/9/16 0:46",
-  "feeding": 59,
-  "pee": 0.5,
-  "poop": 0.7
+  "time": "02:25:18",
+  "feeding": 75,
+  "pee": 0.3,
+  "poop": 0.1,
+  "dateAndTime": "2016-03-09T02:25:18.000Z"
 }, {
   "date": "3/9/16",
-  "time": "4:59:30",
-  "dateAndTime": "3/9/16 4:59",
-  "feeding": 79,
-  "pee": 0.3,
-  "poop": 0.3
+  "time": "04:10:21",
+  "feeding": 55,
+  "pee": 0.2,
+  "poop": 0.7,
+  "dateAndTime": "2016-03-09T04:10:21.000Z"
 }, {
   "date": "3/9/16",
-  "time": "7:20:17",
-  "dateAndTime": "3/9/16 7:20",
-  "feeding": 59,
-  "pee": 0.6,
-  "poop": 0
+  "time": "07:37:30",
+  "feeding": 72,
+  "pee": 0,
+  "poop": 0.4,
+  "dateAndTime": "2016-03-09T07:37:30.000Z"
 }, {
   "date": "3/9/16",
-  "time": "9:53:23",
-  "dateAndTime": "3/9/16 9:53",
-  "feeding": 87,
-  "pee": 0.8,
-  "poop": 0.3
+  "time": "10:56:08",
+  "feeding": 61,
+  "pee": 0.2,
+  "poop": 0.8,
+  "dateAndTime": "2016-03-09T10:56:08.000Z"
 }, {
   "date": "3/9/16",
-  "time": "13:00:34",
-  "dateAndTime": "3/9/16 13:00",
-  "feeding": 67,
+  "time": "13:01:58",
+  "feeding": 83,
   "pee": 0,
-  "poop": 0.1
+  "poop": 0.4,
+  "dateAndTime": "2016-03-09T13:01:58.000Z"
 }, {
   "date": "3/9/16",
-  "time": "18:00:28",
-  "dateAndTime": "3/9/16 18:00",
-  "feeding": 73,
-  "pee": 0.4,
-  "poop": 0.6
+  "time": "16:21:36",
+  "feeding": 60,
+  "pee": 0.1,
+  "poop": 0.9,
+  "dateAndTime": "2016-03-09T16:21:36.000Z"
 }, {
   "date": "3/9/16",
-  "time": "22:46:01",
-  "dateAndTime": "3/9/16 22:46",
-  "feeding": 67,
-  "pee": 0.9,
-  "poop": 0.6
+  "time": "22:49:47",
+  "feeding": 54,
+  "pee": 0.3,
+  "poop": 0.5,
+  "dateAndTime": "2016-03-09T22:49:47.000Z"
 }, {
   "date": "3/10/16",
-  "time": "2:16:26",
-  "dateAndTime": "3/10/16 2:16",
-  "feeding": 88,
-  "pee": 0.8,
-  "poop": 0.1
+  "time": "00:13:05",
+  "feeding": 64,
+  "pee": 0,
+  "poop": 0.6,
+  "dateAndTime": "2016-03-10T00:13:05.000Z"
 }, {
   "date": "3/10/16",
-  "time": "4:10:12",
-  "dateAndTime": "3/10/16 4:10",
-  "feeding": 64,
-  "pee": 0.7,
-  "poop": 0.7
+  "time": "03:03:22",
+  "feeding": 85,
+  "pee": 0.2,
+  "poop": 1,
+  "dateAndTime": "2016-03-10T03:03:22.000Z"
 }, {
   "date": "3/10/16",
-  "time": "7:45:22",
-  "dateAndTime": "3/10/16 7:45",
+  "time": "07:24:13",
   "feeding": 53,
-  "pee": 0.3,
-  "poop": 0.3
+  "pee": 0.8,
+  "poop": 0.3,
+  "dateAndTime": "2016-03-10T07:24:13.000Z"
 }, {
   "date": "3/10/16",
-  "time": "9:35:16",
-  "dateAndTime": "3/10/16 9:35",
-  "feeding": 65,
-  "pee": 0.8,
-  "poop": 0
+  "time": "11:47:43",
+  "feeding": 79,
+  "pee": 0.9,
+  "poop": 0.6,
+  "dateAndTime": "2016-03-10T11:47:43.000Z"
 }, {
   "date": "3/10/16",
-  "time": "13:17:37",
-  "dateAndTime": "3/10/16 13:17",
-  "feeding": 56,
-  "pee": 0.1,
-  "poop": 0.7
+  "time": "13:48:47",
+  "feeding": 77,
+  "pee": 0.8,
+  "poop": 0.1,
+  "dateAndTime": "2016-03-10T13:48:47.000Z"
 }, {
   "date": "3/10/16",
-  "time": "18:47:08",
-  "dateAndTime": "3/10/16 18:47",
-  "feeding": 51,
-  "pee": 0.2,
-  "poop": 0.7
+  "time": "15:55:30",
+  "feeding": 87,
+  "pee": 0.5,
+  "poop": 0.4,
+  "dateAndTime": "2016-03-10T15:55:30.000Z"
 }, {
   "date": "3/10/16",
-  "time": "22:10:59",
-  "dateAndTime": "3/10/16 22:10",
-  "feeding": 76,
-  "pee": 0.2,
-  "poop": 0.1
+  "time": "20:52:03",
+  "feeding": 84,
+  "pee": 0.6,
+  "poop": 0.9,
+  "dateAndTime": "2016-03-10T20:52:03.000Z"
 }, {
   "date": "3/11/16",
-  "time": "2:36:42",
-  "dateAndTime": "3/11/16 2:36",
-  "feeding": 72,
-  "pee": 0.2,
-  "poop": 0.4
+  "time": "01:57:26",
+  "feeding": 62,
+  "pee": 0.5,
+  "poop": 0.5,
+  "dateAndTime": "2016-03-11T01:57:26.000Z"
 }, {
   "date": "3/11/16",
-  "time": "5:08:12",
-  "dateAndTime": "3/11/16 5:08",
-  "feeding": 68,
-  "pee": 0.9,
-  "poop": 0.5
+  "time": "03:59:09",
+  "feeding": 50,
+  "pee": 0.5,
+  "poop": 0.5,
+  "dateAndTime": "2016-03-11T03:59:09.000Z"
 }, {
   "date": "3/11/16",
-  "time": "6:59:24",
-  "dateAndTime": "3/11/16 6:59",
-  "feeding": 90,
-  "pee": 0.3,
-  "poop": 1
+  "time": "07:56:14",
+  "feeding": 85,
+  "pee": 0.7,
+  "poop": 0.7,
+  "dateAndTime": "2016-03-11T07:56:14.000Z"
 }, {
   "date": "3/11/16",
-  "time": "10:57:38",
-  "dateAndTime": "3/11/16 10:57",
-  "feeding": 65,
-  "pee": 0.1,
-  "poop": 0.6
+  "time": "09:13:05",
+  "feeding": 50,
+  "pee": 0.4,
+  "poop": 0.7,
+  "dateAndTime": "2016-03-11T09:13:05.000Z"
 }, {
   "date": "3/11/16",
-  "time": "14:22:33",
-  "dateAndTime": "3/11/16 14:22",
-  "feeding": 68,
-  "pee": 0.6,
-  "poop": 0.1
+  "time": "12:27:01",
+  "feeding": 67,
+  "pee": 0.7,
+  "poop": 0.4,
+  "dateAndTime": "2016-03-11T12:27:01.000Z"
 }, {
   "date": "3/11/16",
-  "time": "17:55:18",
-  "dateAndTime": "3/11/16 17:55",
-  "feeding": 60,
-  "pee": 0.3,
-  "poop": 0.7
+  "time": "15:24:16",
+  "feeding": 62,
+  "pee": 0.4,
+  "poop": 1,
+  "dateAndTime": "2016-03-11T15:24:16.000Z"
 }, {
   "date": "3/11/16",
-  "time": "21:16:55",
-  "dateAndTime": "3/11/16 21:16",
-  "feeding": 71,
-  "pee": 0.2,
-  "poop": 0.1
+  "time": "19:43:31",
+  "feeding": 51,
+  "pee": 0.5,
+  "poop": 0.5,
+  "dateAndTime": "2016-03-11T19:43:31.000Z"
 }, {
   "date": "3/12/16",
-  "time": "2:43:55",
-  "dateAndTime": "3/12/16 2:43",
-  "feeding": 73,
-  "pee": 1,
-  "poop": 0.8
+  "time": "00:49:35",
+  "feeding": 78,
+  "pee": 0.5,
+  "poop": 0.1,
+  "dateAndTime": "2016-03-12T00:49:35.000Z"
 }, {
   "date": "3/12/16",
-  "time": "3:38:14",
-  "dateAndTime": "3/12/16 3:38",
-  "feeding": 70,
-  "pee": 0.4,
-  "poop": 0.7
+  "time": "05:22:29",
+  "feeding": 81,
+  "pee": 0.6,
+  "poop": 0,
+  "dateAndTime": "2016-03-12T05:22:29.000Z"
 }, {
   "date": "3/12/16",
-  "time": "8:37:09",
-  "dateAndTime": "3/12/16 8:37",
-  "feeding": 56,
-  "pee": 1,
-  "poop": 0.2
+  "time": "07:56:25",
+  "feeding": 57,
+  "pee": 0.7,
+  "poop": 0.8,
+  "dateAndTime": "2016-03-12T07:56:25.000Z"
 }, {
   "date": "3/12/16",
-  "time": "10:23:36",
-  "dateAndTime": "3/12/16 10:23",
-  "feeding": 69,
-  "pee": 0.2,
-  "poop": 0.7
+  "time": "10:50:35",
+  "feeding": 52,
+  "pee": 0.7,
+  "poop": 0.2,
+  "dateAndTime": "2016-03-12T10:50:35.000Z"
 }, {
   "date": "3/12/16",
-  "time": "12:55:51",
-  "dateAndTime": "3/12/16 12:55",
-  "feeding": 67,
-  "pee": 1,
-  "poop": 0.4
+  "time": "12:24:07",
+  "feeding": 52,
+  "pee": 0.7,
+  "poop": 0.4,
+  "dateAndTime": "2016-03-12T12:24:07.000Z"
 }, {
   "date": "3/12/16",
-  "time": "18:26:25",
-  "dateAndTime": "3/12/16 18:26",
-  "feeding": 62,
-  "pee": 0.6,
-  "poop": 0.4
+  "time": "16:41:41",
+  "feeding": 53,
+  "pee": 1,
+  "poop": 0.1,
+  "dateAndTime": "2016-03-12T16:41:41.000Z"
 }, {
   "date": "3/12/16",
-  "time": "22:55:45",
-  "dateAndTime": "3/12/16 22:55",
-  "feeding": 71,
-  "pee": 0.3,
-  "poop": 0.7
+  "time": "21:02:30",
+  "feeding": 70,
+  "pee": 0.4,
+  "poop": 0.3,
+  "dateAndTime": "2016-03-12T21:02:30.000Z"
 }, {
   "date": "3/13/16",
-  "time": "1:38:02",
-  "dateAndTime": "3/13/16 1:38",
-  "feeding": 55,
+  "time": "00:42:07",
+  "feeding": 62,
   "pee": 0.6,
-  "poop": 0.2
+  "poop": 0.1,
+  "dateAndTime": "2016-03-13T00:42:07.000Z"
 }, {
   "date": "3/13/16",
-  "time": "4:11:08",
-  "dateAndTime": "3/13/16 4:11",
-  "feeding": 66,
-  "pee": 0.2,
-  "poop": 0.6
+  "time": "03:28:33",
+  "feeding": 75,
+  "pee": 0.7,
+  "poop": 0.3,
+  "dateAndTime": "2016-03-13T03:28:33.000Z"
 }, {
   "date": "3/13/16",
-  "time": "8:25:04",
-  "dateAndTime": "3/13/16 8:25",
-  "feeding": 90,
-  "pee": 0.6,
-  "poop": 0.4
+  "time": "06:41:39",
+  "feeding": 85,
+  "pee": 0.2,
+  "poop": 0.5,
+  "dateAndTime": "2016-03-13T06:41:39.000Z"
 }, {
   "date": "3/13/16",
-  "time": "10:02:32",
-  "dateAndTime": "3/13/16 10:02",
-  "feeding": 51,
-  "pee": 0.8,
-  "poop": 0.3
+  "time": "09:47:47",
+  "feeding": 66,
+  "pee": 0.4,
+  "poop": 0.2,
+  "dateAndTime": "2016-03-13T09:47:47.000Z"
 }, {
   "date": "3/13/16",
-  "time": "14:03:40",
-  "dateAndTime": "3/13/16 14:03",
-  "feeding": 54,
-  "pee": 0.6,
-  "poop": 0.3
+  "time": "14:54:32",
+  "feeding": 87,
+  "pee": 0.1,
+  "poop": 0.5,
+  "dateAndTime": "2016-03-13T14:54:32.000Z"
 }, {
   "date": "3/13/16",
-  "time": "18:13:33",
-  "dateAndTime": "3/13/16 18:13",
-  "feeding": 83,
-  "pee": 1,
-  "poop": 0.6
+  "time": "18:55:38",
+  "feeding": 50,
+  "pee": 0.1,
+  "poop": 0.5,
+  "dateAndTime": "2016-03-13T18:55:38.000Z"
 }, {
   "date": "3/13/16",
-  "time": "20:40:43",
-  "dateAndTime": "3/13/16 20:40",
-  "feeding": 89,
+  "time": "21:59:50",
+  "feeding": 60,
   "pee": 0.4,
-  "poop": 0.3
+  "poop": 0.3,
+  "dateAndTime": "2016-03-13T21:59:50.000Z"
 }, {
   "date": "3/14/16",
-  "time": "0:22:29",
-  "dateAndTime": "3/14/16 0:22",
-  "feeding": 55,
-  "pee": 0.6,
-  "poop": 0.9
+  "time": "01:58:52",
+  "feeding": 53,
+  "pee": 0.4,
+  "poop": 0.6,
+  "dateAndTime": "2016-03-14T01:58:52.000Z"
 }, {
   "date": "3/14/16",
-  "time": "4:51:09",
-  "dateAndTime": "3/14/16 4:51",
-  "feeding": 73,
-  "pee": 0.6,
-  "poop": 0.5
+  "time": "03:37:51",
+  "feeding": 85,
+  "pee": 0.5,
+  "poop": 0.7,
+  "dateAndTime": "2016-03-14T03:37:51.000Z"
 }, {
   "date": "3/14/16",
-  "time": "8:02:29",
-  "dateAndTime": "3/14/16 8:02",
-  "feeding": 64,
-  "pee": 0.3,
-  "poop": 0.1
+  "time": "07:18:50",
+  "feeding": 79,
+  "pee": 0.6,
+  "poop": 0.4,
+  "dateAndTime": "2016-03-14T07:18:50.000Z"
 }, {
   "date": "3/14/16",
-  "time": "10:35:01",
-  "dateAndTime": "3/14/16 10:35",
-  "feeding": 79,
-  "pee": 0.9,
-  "poop": 0.1
+  "time": "10:56:57",
+  "feeding": 87,
+  "pee": 0.7,
+  "poop": 1,
+  "dateAndTime": "2016-03-14T10:56:57.000Z"
 }, {
   "date": "3/14/16",
-  "time": "14:20:14",
-  "dateAndTime": "3/14/16 14:20",
-  "feeding": 64,
-  "pee": 0.6,
-  "poop": 0.7
+  "time": "12:09:19",
+  "feeding": 58,
+  "pee": 0.8,
+  "poop": 0.9,
+  "dateAndTime": "2016-03-14T12:09:19.000Z"
 }, {
   "date": "3/14/16",
-  "time": "18:23:28",
-  "dateAndTime": "3/14/16 18:23",
-  "feeding": 81,
-  "pee": 0.6,
-  "poop": 0.9
+  "time": "15:34:06",
+  "feeding": 58,
+  "pee": 0.4,
+  "poop": 1,
+  "dateAndTime": "2016-03-14T15:34:06.000Z"
 }, {
   "date": "3/14/16",
-  "time": "20:44:33",
-  "dateAndTime": "3/14/16 20:44",
-  "feeding": 80,
-  "pee": 0.3,
-  "poop": 0.7
+  "time": "19:20:01",
+  "feeding": 58,
+  "pee": 0.2,
+  "poop": 0.4,
+  "dateAndTime": "2016-03-14T19:20:01.000Z"
 }, {
   "date": "3/15/16",
-  "time": "2:07:47",
-  "dateAndTime": "3/15/16 2:07",
-  "feeding": 89,
-  "pee": 0,
-  "poop": 0
+  "time": "01:35:32",
+  "feeding": 81,
+  "pee": 0.3,
+  "poop": 0.9,
+  "dateAndTime": "2016-03-15T01:35:32.000Z"
 }, {
   "date": "3/15/16",
-  "time": "3:05:38",
-  "dateAndTime": "3/15/16 3:05",
-  "feeding": 66,
+  "time": "03:56:48",
+  "feeding": 79,
   "pee": 0.1,
-  "poop": 0.4
+  "poop": 0.5,
+  "dateAndTime": "2016-03-15T03:56:48.000Z"
 }, {
   "date": "3/15/16",
-  "time": "7:14:30",
-  "dateAndTime": "3/15/16 7:14",
-  "feeding": 61,
-  "pee": 0.5,
-  "poop": 0.1
+  "time": "06:20:12",
+  "feeding": 84,
+  "pee": 1,
+  "poop": 0.7,
+  "dateAndTime": "2016-03-15T06:20:12.000Z"
 }, {
   "date": "3/15/16",
-  "time": "9:38:11",
-  "dateAndTime": "3/15/16 9:38",
-  "feeding": 71,
-  "pee": 1,
-  "poop": 0.7
+  "time": "09:03:53",
+  "feeding": 70,
+  "pee": 0.3,
+  "poop": 0.1,
+  "dateAndTime": "2016-03-15T09:03:53.000Z"
 }, {
   "date": "3/15/16",
-  "time": "12:05:44",
-  "dateAndTime": "3/15/16 12:05",
-  "feeding": 68,
-  "pee": 0.5,
-  "poop": 0.6
+  "time": "12:16:13",
+  "feeding": 62,
+  "pee": 0.8,
+  "poop": 0.3,
+  "dateAndTime": "2016-03-15T12:16:13.000Z"
 }, {
   "date": "3/15/16",
-  "time": "15:36:03",
-  "dateAndTime": "3/15/16 15:36",
-  "feeding": 75,
-  "pee": 0.5,
-  "poop": 0.2
+  "time": "17:03:10",
+  "feeding": 66,
+  "pee": 0.7,
+  "poop": 0.6,
+  "dateAndTime": "2016-03-15T17:03:10.000Z"
 }, {
   "date": "3/15/16",
-  "time": "19:05:43",
-  "dateAndTime": "3/15/16 19:05",
-  "feeding": 62,
+  "time": "19:01:02",
+  "feeding": 54,
   "pee": 0.6,
-  "poop": 0.1
+  "poop": 1,
+  "dateAndTime": "2016-03-15T19:01:02.000Z"
 }, {
   "date": "3/16/16",
-  "time": "1:41:12",
-  "dateAndTime": "3/16/16 1:41",
-  "feeding": 82,
-  "pee": 0.8,
-  "poop": 0.7
+  "time": "01:56:40",
+  "feeding": 62,
+  "pee": 0.2,
+  "poop": 0.6,
+  "dateAndTime": "2016-03-16T01:56:40.000Z"
 }, {
   "date": "3/16/16",
-  "time": "3:40:41",
-  "dateAndTime": "3/16/16 3:40",
-  "feeding": 85,
-  "pee": 0.1,
-  "poop": 0.6
+  "time": "04:40:03",
+  "feeding": 55,
+  "pee": 1,
+  "poop": 0.5,
+  "dateAndTime": "2016-03-16T04:40:03.000Z"
 }, {
   "date": "3/16/16",
-  "time": "7:38:08",
-  "dateAndTime": "3/16/16 7:38",
-  "feeding": 76,
-  "pee": 0,
-  "poop": 0.8
+  "time": "06:53:27",
+  "feeding": 52,
+  "pee": 0.2,
+  "poop": 0.2,
+  "dateAndTime": "2016-03-16T06:53:27.000Z"
 }, {
   "date": "3/16/16",
-  "time": "10:47:40",
-  "dateAndTime": "3/16/16 10:47",
-  "feeding": 59,
-  "pee": 1,
-  "poop": 0.7
+  "time": "10:34:45",
+  "feeding": 54,
+  "pee": 0.8,
+  "poop": 0.9,
+  "dateAndTime": "2016-03-16T10:34:45.000Z"
 }, {
   "date": "3/16/16",
-  "time": "14:12:43",
-  "dateAndTime": "3/16/16 14:12",
-  "feeding": 73,
-  "pee": 1,
-  "poop": 0.4
+  "time": "13:04:36",
+  "feeding": 61,
+  "pee": 0.5,
+  "poop": 0.5,
+  "dateAndTime": "2016-03-16T13:04:36.000Z"
 }, {
   "date": "3/16/16",
-  "time": "15:54:02",
-  "dateAndTime": "3/16/16 15:54",
-  "feeding": 66,
-  "pee": 0.3,
-  "poop": 0.1
+  "time": "15:21:20",
+  "feeding": 58,
+  "pee": 0.4,
+  "poop": 0.3,
+  "dateAndTime": "2016-03-16T15:21:20.000Z"
 }, {
   "date": "3/16/16",
-  "time": "21:21:52",
-  "dateAndTime": "3/16/16 21:21",
-  "feeding": 74,
-  "pee": 0.5,
-  "poop": 0.2
+  "time": "20:12:00",
+  "feeding": 61,
+  "pee": 0.1,
+  "poop": 0,
+  "dateAndTime": "2016-03-16T20:12:00.000Z"
 }, {
   "date": "3/17/16",
-  "time": "0:32:59",
-  "dateAndTime": "3/17/16 0:32",
-  "feeding": 85,
-  "pee": 0.1,
-  "poop": 0
+  "time": "01:43:22",
+  "feeding": 65,
+  "pee": 0.2,
+  "poop": 0.2,
+  "dateAndTime": "2016-03-17T01:43:22.000Z"
 }, {
   "date": "3/17/16",
-  "time": "3:38:36",
-  "dateAndTime": "3/17/16 3:38",
-  "feeding": 61,
-  "pee": 0.3,
-  "poop": 0.6
+  "time": "04:44:17",
+  "feeding": 83,
+  "pee": 0.8,
+  "poop": 0.4,
+  "dateAndTime": "2016-03-17T04:44:17.000Z"
 }, {
   "date": "3/17/16",
-  "time": "6:08:24",
-  "dateAndTime": "3/17/16 6:08",
-  "feeding": 50,
-  "pee": 0.9,
-  "poop": 0.9
+  "time": "08:53:42",
+  "feeding": 51,
+  "pee": 0.2,
+  "poop": 0.5,
+  "dateAndTime": "2016-03-17T08:53:42.000Z"
 }, {
   "date": "3/17/16",
-  "time": "10:19:01",
-  "dateAndTime": "3/17/16 10:19",
-  "feeding": 74,
-  "pee": 0.8,
-  "poop": 0.4
+  "time": "11:42:26",
+  "feeding": 87,
+  "pee": 0.9,
+  "poop": 0.7,
+  "dateAndTime": "2016-03-17T11:42:26.000Z"
 }, {
   "date": "3/17/16",
-  "time": "13:34:58",
-  "dateAndTime": "3/17/16 13:34",
-  "feeding": 73,
-  "pee": 0.8,
-  "poop": 0.8
+  "time": "12:18:55",
+  "feeding": 74,
+  "pee": 0.7,
+  "poop": 0.6,
+  "dateAndTime": "2016-03-17T12:18:55.000Z"
 }, {
   "date": "3/17/16",
-  "time": "15:08:15",
-  "dateAndTime": "3/17/16 15:08",
-  "feeding": 52,
-  "pee": 0.9,
-  "poop": 0.3
+  "time": "17:03:52",
+  "feeding": 56,
+  "pee": 0.7,
+  "poop": 1,
+  "dateAndTime": "2016-03-17T17:03:52.000Z"
 }, {
   "date": "3/17/16",
-  "time": "20:48:05",
-  "dateAndTime": "3/17/16 20:48",
-  "feeding": 58,
-  "pee": 0,
-  "poop": 0.5
+  "time": "23:13:53",
+  "feeding": 89,
+  "pee": 0.7,
+  "poop": 0.4,
+  "dateAndTime": "2016-03-17T23:13:53.000Z"
 }, {
   "date": "3/18/16",
-  "time": "2:01:31",
-  "dateAndTime": "3/18/16 2:01",
-  "feeding": 59,
-  "pee": 0.7,
-  "poop": 0.2
+  "time": "00:11:12",
+  "feeding": 89,
+  "pee": 0.9,
+  "poop": 0.4,
+  "dateAndTime": "2016-03-18T00:11:12.000Z"
 }, {
   "date": "3/18/16",
-  "time": "5:53:10",
-  "dateAndTime": "3/18/16 5:53",
-  "feeding": 55,
-  "pee": 0.2,
-  "poop": 0.3
+  "time": "03:03:48",
+  "feeding": 73,
+  "pee": 0.6,
+  "poop": 0.1,
+  "dateAndTime": "2016-03-18T03:03:48.000Z"
 }, {
   "date": "3/18/16",
-  "time": "7:12:56",
-  "dateAndTime": "3/18/16 7:12",
-  "feeding": 88,
-  "pee": 0.9,
-  "poop": 0.1
+  "time": "07:32:10",
+  "feeding": 57,
+  "pee": 0.5,
+  "poop": 0.5,
+  "dateAndTime": "2016-03-18T07:32:10.000Z"
 }, {
   "date": "3/18/16",
-  "time": "11:31:47",
-  "dateAndTime": "3/18/16 11:31",
-  "feeding": 73,
-  "pee": 0.3,
-  "poop": 0.9
+  "time": "10:45:15",
+  "feeding": 76,
+  "pee": 0,
+  "poop": 0.8,
+  "dateAndTime": "2016-03-18T10:45:15.000Z"
 }, {
   "date": "3/18/16",
-  "time": "14:38:49",
-  "dateAndTime": "3/18/16 14:38",
-  "feeding": 73,
-  "pee": 0.5,
-  "poop": 0.1
+  "time": "13:45:40",
+  "feeding": 51,
+  "pee": 0.3,
+  "poop": 0.2,
+  "dateAndTime": "2016-03-18T13:45:40.000Z"
 }, {
   "date": "3/18/16",
-  "time": "15:01:39",
-  "dateAndTime": "3/18/16 15:01",
-  "feeding": 60,
-  "pee": 0.8,
-  "poop": 0.6
+  "time": "17:49:57",
+  "feeding": 84,
+  "pee": 0.1,
+  "poop": 0.9,
+  "dateAndTime": "2016-03-18T17:49:57.000Z"
 }, {
   "date": "3/18/16",
-  "time": "23:24:07",
-  "dateAndTime": "3/18/16 23:24",
-  "feeding": 62,
+  "time": "19:59:28",
+  "feeding": 74,
   "pee": 0.4,
-  "poop": 0.1
+  "poop": 0.5,
+  "dateAndTime": "2016-03-18T19:59:28.000Z"
 }, {
   "date": "3/19/16",
-  "time": "1:45:35",
-  "dateAndTime": "3/19/16 1:45",
-  "feeding": 75,
-  "pee": 0.6,
-  "poop": 0.3
+  "time": "00:46:36",
+  "feeding": 73,
+  "pee": 0.1,
+  "poop": 1,
+  "dateAndTime": "2016-03-19T00:46:36.000Z"
 }, {
   "date": "3/19/16",
-  "time": "4:34:10",
-  "dateAndTime": "3/19/16 4:34",
+  "time": "04:05:40",
   "feeding": 58,
-  "pee": 0.9,
-  "poop": 0.6
+  "pee": 0.5,
+  "poop": 0.1,
+  "dateAndTime": "2016-03-19T04:05:40.000Z"
 }, {
   "date": "3/19/16",
-  "time": "6:03:07",
-  "dateAndTime": "3/19/16 6:03",
-  "feeding": 69,
-  "pee": 0.3,
-  "poop": 0.6
+  "time": "07:03:24",
+  "feeding": 68,
+  "pee": 0.9,
+  "poop": 0.9,
+  "dateAndTime": "2016-03-19T07:03:24.000Z"
 }, {
   "date": "3/19/16",
-  "time": "10:57:11",
-  "dateAndTime": "3/19/16 10:57",
-  "feeding": 82,
-  "pee": 0.2,
-  "poop": 0.4
+  "time": "11:01:02",
+  "feeding": 53,
+  "pee": 0.4,
+  "poop": 0.2,
+  "dateAndTime": "2016-03-19T11:01:02.000Z"
 }, {
   "date": "3/19/16",
-  "time": "13:07:45",
-  "dateAndTime": "3/19/16 13:07",
-  "feeding": 62,
-  "pee": 0.3,
-  "poop": 0.7
+  "time": "12:25:42",
+  "feeding": 75,
+  "pee": 0.1,
+  "poop": 0.6,
+  "dateAndTime": "2016-03-19T12:25:42.000Z"
 }, {
   "date": "3/19/16",
-  "time": "16:34:05",
-  "dateAndTime": "3/19/16 16:34",
-  "feeding": 58,
-  "pee": 0.3,
-  "poop": 0.5
+  "time": "15:19:03",
+  "feeding": 65,
+  "pee": 0.2,
+  "poop": 0.3,
+  "dateAndTime": "2016-03-19T15:19:03.000Z"
 }, {
   "date": "3/19/16",
-  "time": "23:46:10",
-  "dateAndTime": "3/19/16 23:46",
-  "feeding": 56,
-  "pee": 0.5,
-  "poop": 0.4
+  "time": "20:38:41",
+  "feeding": 89,
+  "pee": 0.9,
+  "poop": 0,
+  "dateAndTime": "2016-03-19T20:38:41.000Z"
 }, {
   "date": "3/20/16",
-  "time": "1:24:00",
-  "dateAndTime": "3/20/16 1:24",
-  "feeding": 76,
-  "pee": 0.7,
-  "poop": 0.9
+  "time": "01:07:06",
+  "feeding": 61,
+  "pee": 0.5,
+  "poop": 0.4,
+  "dateAndTime": "2016-03-20T01:07:06.000Z"
 }, {
   "date": "3/20/16",
-  "time": "3:43:03",
-  "dateAndTime": "3/20/16 3:43",
-  "feeding": 90,
-  "pee": 0.7,
-  "poop": 0.4
+  "time": "03:33:32",
+  "feeding": 80,
+  "pee": 0.6,
+  "poop": 0.4,
+  "dateAndTime": "2016-03-20T03:33:32.000Z"
 }, {
   "date": "3/20/16",
-  "time": "6:35:36",
-  "dateAndTime": "3/20/16 6:35",
-  "feeding": 89,
-  "pee": 0.5,
-  "poop": 0.7
+  "time": "08:08:24",
+  "feeding": 52,
+  "pee": 0.8,
+  "poop": 0.6,
+  "dateAndTime": "2016-03-20T08:08:24.000Z"
 }, {
   "date": "3/20/16",
-  "time": "11:27:54",
-  "dateAndTime": "3/20/16 11:27",
-  "feeding": 50,
-  "pee": 0.4,
-  "poop": 0.8
+  "time": "09:54:43",
+  "feeding": 86,
+  "pee": 0.6,
+  "poop": 0,
+  "dateAndTime": "2016-03-20T09:54:43.000Z"
 }, {
   "date": "3/20/16",
-  "time": "12:23:55",
-  "dateAndTime": "3/20/16 12:23",
-  "feeding": 84,
-  "pee": 0.3,
-  "poop": 0.9
+  "time": "14:53:41",
+  "feeding": 71,
+  "pee": 0.2,
+  "poop": 0.3,
+  "dateAndTime": "2016-03-20T14:53:41.000Z"
 }, {
   "date": "3/20/16",
-  "time": "16:22:45",
-  "dateAndTime": "3/20/16 16:22",
-  "feeding": 87,
-  "pee": 0.5,
-  "poop": 0.3
+  "time": "18:57:55",
+  "feeding": 55,
+  "pee": 0.9,
+  "poop": 0.9,
+  "dateAndTime": "2016-03-20T18:57:55.000Z"
 }, {
   "date": "3/20/16",
-  "time": "21:57:13",
-  "dateAndTime": "3/20/16 21:57",
-  "feeding": 57,
-  "pee": 0.9,
-  "poop": 0.6
+  "time": "21:18:12",
+  "feeding": 68,
+  "pee": 0.3,
+  "poop": 0.6,
+  "dateAndTime": "2016-03-20T21:18:12.000Z"
 }, {
   "date": "3/21/16",
-  "time": "0:43:17",
-  "dateAndTime": "3/21/16 0:43",
-  "feeding": 81,
-  "pee": 0.5,
-  "poop": 0.6
+  "time": "00:50:37",
+  "feeding": 55,
+  "pee": 0.2,
+  "poop": 0.4,
+  "dateAndTime": "2016-03-21T00:50:37.000Z"
 }, {
   "date": "3/21/16",
-  "time": "3:04:04",
-  "dateAndTime": "3/21/16 3:04",
-  "feeding": 54,
-  "pee": 0.1,
-  "poop": 0.4
+  "time": "05:58:25",
+  "feeding": 77,
+  "pee": 0.2,
+  "poop": 0.6,
+  "dateAndTime": "2016-03-21T05:58:25.000Z"
 }, {
   "date": "3/21/16",
-  "time": "8:17:23",
-  "dateAndTime": "3/21/16 8:17",
-  "feeding": 54,
+  "time": "08:22:46",
+  "feeding": 51,
   "pee": 0.2,
-  "poop": 0.1
+  "poop": 0.3,
+  "dateAndTime": "2016-03-21T08:22:46.000Z"
 }, {
   "date": "3/21/16",
-  "time": "11:02:31",
-  "dateAndTime": "3/21/16 11:02",
-  "feeding": 88,
-  "pee": 0.2,
-  "poop": 0.8
+  "time": "09:56:55",
+  "feeding": 54,
+  "pee": 0.9,
+  "poop": 0.3,
+  "dateAndTime": "2016-03-21T09:56:55.000Z"
 }, {
   "date": "3/21/16",
-  "time": "14:57:39",
-  "dateAndTime": "3/21/16 14:57",
-  "feeding": 82,
-  "pee": 0.7,
-  "poop": 0.3
+  "time": "13:09:59",
+  "feeding": 68,
+  "pee": 0.6,
+  "poop": 0.5,
+  "dateAndTime": "2016-03-21T13:09:59.000Z"
 }, {
   "date": "3/21/16",
-  "time": "18:29:57",
-  "dateAndTime": "3/21/16 18:29",
-  "feeding": 79,
-  "pee": 0.3,
-  "poop": 0.4
+  "time": "17:48:56",
+  "feeding": 68,
+  "pee": 0.1,
+  "poop": 0,
+  "dateAndTime": "2016-03-21T17:48:56.000Z"
 }, {
   "date": "3/21/16",
-  "time": "21:55:46",
-  "dateAndTime": "3/21/16 21:55",
-  "feeding": 79,
-  "pee": 0.1,
-  "poop": 0.6
+  "time": "21:14:46",
+  "feeding": 76,
+  "pee": 0.2,
+  "poop": 0.1,
+  "dateAndTime": "2016-03-21T21:14:46.000Z"
 }, {
   "date": "3/22/16",
-  "time": "2:15:22",
-  "dateAndTime": "3/22/16 2:15",
-  "feeding": 65,
-  "pee": 0.6,
-  "poop": 0.1
+  "time": "00:05:10",
+  "feeding": 68,
+  "pee": 0.8,
+  "poop": 0.1,
+  "dateAndTime": "2016-03-22T00:05:10.000Z"
 }, {
   "date": "3/22/16",
-  "time": "4:47:33",
-  "dateAndTime": "3/22/16 4:47",
-  "feeding": 53,
-  "pee": 0.2,
-  "poop": 0.6
+  "time": "04:02:59",
+  "feeding": 81,
+  "pee": 0.7,
+  "poop": 1,
+  "dateAndTime": "2016-03-22T04:02:59.000Z"
 }, {
   "date": "3/22/16",
-  "time": "7:11:47",
-  "dateAndTime": "3/22/16 7:11",
-  "feeding": 80,
-  "pee": 0.9,
-  "poop": 0.9
+  "time": "07:33:17",
+  "feeding": 81,
+  "pee": 0.3,
+  "poop": 0.1,
+  "dateAndTime": "2016-03-22T07:33:17.000Z"
 }, {
   "date": "3/22/16",
-  "time": "9:26:22",
-  "dateAndTime": "3/22/16 9:26",
-  "feeding": 68,
-  "pee": 0.5,
-  "poop": 0.5
+  "time": "09:19:33",
+  "feeding": 51,
+  "pee": 0.2,
+  "poop": 1,
+  "dateAndTime": "2016-03-22T09:19:33.000Z"
 }, {
   "date": "3/22/16",
-  "time": "14:14:54",
-  "dateAndTime": "3/22/16 14:14",
-  "feeding": 88,
-  "pee": 0.8,
-  "poop": 0.2
+  "time": "12:52:25",
+  "feeding": 85,
+  "pee": 0.3,
+  "poop": 0.1,
+  "dateAndTime": "2016-03-22T12:52:25.000Z"
 }, {
   "date": "3/22/16",
-  "time": "16:38:54",
-  "dateAndTime": "3/22/16 16:38",
-  "feeding": 58,
-  "pee": 1,
-  "poop": 0.8
+  "time": "17:48:38",
+  "feeding": 56,
+  "pee": 0.3,
+  "poop": 0.8,
+  "dateAndTime": "2016-03-22T17:48:38.000Z"
 }, {
   "date": "3/22/16",
-  "time": "23:56:30",
-  "dateAndTime": "3/22/16 23:56",
-  "feeding": 63,
-  "pee": 0.9,
-  "poop": 0.4
+  "time": "22:26:43",
+  "feeding": 65,
+  "pee": 0.3,
+  "poop": 0.7,
+  "dateAndTime": "2016-03-22T22:26:43.000Z"
 }, {
   "date": "3/23/16",
-  "time": "1:50:12",
-  "dateAndTime": "3/23/16 1:50",
-  "feeding": 70,
+  "time": "02:55:51",
+  "feeding": 67,
   "pee": 0.9,
-  "poop": 0.8
+  "poop": 0.8,
+  "dateAndTime": "2016-03-23T02:55:51.000Z"
 }, {
   "date": "3/23/16",
-  "time": "4:32:23",
-  "dateAndTime": "3/23/16 4:32",
-  "feeding": 53,
-  "pee": 0.6,
-  "poop": 0.9
+  "time": "05:57:07",
+  "feeding": 55,
+  "pee": 0.1,
+  "poop": 0.7,
+  "dateAndTime": "2016-03-23T05:57:07.000Z"
 }, {
   "date": "3/23/16",
-  "time": "7:17:14",
-  "dateAndTime": "3/23/16 7:17",
-  "feeding": 77,
-  "pee": 0,
-  "poop": 0.6
+  "time": "07:47:34",
+  "feeding": 60,
+  "pee": 0.1,
+  "poop": 1,
+  "dateAndTime": "2016-03-23T07:47:34.000Z"
 }, {
   "date": "3/23/16",
-  "time": "11:57:17",
-  "dateAndTime": "3/23/16 11:57",
-  "feeding": 81,
-  "pee": 0.5,
-  "poop": 0.3
+  "time": "09:30:49",
+  "feeding": 84,
+  "pee": 0.2,
+  "poop": 0.2,
+  "dateAndTime": "2016-03-23T09:30:49.000Z"
 }, {
   "date": "3/23/16",
-  "time": "14:44:24",
-  "dateAndTime": "3/23/16 14:44",
-  "feeding": 72,
+  "time": "12:25:23",
+  "feeding": 85,
   "pee": 0.5,
-  "poop": 0.1
+  "poop": 0.4,
+  "dateAndTime": "2016-03-23T12:25:23.000Z"
 }, {
   "date": "3/23/16",
-  "time": "15:21:54",
-  "dateAndTime": "3/23/16 15:21",
-  "feeding": 71,
-  "pee": 0.8,
-  "poop": 0.4
+  "time": "18:30:47",
+  "feeding": 63,
+  "pee": 0.9,
+  "poop": 0,
+  "dateAndTime": "2016-03-23T18:30:47.000Z"
 }, {
   "date": "3/23/16",
-  "time": "23:11:04",
-  "dateAndTime": "3/23/16 23:11",
-  "feeding": 59,
-  "pee": 0.2,
-  "poop": 0.1
+  "time": "19:59:23",
+  "feeding": 53,
+  "pee": 0.5,
+  "poop": 0,
+  "dateAndTime": "2016-03-23T19:59:23.000Z"
 }, {
   "date": "3/24/16",
-  "time": "1:17:20",
-  "dateAndTime": "3/24/16 1:17",
-  "feeding": 59,
-  "pee": 0.9,
-  "poop": 0.3
+  "time": "02:51:17",
+  "feeding": 80,
+  "pee": 0.1,
+  "poop": 0.7,
+  "dateAndTime": "2016-03-24T02:51:17.000Z"
 }, {
   "date": "3/24/16",
-  "time": "4:14:07",
-  "dateAndTime": "3/24/16 4:14",
-  "feeding": 59,
-  "pee": 0.5,
-  "poop": 0.3
+  "time": "04:56:46",
+  "feeding": 81,
+  "pee": 0.8,
+  "poop": 0.5,
+  "dateAndTime": "2016-03-24T04:56:46.000Z"
 }, {
   "date": "3/24/16",
-  "time": "7:25:55",
-  "dateAndTime": "3/24/16 7:25",
-  "feeding": 81,
-  "pee": 1,
-  "poop": 0.6
+  "time": "06:09:12",
+  "feeding": 50,
+  "pee": 0.1,
+  "poop": 0.5,
+  "dateAndTime": "2016-03-24T06:09:12.000Z"
 }, {
   "date": "3/24/16",
-  "time": "10:01:44",
-  "dateAndTime": "3/24/16 10:01",
-  "feeding": 52,
-  "pee": 0.9,
-  "poop": 0.8
+  "time": "10:42:08",
+  "feeding": 64,
+  "pee": 0.2,
+  "poop": 0.7,
+  "dateAndTime": "2016-03-24T10:42:08.000Z"
 }, {
   "date": "3/24/16",
-  "time": "14:40:51",
-  "dateAndTime": "3/24/16 14:40",
-  "feeding": 51,
-  "pee": 0.1,
-  "poop": 0.4
+  "time": "12:14:38",
+  "feeding": 54,
+  "pee": 0.7,
+  "poop": 0.2,
+  "dateAndTime": "2016-03-24T12:14:38.000Z"
 }, {
   "date": "3/24/16",
-  "time": "17:27:02",
-  "dateAndTime": "3/24/16 17:27",
-  "feeding": 80,
+  "time": "17:19:41",
+  "feeding": 82,
   "pee": 0.3,
-  "poop": 0.5
+  "poop": 0.8,
+  "dateAndTime": "2016-03-24T17:19:41.000Z"
 }, {
   "date": "3/24/16",
-  "time": "21:33:15",
-  "dateAndTime": "3/24/16 21:33",
-  "feeding": 90,
+  "time": "19:37:39",
+  "feeding": 87,
   "pee": 0.9,
-  "poop": 0.2
+  "poop": 0.4,
+  "dateAndTime": "2016-03-24T19:37:39.000Z"
 }, {
   "date": "3/25/16",
-  "time": "0:31:32",
-  "dateAndTime": "3/25/16 0:31",
-  "feeding": 67,
-  "pee": 1,
-  "poop": 0.8
+  "time": "00:00:52",
+  "feeding": 50,
+  "pee": 0.9,
+  "poop": 1,
+  "dateAndTime": "2016-03-25T00:00:52.000Z"
 }, {
   "date": "3/25/16",
-  "time": "5:19:31",
-  "dateAndTime": "3/25/16 5:19",
-  "feeding": 77,
-  "pee": 0.1,
-  "poop": 0.2
+  "time": "05:33:59",
+  "feeding": 86,
+  "pee": 0.5,
+  "poop": 0,
+  "dateAndTime": "2016-03-25T05:33:59.000Z"
 }, {
   "date": "3/25/16",
-  "time": "7:21:49",
-  "dateAndTime": "3/25/16 7:21",
-  "feeding": 69,
-  "pee": 0.8,
-  "poop": 0.6
+  "time": "08:14:49",
+  "feeding": 53,
+  "pee": 0.7,
+  "poop": 0.1,
+  "dateAndTime": "2016-03-25T08:14:49.000Z"
 }, {
   "date": "3/25/16",
-  "time": "10:27:12",
-  "dateAndTime": "3/25/16 10:27",
-  "feeding": 84,
-  "pee": 0.4,
-  "poop": 0.5
+  "time": "11:52:16",
+  "feeding": 76,
+  "pee": 0.2,
+  "poop": 0.2,
+  "dateAndTime": "2016-03-25T11:52:16.000Z"
 }, {
   "date": "3/25/16",
-  "time": "14:48:01",
-  "dateAndTime": "3/25/16 14:48",
-  "feeding": 53,
-  "pee": 0.3,
-  "poop": 0.2
+  "time": "12:37:14",
+  "feeding": 50,
+  "pee": 0.9,
+  "poop": 0.5,
+  "dateAndTime": "2016-03-25T12:37:14.000Z"
 }, {
   "date": "3/25/16",
-  "time": "17:12:14",
-  "dateAndTime": "3/25/16 17:12",
-  "feeding": 50,
-  "pee": 0.2,
-  "poop": 0.8
+  "time": "15:35:01",
+  "feeding": 63,
+  "pee": 0.4,
+  "poop": 0.3,
+  "dateAndTime": "2016-03-25T15:35:01.000Z"
 }, {
   "date": "3/25/16",
-  "time": "19:50:26",
-  "dateAndTime": "3/25/16 19:50",
-  "feeding": 71,
-  "pee": 0.1,
-  "poop": 0.4
+  "time": "19:33:00",
+  "feeding": 83,
+  "pee": 0.5,
+  "poop": 0.8,
+  "dateAndTime": "2016-03-25T19:33:00.000Z"
 }, {
   "date": "3/26/16",
-  "time": "2:02:45",
-  "dateAndTime": "3/26/16 2:02",
-  "feeding": 53,
-  "pee": 0.5,
-  "poop": 0.7
+  "time": "01:59:35",
+  "feeding": 68,
+  "pee": 0.9,
+  "poop": 0,
+  "dateAndTime": "2016-03-26T01:59:35.000Z"
 }, {
   "date": "3/26/16",
-  "time": "5:27:10",
-  "dateAndTime": "3/26/16 5:27",
-  "feeding": 79,
-  "pee": 0.7,
-  "poop": 0.9
+  "time": "04:37:38",
+  "feeding": 83,
+  "pee": 0.9,
+  "poop": 0.6,
+  "dateAndTime": "2016-03-26T04:37:38.000Z"
 }, {
   "date": "3/26/16",
-  "time": "6:51:41",
-  "dateAndTime": "3/26/16 6:51",
-  "feeding": 82,
-  "pee": 0.5,
-  "poop": 0.4
+  "time": "08:54:25",
+  "feeding": 52,
+  "pee": 0.4,
+  "poop": 0.7,
+  "dateAndTime": "2016-03-26T08:54:25.000Z"
 }, {
   "date": "3/26/16",
-  "time": "9:14:07",
-  "dateAndTime": "3/26/16 9:14",
-  "feeding": 84,
-  "pee": 0.2,
-  "poop": 0.8
+  "time": "10:52:42",
+  "feeding": 75,
+  "pee": 0.1,
+  "poop": 0.2,
+  "dateAndTime": "2016-03-26T10:52:42.000Z"
 }, {
   "date": "3/26/16",
-  "time": "12:16:22",
-  "dateAndTime": "3/26/16 12:16",
-  "feeding": 71,
-  "pee": 1,
-  "poop": 0.3
+  "time": "12:27:08",
+  "feeding": 66,
+  "pee": 0.3,
+  "poop": 0.7,
+  "dateAndTime": "2016-03-26T12:27:08.000Z"
 }, {
   "date": "3/26/16",
-  "time": "15:41:18",
-  "dateAndTime": "3/26/16 15:41",
-  "feeding": 71,
-  "pee": 0.9,
-  "poop": 0.2
+  "time": "15:02:20",
+  "feeding": 76,
+  "pee": 0.4,
+  "poop": 0.2,
+  "dateAndTime": "2016-03-26T15:02:20.000Z"
 }, {
   "date": "3/26/16",
-  "time": "22:19:56",
-  "dateAndTime": "3/26/16 22:19",
-  "feeding": 52,
-  "pee": 0.2,
-  "poop": 0
+  "time": "20:31:19",
+  "feeding": 79,
+  "pee": 1,
+  "poop": 0.6,
+  "dateAndTime": "2016-03-26T20:31:19.000Z"
 }, {
   "date": "3/27/16",
-  "time": "2:09:30",
-  "dateAndTime": "3/27/16 2:09",
-  "feeding": 54,
-  "pee": 0.1,
-  "poop": 0.8
+  "time": "02:59:14",
+  "feeding": 57,
+  "pee": 0.3,
+  "poop": 0.7,
+  "dateAndTime": "2016-03-27T02:59:14.000Z"
 }, {
   "date": "3/27/16",
-  "time": "4:31:39",
-  "dateAndTime": "3/27/16 4:31",
-  "feeding": 82,
-  "pee": 0.6,
-  "poop": 0.9
+  "time": "04:45:48",
+  "feeding": 79,
+  "pee": 0.4,
+  "poop": 0.3,
+  "dateAndTime": "2016-03-27T04:45:48.000Z"
 }, {
   "date": "3/27/16",
-  "time": "6:54:31",
-  "dateAndTime": "3/27/16 6:54",
+  "time": "08:31:48",
   "feeding": 78,
-  "pee": 0.3,
-  "poop": 0.8
+  "pee": 0.6,
+  "poop": 0.3,
+  "dateAndTime": "2016-03-27T08:31:48.000Z"
 }, {
   "date": "3/27/16",
-  "time": "9:43:47",
-  "dateAndTime": "3/27/16 9:43",
-  "feeding": 83,
-  "pee": 0.3,
-  "poop": 0.9
+  "time": "09:09:47",
+  "feeding": 57,
+  "pee": 0.9,
+  "poop": 0.8,
+  "dateAndTime": "2016-03-27T09:09:47.000Z"
 }, {
   "date": "3/27/16",
-  "time": "13:13:38",
-  "dateAndTime": "3/27/16 13:13",
-  "feeding": 82,
-  "pee": 0.9,
-  "poop": 0.4
+  "time": "14:48:31",
+  "feeding": 84,
+  "pee": 0.2,
+  "poop": 0.8,
+  "dateAndTime": "2016-03-27T14:48:31.000Z"
 }, {
   "date": "3/27/16",
-  "time": "15:16:46",
-  "dateAndTime": "3/27/16 15:16",
-  "feeding": 57,
-  "pee": 0.4,
-  "poop": 0.2
+  "time": "16:43:32",
+  "feeding": 55,
+  "pee": 0.3,
+  "poop": 0.9,
+  "dateAndTime": "2016-03-27T16:43:32.000Z"
 }, {
   "date": "3/27/16",
-  "time": "20:16:20",
-  "dateAndTime": "3/27/16 20:16",
-  "feeding": 53,
-  "pee": 0.4,
-  "poop": 0.8
+  "time": "22:10:07",
+  "feeding": 69,
+  "pee": 0.1,
+  "poop": 0.3,
+  "dateAndTime": "2016-03-27T22:10:07.000Z"
 }, {
   "date": "3/28/16",
-  "time": "1:22:06",
-  "dateAndTime": "3/28/16 1:22",
-  "feeding": 90,
-  "pee": 0.9,
-  "poop": 0.2
+  "time": "01:36:40",
+  "feeding": 54,
+  "pee": 0.8,
+  "poop": 0.2,
+  "dateAndTime": "2016-03-28T01:36:40.000Z"
 }, {
   "date": "3/28/16",
-  "time": "5:57:44",
-  "dateAndTime": "3/28/16 5:57",
-  "feeding": 78,
-  "pee": 0.5,
-  "poop": 0.2
+  "time": "03:45:03",
+  "feeding": 82,
+  "pee": 0.3,
+  "poop": 0.3,
+  "dateAndTime": "2016-03-28T03:45:03.000Z"
 }, {
   "date": "3/28/16",
-  "time": "6:32:04",
-  "dateAndTime": "3/28/16 6:32",
-  "feeding": 84,
-  "pee": 0.8,
-  "poop": 0.3
+  "time": "06:29:09",
+  "feeding": 53,
+  "pee": 0.7,
+  "poop": 0.7,
+  "dateAndTime": "2016-03-28T06:29:09.000Z"
 }, {
   "date": "3/28/16",
-  "time": "11:04:53",
-  "dateAndTime": "3/28/16 11:04",
-  "feeding": 79,
-  "pee": 0.3,
-  "poop": 0.1
+  "time": "11:40:12",
+  "feeding": 73,
+  "pee": 0.2,
+  "poop": 0.9,
+  "dateAndTime": "2016-03-28T11:40:12.000Z"
 }, {
   "date": "3/28/16",
-  "time": "12:00:53",
-  "dateAndTime": "3/28/16 12:00",
-  "feeding": 60,
-  "pee": 0.4,
-  "poop": 0.2
+  "time": "13:20:24",
+  "feeding": 76,
+  "pee": 0.6,
+  "poop": 0.3,
+  "dateAndTime": "2016-03-28T13:20:24.000Z"
 }, {
   "date": "3/28/16",
-  "time": "16:34:34",
-  "dateAndTime": "3/28/16 16:34",
-  "feeding": 62,
-  "pee": 0.4,
-  "poop": 0.3
+  "time": "15:59:58",
+  "feeding": 88,
+  "pee": 1,
+  "poop": 0.1,
+  "dateAndTime": "2016-03-28T15:59:58.000Z"
 }, {
   "date": "3/28/16",
-  "time": "23:31:29",
-  "dateAndTime": "3/28/16 23:31",
-  "feeding": 61,
-  "pee": 0.3,
-  "poop": 0.4
+  "time": "23:47:27",
+  "feeding": 78,
+  "pee": 0.8,
+  "poop": 0,
+  "dateAndTime": "2016-03-28T23:47:27.000Z"
 }, {
   "date": "3/29/16",
-  "time": "1:22:22",
-  "dateAndTime": "3/29/16 1:22",
-  "feeding": 71,
-  "pee": 0.3,
-  "poop": 1
+  "time": "00:01:28",
+  "feeding": 72,
+  "pee": 0.4,
+  "poop": 0.2,
+  "dateAndTime": "2016-03-29T00:01:28.000Z"
 }, {
   "date": "3/29/16",
-  "time": "5:16:24",
-  "dateAndTime": "3/29/16 5:16",
-  "feeding": 59,
-  "pee": 0.5,
-  "poop": 0.9
+  "time": "05:51:06",
+  "feeding": 63,
+  "pee": 0.1,
+  "poop": 0.3,
+  "dateAndTime": "2016-03-29T05:51:06.000Z"
 }, {
   "date": "3/29/16",
-  "time": "7:03:25",
-  "dateAndTime": "3/29/16 7:03",
-  "feeding": 69,
-  "pee": 0.6,
-  "poop": 0.3
+  "time": "07:18:03",
+  "feeding": 80,
+  "pee": 0.5,
+  "poop": 0.6,
+  "dateAndTime": "2016-03-29T07:18:03.000Z"
 }, {
   "date": "3/29/16",
-  "time": "10:30:58",
-  "dateAndTime": "3/29/16 10:30",
-  "feeding": 55,
-  "pee": 0.1,
-  "poop": 0.2
+  "time": "11:22:59",
+  "feeding": 71,
+  "pee": 0.8,
+  "poop": 0.2,
+  "dateAndTime": "2016-03-29T11:22:59.000Z"
 }, {
   "date": "3/29/16",
-  "time": "13:26:48",
-  "dateAndTime": "3/29/16 13:26",
-  "feeding": 86,
+  "time": "13:13:36",
+  "feeding": 82,
   "pee": 0.1,
-  "poop": 0.6
+  "poop": 0.6,
+  "dateAndTime": "2016-03-29T13:13:36.000Z"
 }, {
   "date": "3/29/16",
-  "time": "15:27:02",
-  "dateAndTime": "3/29/16 15:27",
-  "feeding": 62,
+  "time": "15:45:50",
+  "feeding": 76,
   "pee": 0.6,
-  "poop": 0.9
+  "poop": 0.4,
+  "dateAndTime": "2016-03-29T15:45:50.000Z"
 }, {
   "date": "3/29/16",
-  "time": "19:54:07",
-  "dateAndTime": "3/29/16 19:54",
-  "feeding": 57,
-  "pee": 0.9,
-  "poop": 0.8
+  "time": "19:20:48",
+  "feeding": 83,
+  "pee": 0.2,
+  "poop": 0.4,
+  "dateAndTime": "2016-03-29T19:20:48.000Z"
 }, {
   "date": "3/30/16",
-  "time": "0:22:08",
-  "dateAndTime": "3/30/16 0:22",
-  "feeding": 79,
-  "pee": 0.7,
-  "poop": 0.3
+  "time": "02:51:53",
+  "feeding": 83,
+  "pee": 0.3,
+  "poop": 0.7,
+  "dateAndTime": "2016-03-30T02:51:53.000Z"
 }, {
   "date": "3/30/16",
-  "time": "5:07:04",
-  "dateAndTime": "3/30/16 5:07",
-  "feeding": 79,
-  "pee": 0.9,
-  "poop": 0.5
+  "time": "05:46:53",
+  "feeding": 75,
+  "pee": 0.5,
+  "poop": 0.8,
+  "dateAndTime": "2016-03-30T05:46:53.000Z"
 }, {
   "date": "3/30/16",
-  "time": "6:50:21",
-  "dateAndTime": "3/30/16 6:50",
-  "feeding": 89,
-  "pee": 0.4,
-  "poop": 0.5
+  "time": "07:21:23",
+  "feeding": 75,
+  "pee": 0.3,
+  "poop": 0.7,
+  "dateAndTime": "2016-03-30T07:21:23.000Z"
 }, {
   "date": "3/30/16",
-  "time": "11:07:55",
-  "dateAndTime": "3/30/16 11:07",
-  "feeding": 84,
-  "pee": 0.3,
-  "poop": 0.2
+  "time": "11:40:16",
+  "feeding": 52,
+  "pee": 0.1,
+  "poop": 0.2,
+  "dateAndTime": "2016-03-30T11:40:16.000Z"
 }, {
   "date": "3/30/16",
-  "time": "14:41:50",
-  "dateAndTime": "3/30/16 14:41",
-  "feeding": 74,
-  "pee": 0.3,
-  "poop": 0.1
+  "time": "12:09:13",
+  "feeding": 80,
+  "pee": 1,
+  "poop": 1,
+  "dateAndTime": "2016-03-30T12:09:13.000Z"
 }, {
   "date": "3/30/16",
-  "time": "18:04:55",
-  "dateAndTime": "3/30/16 18:04",
-  "feeding": 73,
-  "pee": 0.6,
-  "poop": 1
+  "time": "17:39:25",
+  "feeding": 88,
+  "pee": 0.7,
+  "poop": 0.9,
+  "dateAndTime": "2016-03-30T17:39:25.000Z"
 }, {
   "date": "3/30/16",
-  "time": "20:32:36",
-  "dateAndTime": "3/30/16 20:32",
-  "feeding": 58,
-  "pee": 0.7,
-  "poop": 0.6
+  "time": "21:18:29",
+  "feeding": 76,
+  "pee": 0.2,
+  "poop": 0.7,
+  "dateAndTime": "2016-03-30T21:18:29.000Z"
 }, {
   "date": "3/31/16",
-  "time": "0:43:32",
-  "dateAndTime": "3/31/16 0:43",
-  "feeding": 85,
-  "pee": 0.7,
-  "poop": 0.2
+  "time": "01:23:15",
+  "feeding": 68,
+  "pee": 0.5,
+  "poop": 0.4,
+  "dateAndTime": "2016-03-31T01:23:15.000Z"
 }, {
   "date": "3/31/16",
-  "time": "3:32:01",
-  "dateAndTime": "3/31/16 3:32",
-  "feeding": 51,
-  "pee": 0.3,
-  "poop": 0.2
+  "time": "03:37:47",
+  "feeding": 76,
+  "pee": 0.9,
+  "poop": 0.6,
+  "dateAndTime": "2016-03-31T03:37:47.000Z"
 }, {
   "date": "3/31/16",
-  "time": "8:09:40",
-  "dateAndTime": "3/31/16 8:09",
-  "feeding": 88,
-  "pee": 0.4,
-  "poop": 0
+  "time": "07:05:12",
+  "feeding": 81,
+  "pee": 0.9,
+  "poop": 0.8,
+  "dateAndTime": "2016-03-31T07:05:12.000Z"
 }, {
   "date": "3/31/16",
-  "time": "9:48:05",
-  "dateAndTime": "3/31/16 9:48",
-  "feeding": 77,
-  "pee": 0.9,
-  "poop": 0.4
+  "time": "10:15:47",
+  "feeding": 64,
+  "pee": 0.4,
+  "poop": 0.2,
+  "dateAndTime": "2016-03-31T10:15:47.000Z"
 }, {
   "date": "3/31/16",
-  "time": "14:00:36",
-  "dateAndTime": "3/31/16 14:00",
-  "feeding": 90,
-  "pee": 0.2,
-  "poop": 0.7
+  "time": "13:26:33",
+  "feeding": 83,
+  "pee": 0.6,
+  "poop": 0.7,
+  "dateAndTime": "2016-03-31T13:26:33.000Z"
 }, {
   "date": "3/31/16",
-  "time": "17:08:12",
-  "dateAndTime": "3/31/16 17:08",
-  "feeding": 89,
+  "time": "16:14:30",
+  "feeding": 79,
   "pee": 0.2,
-  "poop": 0.1
+  "poop": 1,
+  "dateAndTime": "2016-03-31T16:14:30.000Z"
 }, {
   "date": "3/31/16",
-  "time": "23:50:20",
-  "dateAndTime": "3/31/16 23:50",
-  "feeding": 55,
-  "pee": 0.5,
-  "poop": 0.4
+  "time": "21:23:53",
+  "feeding": 74,
+  "pee": 0.2,
+  "poop": 0.9,
+  "dateAndTime": "2016-03-31T21:23:53.000Z"
 }, {
   "date": "4/1/16",
-  "time": "1:56:48",
-  "dateAndTime": "4/1/16 1:56",
-  "feeding": 86,
-  "pee": 0.7,
-  "poop": 0.7
+  "time": "02:02:31",
+  "feeding": 75,
+  "pee": 0.4,
+  "poop": 0.2,
+  "dateAndTime": "2016-04-01T02:02:31.000Z"
 }, {
   "date": "4/1/16",
-  "time": "4:26:16",
-  "dateAndTime": "4/1/16 4:26",
-  "feeding": 69,
-  "pee": 0.4,
-  "poop": 0.3
+  "time": "05:24:16",
+  "feeding": 70,
+  "pee": 0.7,
+  "poop": 0.9,
+  "dateAndTime": "2016-04-01T05:24:16.000Z"
 }, {
   "date": "4/1/16",
-  "time": "6:26:40",
-  "dateAndTime": "4/1/16 6:26",
-  "feeding": 82,
+  "time": "08:36:49",
+  "feeding": 71,
   "pee": 0.1,
-  "poop": 0.7
+  "poop": 0.5,
+  "dateAndTime": "2016-04-01T08:36:49.000Z"
 }, {
   "date": "4/1/16",
-  "time": "9:12:20",
-  "dateAndTime": "4/1/16 9:12",
-  "feeding": 58,
-  "pee": 0.6,
-  "poop": 0.2
+  "time": "09:34:37",
+  "feeding": 60,
+  "pee": 0.3,
+  "poop": 0.6,
+  "dateAndTime": "2016-04-01T09:34:37.000Z"
 }, {
   "date": "4/1/16",
-  "time": "14:15:09",
-  "dateAndTime": "4/1/16 14:15",
-  "feeding": 64,
-  "pee": 0.8,
-  "poop": 0.9
+  "time": "12:38:41",
+  "feeding": 81,
+  "pee": 0.5,
+  "poop": 0.5,
+  "dateAndTime": "2016-04-01T12:38:41.000Z"
 }, {
   "date": "4/1/16",
-  "time": "18:03:54",
-  "dateAndTime": "4/1/16 18:03",
-  "feeding": 73,
-  "pee": 0.1,
-  "poop": 0.9
+  "time": "15:59:46",
+  "feeding": 54,
+  "pee": 0.8,
+  "poop": 0.9,
+  "dateAndTime": "2016-04-01T15:59:46.000Z"
 }, {
   "date": "4/1/16",
-  "time": "20:09:54",
-  "dateAndTime": "4/1/16 20:09",
-  "feeding": 68,
-  "pee": 0.9,
-  "poop": 0.7
+  "time": "22:48:18",
+  "feeding": 79,
+  "pee": 0,
+  "poop": 0.6,
+  "dateAndTime": "2016-04-01T22:48:18.000Z"
 }, {
   "date": "4/2/16",
-  "time": "2:10:02",
-  "dateAndTime": "4/2/16 2:10",
-  "feeding": 82,
-  "pee": 0.3,
-  "poop": 0.6
+  "time": "01:29:45",
+  "feeding": 76,
+  "pee": 0.8,
+  "poop": 0.7,
+  "dateAndTime": "2016-04-02T01:29:45.000Z"
 }, {
   "date": "4/2/16",
-  "time": "5:53:54",
-  "dateAndTime": "4/2/16 5:53",
-  "feeding": 76,
-  "pee": 0.6,
-  "poop": 0.6
+  "time": "03:27:24",
+  "feeding": 77,
+  "pee": 0.5,
+  "poop": 0,
+  "dateAndTime": "2016-04-02T03:27:24.000Z"
 }, {
   "date": "4/2/16",
-  "time": "6:24:18",
-  "dateAndTime": "4/2/16 6:24",
-  "feeding": 69,
+  "time": "07:28:27",
+  "feeding": 66,
   "pee": 0.6,
-  "poop": 0.6
+  "poop": 0.6,
+  "dateAndTime": "2016-04-02T07:28:27.000Z"
 }, {
   "date": "4/2/16",
-  "time": "9:41:40",
-  "dateAndTime": "4/2/16 9:41",
-  "feeding": 74,
-  "pee": 0.5,
-  "poop": 0
+  "time": "11:15:08",
+  "feeding": 57,
+  "pee": 0.2,
+  "poop": 0.4,
+  "dateAndTime": "2016-04-02T11:15:08.000Z"
 }, {
   "date": "4/2/16",
-  "time": "14:59:57",
-  "dateAndTime": "4/2/16 14:59",
-  "feeding": 55,
+  "time": "13:53:57",
+  "feeding": 73,
   "pee": 0.1,
-  "poop": 0.8
+  "poop": 0.6,
+  "dateAndTime": "2016-04-02T13:53:57.000Z"
 }, {
   "date": "4/2/16",
-  "time": "17:09:21",
-  "dateAndTime": "4/2/16 17:09",
-  "feeding": 74,
-  "pee": 0.7,
-  "poop": 0.7
+  "time": "18:46:48",
+  "feeding": 84,
+  "pee": 0,
+  "poop": 0.6,
+  "dateAndTime": "2016-04-02T18:46:48.000Z"
 }, {
   "date": "4/2/16",
-  "time": "21:17:40",
-  "dateAndTime": "4/2/16 21:17",
-  "feeding": 63,
-  "pee": 0.3,
-  "poop": 0.2
+  "time": "22:38:35",
+  "feeding": 79,
+  "pee": 0.8,
+  "poop": 0.8,
+  "dateAndTime": "2016-04-02T22:38:35.000Z"
 }, {
   "date": "4/3/16",
-  "time": "0:35:37",
-  "dateAndTime": "4/3/16 0:35",
-  "feeding": 56,
-  "pee": 0.9,
-  "poop": 0
+  "time": "01:12:18",
+  "feeding": 77,
+  "pee": 0.8,
+  "poop": 0,
+  "dateAndTime": "2016-04-03T01:12:18.000Z"
 }, {
   "date": "4/3/16",
-  "time": "4:07:45",
-  "dateAndTime": "4/3/16 4:07",
-  "feeding": 89,
-  "pee": 0.2,
-  "poop": 0.6
-}, {
-  "date": "4/3/16",
-  "time": "7:27:20",
-  "dateAndTime": "4/3/16 7:27",
-  "feeding": 65,
-  "pee": 0.4,
-  "poop": 1
-}, {
-  "date": "4/3/16",
-  "time": "9:25:07",
-  "dateAndTime": "4/3/16 9:25",
-  "feeding": 83,
+  "time": "05:36:48",
+  "feeding": 55,
   "pee": 0.1,
-  "poop": 0.6
+  "poop": 0.7,
+  "dateAndTime": "2016-04-03T05:36:48.000Z"
 }, {
   "date": "4/3/16",
-  "time": "14:35:09",
-  "dateAndTime": "4/3/16 14:35",
-  "feeding": 83,
+  "time": "06:36:52",
+  "feeding": 75,
   "pee": 0.4,
-  "poop": 0.4
+  "poop": 0.6,
+  "dateAndTime": "2016-04-03T06:36:52.000Z"
 }, {
   "date": "4/3/16",
-  "time": "16:08:39",
-  "dateAndTime": "4/3/16 16:08",
+  "time": "11:53:03",
+  "feeding": 50,
+  "pee": 0.4,
+  "poop": 0.6,
+  "dateAndTime": "2016-04-03T11:53:03.000Z"
+}, {
+  "date": "4/3/16",
+  "time": "12:50:12",
   "feeding": 61,
-  "pee": 0.7,
-  "poop": 0.2
+  "pee": 0.9,
+  "poop": 0.1,
+  "dateAndTime": "2016-04-03T12:50:12.000Z"
 }, {
   "date": "4/3/16",
-  "time": "19:38:20",
-  "dateAndTime": "4/3/16 19:38",
-  "feeding": 76,
-  "pee": 0.6,
-  "poop": 0.7
+  "time": "18:38:42",
+  "feeding": 68,
+  "pee": 0.8,
+  "poop": 0.6,
+  "dateAndTime": "2016-04-03T18:38:42.000Z"
+}, {
+  "date": "4/3/16",
+  "time": "21:59:13",
+  "feeding": 75,
+  "pee": 0.3,
+  "poop": 0.9,
+  "dateAndTime": "2016-04-03T21:59:13.000Z"
 }, {
   "date": "4/4/16",
-  "time": "0:10:58",
-  "dateAndTime": "4/4/16 0:10",
+  "time": "02:37:47",
   "feeding": 89,
-  "pee": 0.4,
-  "poop": 0.6
+  "pee": 0.6,
+  "poop": 0.7,
+  "dateAndTime": "2016-04-04T02:37:47.000Z"
 }, {
   "date": "4/4/16",
-  "time": "4:51:44",
-  "dateAndTime": "4/4/16 4:51",
-  "feeding": 74,
-  "pee": 0.2,
-  "poop": 0.8
+  "time": "03:04:09",
+  "feeding": 59,
+  "pee": 0.9,
+  "poop": 0.4,
+  "dateAndTime": "2016-04-04T03:04:09.000Z"
 }, {
   "date": "4/4/16",
-  "time": "8:52:35",
-  "dateAndTime": "4/4/16 8:52",
-  "feeding": 90,
-  "pee": 0.5,
-  "poop": 0.5
+  "time": "06:55:19",
+  "feeding": 75,
+  "pee": 0.3,
+  "poop": 0.3,
+  "dateAndTime": "2016-04-04T06:55:19.000Z"
 }, {
   "date": "4/4/16",
-  "time": "11:23:20",
-  "dateAndTime": "4/4/16 11:23",
+  "time": "10:04:13",
   "feeding": 82,
   "pee": 1,
-  "poop": 0.1
+  "poop": 0.1,
+  "dateAndTime": "2016-04-04T10:04:13.000Z"
 }, {
   "date": "4/4/16",
-  "time": "14:54:49",
-  "dateAndTime": "4/4/16 14:54",
-  "feeding": 77,
-  "pee": 0.1,
-  "poop": 1
-}, {
-  "date": "4/4/16",
-  "time": "18:40:46",
-  "dateAndTime": "4/4/16 18:40",
-  "feeding": 78,
-  "pee": 0,
-  "poop": 0.2
-}, {
-  "date": "4/4/16",
-  "time": "20:56:10",
-  "dateAndTime": "4/4/16 20:56",
-  "feeding": 88,
-  "pee": 0.3,
-  "poop": 0.9
-}, {
-  "date": "4/5/16",
-  "time": "1:22:17",
-  "dateAndTime": "4/5/16 1:22",
-  "feeding": 60,
+  "time": "12:21:52",
+  "feeding": 69,
   "pee": 0.5,
-  "poop": 0.5
+  "poop": 0.7,
+  "dateAndTime": "2016-04-04T12:21:52.000Z"
+}, {
+  "date": "4/4/16",
+  "time": "18:02:08",
+  "feeding": 57,
+  "pee": 0.9,
+  "poop": 0.3,
+  "dateAndTime": "2016-04-04T18:02:08.000Z"
+}, {
+  "date": "4/4/16",
+  "time": "22:26:59",
+  "feeding": 88,
+  "pee": 0.7,
+  "poop": 0.1,
+  "dateAndTime": "2016-04-04T22:26:59.000Z"
 }, {
   "date": "4/5/16",
-  "time": "5:25:28",
-  "dateAndTime": "4/5/16 5:25",
-  "feeding": 56,
-  "pee": 0.1,
-  "poop": 0
+  "time": "01:07:34",
+  "feeding": 86,
+  "pee": 0.7,
+  "poop": 0.5,
+  "dateAndTime": "2016-04-05T01:07:34.000Z"
 }, {
   "date": "4/5/16",
-  "time": "6:41:37",
-  "dateAndTime": "4/5/16 6:41",
-  "feeding": 63,
+  "time": "03:04:18",
+  "feeding": 87,
+  "pee": 0.5,
+  "poop": 0.9,
+  "dateAndTime": "2016-04-05T03:04:18.000Z"
+}, {
+  "date": "4/5/16",
+  "time": "08:23:03",
+  "feeding": 62,
+  "pee": 0.9,
+  "poop": 1,
+  "dateAndTime": "2016-04-05T08:23:03.000Z"
+}, {
+  "date": "4/5/16",
+  "time": "09:33:45",
+  "feeding": 54,
+  "pee": 0.7,
+  "poop": 0.7,
+  "dateAndTime": "2016-04-05T09:33:45.000Z"
+}, {
+  "date": "4/5/16",
+  "time": "12:46:48",
+  "feeding": 79,
+  "pee": 0.2,
+  "poop": 0.6,
+  "dateAndTime": "2016-04-05T12:46:48.000Z"
+}, {
+  "date": "4/5/16",
+  "time": "18:04:17",
+  "feeding": 64,
   "pee": 1,
-  "poop": 0.5
+  "poop": 0.2,
+  "dateAndTime": "2016-04-05T18:04:17.000Z"
 }, {
   "date": "4/5/16",
-  "time": "9:26:02",
-  "dateAndTime": "4/5/16 9:26",
+  "time": "22:31:01",
+  "feeding": 57,
+  "pee": 0.8,
+  "poop": 0.9,
+  "dateAndTime": "2016-04-05T22:31:01.000Z"
+}, {
+  "date": "4/6/16",
+  "time": "00:33:09",
+  "feeding": 63,
+  "pee": 0.2,
+  "poop": 0.6,
+  "dateAndTime": "2016-04-06T00:33:09.000Z"
+}, {
+  "date": "4/6/16",
+  "time": "05:56:56",
+  "feeding": 80,
+  "pee": 0.7,
+  "poop": 0.9,
+  "dateAndTime": "2016-04-06T05:56:56.000Z"
+}, {
+  "date": "4/6/16",
+  "time": "08:11:14",
+  "feeding": 80,
+  "pee": 0.4,
+  "poop": 0.5,
+  "dateAndTime": "2016-04-06T08:11:14.000Z"
+}, {
+  "date": "4/6/16",
+  "time": "10:53:50",
+  "feeding": 51,
+  "pee": 0,
+  "poop": 0.5,
+  "dateAndTime": "2016-04-06T10:53:50.000Z"
+}, {
+  "date": "4/6/16",
+  "time": "13:40:52",
+  "feeding": 67,
+  "pee": 0.9,
+  "poop": 0.6,
+  "dateAndTime": "2016-04-06T13:40:52.000Z"
+}, {
+  "date": "4/6/16",
+  "time": "18:13:43",
+  "feeding": 76,
+  "pee": 0.8,
+  "poop": 0.5,
+  "dateAndTime": "2016-04-06T18:13:43.000Z"
+}, {
+  "date": "4/6/16",
+  "time": "22:32:47",
+  "feeding": 74,
+  "pee": 0.7,
+  "poop": 0.6,
+  "dateAndTime": "2016-04-06T22:32:47.000Z"
+}, {
+  "date": "4/7/16",
+  "time": "02:41:24",
+  "feeding": 66,
+  "pee": 0,
+  "poop": 0.2,
+  "dateAndTime": "2016-04-07T02:41:24.000Z"
+}, {
+  "date": "4/7/16",
+  "time": "05:26:15",
+  "feeding": 85,
+  "pee": 0,
+  "poop": 0.2,
+  "dateAndTime": "2016-04-07T05:26:15.000Z"
+}, {
+  "date": "4/7/16",
+  "time": "08:54:03",
+  "feeding": 59,
+  "pee": 0.2,
+  "poop": 0.7,
+  "dateAndTime": "2016-04-07T08:54:03.000Z"
+}, {
+  "date": "4/7/16",
+  "time": "09:54:35",
+  "feeding": 56,
+  "pee": 0.6,
+  "poop": 0.4,
+  "dateAndTime": "2016-04-07T09:54:35.000Z"
+}, {
+  "date": "4/7/16",
+  "time": "13:21:56",
+  "feeding": 51,
+  "pee": 0.7,
+  "poop": 0.8,
+  "dateAndTime": "2016-04-07T13:21:56.000Z"
+}, {
+  "date": "4/7/16",
+  "time": "17:48:00",
+  "feeding": 68,
+  "pee": 1,
+  "poop": 0.3,
+  "dateAndTime": "2016-04-07T17:48:00.000Z"
+}, {
+  "date": "4/7/16",
+  "time": "22:30:07",
+  "feeding": 77,
+  "pee": 0.4,
+  "poop": 0.4,
+  "dateAndTime": "2016-04-07T22:30:07.000Z"
+}, {
+  "date": "4/8/16",
+  "time": "02:15:57",
+  "feeding": 63,
+  "pee": 0.6,
+  "poop": 0.6,
+  "dateAndTime": "2016-04-08T02:15:57.000Z"
+}, {
+  "date": "4/8/16",
+  "time": "05:31:59",
+  "feeding": 53,
+  "pee": 0.9,
+  "poop": 0.2,
+  "dateAndTime": "2016-04-08T05:31:59.000Z"
+}, {
+  "date": "4/8/16",
+  "time": "06:58:21",
+  "feeding": 62,
+  "pee": 0.6,
+  "poop": 0.8,
+  "dateAndTime": "2016-04-08T06:58:21.000Z"
+}, {
+  "date": "4/8/16",
+  "time": "11:36:33",
+  "feeding": 83,
+  "pee": 0.7,
+  "poop": 1,
+  "dateAndTime": "2016-04-08T11:36:33.000Z"
+}, {
+  "date": "4/8/16",
+  "time": "12:18:23",
+  "feeding": 84,
+  "pee": 0.8,
+  "poop": 0.5,
+  "dateAndTime": "2016-04-08T12:18:23.000Z"
+}, {
+  "date": "4/8/16",
+  "time": "15:42:49",
+  "feeding": 56,
+  "pee": 0,
+  "poop": 0.6,
+  "dateAndTime": "2016-04-08T15:42:49.000Z"
+}, {
+  "date": "4/8/16",
+  "time": "23:52:38",
+  "feeding": 66,
+  "pee": 0.9,
+  "poop": 0.2,
+  "dateAndTime": "2016-04-08T23:52:38.000Z"
+}, {
+  "date": "4/9/16",
+  "time": "01:06:52",
+  "feeding": 55,
+  "pee": 0.3,
+  "poop": 0.2,
+  "dateAndTime": "2016-04-09T01:06:52.000Z"
+}, {
+  "date": "4/9/16",
+  "time": "03:30:41",
+  "feeding": 72,
+  "pee": 0.6,
+  "poop": 0.3,
+  "dateAndTime": "2016-04-09T03:30:41.000Z"
+}, {
+  "date": "4/9/16",
+  "time": "06:27:52",
+  "feeding": 52,
+  "pee": 0.8,
+  "poop": 0.7,
+  "dateAndTime": "2016-04-09T06:27:52.000Z"
+}, {
+  "date": "4/9/16",
+  "time": "09:32:17",
+  "feeding": 72,
+  "pee": 0.2,
+  "poop": 0.1,
+  "dateAndTime": "2016-04-09T09:32:17.000Z"
+}, {
+  "date": "4/9/16",
+  "time": "13:38:46",
+  "feeding": 84,
+  "pee": 0.3,
+  "poop": 0.9,
+  "dateAndTime": "2016-04-09T13:38:46.000Z"
+}, {
+  "date": "4/9/16",
+  "time": "16:46:26",
+  "feeding": 75,
+  "pee": 0.2,
+  "poop": 0.5,
+  "dateAndTime": "2016-04-09T16:46:26.000Z"
+}, {
+  "date": "4/9/16",
+  "time": "19:28:48",
+  "feeding": 52,
+  "pee": 0.7,
+  "poop": 0.7,
+  "dateAndTime": "2016-04-09T19:28:48.000Z"
+}, {
+  "date": "4/10/16",
+  "time": "00:12:25",
+  "feeding": 80,
+  "pee": 0,
+  "poop": 0.8,
+  "dateAndTime": "2016-04-10T00:12:25.000Z"
+}, {
+  "date": "4/10/16",
+  "time": "03:20:52",
+  "feeding": 69,
+  "pee": 0.1,
+  "poop": 0.7,
+  "dateAndTime": "2016-04-10T03:20:52.000Z"
+}, {
+  "date": "4/10/16",
+  "time": "08:43:26",
+  "feeding": 90,
+  "pee": 0,
+  "poop": 0.2,
+  "dateAndTime": "2016-04-10T08:43:26.000Z"
+}, {
+  "date": "4/10/16",
+  "time": "09:40:01",
+  "feeding": 61,
+  "pee": 0.3,
+  "poop": 0.7,
+  "dateAndTime": "2016-04-10T09:40:01.000Z"
+}, {
+  "date": "4/10/16",
+  "time": "14:40:19",
   "feeding": 69,
   "pee": 0.3,
-  "poop": 0.6
+  "poop": 0.6,
+  "dateAndTime": "2016-04-10T14:40:19.000Z"
 }, {
-  "date": "4/5/16",
-  "time": "12:44:14",
-  "dateAndTime": "4/5/16 12:44",
+  "date": "4/10/16",
+  "time": "15:26:54",
   "feeding": 80,
-  "pee": 0.4,
-  "poop": 1
+  "pee": 0.2,
+  "poop": 0.7,
+  "dateAndTime": "2016-04-10T15:26:54.000Z"
 }, {
-  "date": "4/5/16",
-  "time": "18:16:35",
-  "dateAndTime": "4/5/16 18:16",
-  "feeding": 52,
-  "pee": 0.1,
-  "poop": 0.9
-}, {
-  "date": "4/5/16",
-  "time": "21:20:24",
-  "dateAndTime": "4/5/16 21:20",
-  "feeding": 64,
-  "pee": 0.5,
-  "poop": 0.7
-}, {
-  "date": "4/6/16",
-  "time": "0:04:50",
-  "dateAndTime": "4/6/16 0:04",
-  "feeding": 71,
-  "pee": 0.3,
-  "poop": 0.1
-}, {
-  "date": "4/6/16",
-  "time": "3:44:21",
-  "dateAndTime": "4/6/16 3:44",
-  "feeding": 74,
-  "pee": 1,
-  "poop": 0.2
-}, {
-  "date": "4/6/16",
-  "time": "7:19:33",
-  "dateAndTime": "4/6/16 7:19",
-  "feeding": 84,
-  "pee": 0.6,
-  "poop": 0.4
-}, {
-  "date": "4/6/16",
-  "time": "11:49:40",
-  "dateAndTime": "4/6/16 11:49",
-  "feeding": 67,
-  "pee": 0.6,
-  "poop": 0.7
-}, {
-  "date": "4/6/16",
-  "time": "12:19:53",
-  "dateAndTime": "4/6/16 12:19",
-  "feeding": 67,
-  "pee": 0.7,
-  "poop": 0.9
-}, {
-  "date": "4/6/16",
-  "time": "15:35:34",
-  "dateAndTime": "4/6/16 15:35",
-  "feeding": 75,
-  "pee": 0.3,
-  "poop": 0.7
-}, {
-  "date": "4/6/16",
-  "time": "21:27:39",
-  "dateAndTime": "4/6/16 21:27",
-  "feeding": 79,
-  "pee": 0.8,
-  "poop": 0.8
-}, {
-  "date": "4/7/16",
-  "time": "2:33:30",
-  "dateAndTime": "4/7/16 2:33",
-  "feeding": 59,
-  "pee": 0.8,
-  "poop": 0.1
-}, {
-  "date": "4/7/16",
-  "time": "4:39:08",
-  "dateAndTime": "4/7/16 4:39",
-  "feeding": 56,
-  "pee": 0.4,
-  "poop": 0.6
-}, {
-  "date": "4/7/16",
-  "time": "8:13:23",
-  "dateAndTime": "4/7/16 8:13",
+  "date": "4/10/16",
+  "time": "20:41:35",
   "feeding": 65,
-  "pee": 0.4,
-  "poop": 0.3
-}, {
-  "date": "4/7/16",
-  "time": "10:43:12",
-  "dateAndTime": "4/7/16 10:43",
-  "feeding": 57,
   "pee": 0.5,
-  "poop": 0.9
-}, {
-  "date": "4/7/16",
-  "time": "12:55:41",
-  "dateAndTime": "4/7/16 12:55",
-  "feeding": 56,
-  "pee": 0.2,
-  "poop": 0.8
-}, {
-  "date": "4/7/16",
-  "time": "17:03:42",
-  "dateAndTime": "4/7/16 17:03",
-  "feeding": 68,
-  "pee": 0.1,
-  "poop": 0.3
-}, {
-  "date": "4/7/16",
-  "time": "20:31:54",
-  "dateAndTime": "4/7/16 20:31",
-  "feeding": 73,
-  "pee": 0.8,
-  "poop": 0.8
-}, {
-  "date": "4/8/16",
-  "time": "0:02:06",
-  "dateAndTime": "4/8/16 0:02",
-  "feeding": 81,
-  "pee": 0.6,
-  "poop": 0.4
-}, {
-  "date": "4/8/16",
-  "time": "4:29:26",
-  "dateAndTime": "4/8/16 4:29",
-  "feeding": 85,
-  "pee": 0,
-  "poop": 0.3
-}, {
-  "date": "4/8/16",
-  "time": "6:54:26",
-  "dateAndTime": "4/8/16 6:54",
-  "feeding": 77,
-  "pee": 0.1,
-  "poop": 0.9
-}, {
-  "date": "4/8/16",
-  "time": "11:00:14",
-  "dateAndTime": "4/8/16 11:00",
-  "feeding": 76,
-  "pee": 0.7,
-  "poop": 0
-}, {
-  "date": "4/8/16",
-  "time": "13:38:39",
-  "dateAndTime": "4/8/16 13:38",
-  "feeding": 52,
-  "pee": 0,
-  "poop": 0
-}, {
-  "date": "4/8/16",
-  "time": "16:41:55",
-  "dateAndTime": "4/8/16 16:41",
-  "feeding": 75,
-  "pee": 0.8,
-  "poop": 0.5
-}, {
-  "date": "4/8/16",
-  "time": "22:28:30",
-  "dateAndTime": "4/8/16 22:28",
-  "feeding": 59,
-  "pee": 0,
-  "poop": 0.6
-}, {
-  "date": "4/9/16",
-  "time": "2:50:56",
-  "dateAndTime": "4/9/16 2:50",
-  "feeding": 86,
-  "pee": 1,
-  "poop": 0.7
-}, {
-  "date": "4/9/16",
-  "time": "5:59:47",
-  "dateAndTime": "4/9/16 5:59",
-  "feeding": 87,
-  "pee": 0.1,
-  "poop": 0.1
-}, {
-  "date": "4/9/16",
-  "time": "8:16:02",
-  "dateAndTime": "4/9/16 8:16",
-  "feeding": 81,
-  "pee": 0.3,
-  "poop": 0.3
-}, {
-  "date": "4/9/16",
-  "time": "11:18:13",
-  "dateAndTime": "4/9/16 11:18",
-  "feeding": 56,
-  "pee": 0.6,
-  "poop": 0.8
-}, {
-  "date": "4/9/16",
-  "time": "13:04:49",
-  "dateAndTime": "4/9/16 13:04",
-  "feeding": 50,
-  "pee": 0.9,
-  "poop": 0.1
-}, {
-  "date": "4/9/16",
-  "time": "15:33:22",
-  "dateAndTime": "4/9/16 15:33",
-  "feeding": 67,
-  "pee": 0.7,
-  "poop": 0.8
-}, {
-  "date": "4/9/16",
-  "time": "23:15:34",
-  "dateAndTime": "4/9/16 23:15",
-  "feeding": 61,
-  "pee": 0.2,
-  "poop": 0.2
-}, {
-  "date": "4/10/16",
-  "time": "1:53:02",
-  "dateAndTime": "4/10/16 1:53",
-  "feeding": 55,
-  "pee": 0.6,
-  "poop": 0.4
-}, {
-  "date": "4/10/16",
-  "time": "5:37:27",
-  "dateAndTime": "4/10/16 5:37",
-  "feeding": 67,
-  "pee": 0.6,
-  "poop": 0.9
-}, {
-  "date": "4/10/16",
-  "time": "6:05:51",
-  "dateAndTime": "4/10/16 6:05",
-  "feeding": 52,
-  "pee": 0.2,
-  "poop": 0.5
-}, {
-  "date": "4/10/16",
-  "time": "9:45:49",
-  "dateAndTime": "4/10/16 9:45",
-  "feeding": 90,
-  "pee": 0.4,
-  "poop": 0
-}, {
-  "date": "4/10/16",
-  "time": "14:44:23",
-  "dateAndTime": "4/10/16 14:44",
-  "feeding": 52,
-  "pee": 0.5,
-  "poop": 0.6
-}, {
-  "date": "4/10/16",
-  "time": "17:29:25",
-  "dateAndTime": "4/10/16 17:29",
-  "feeding": 89,
-  "pee": 0.7,
-  "poop": 0.5
-}, {
-  "date": "4/10/16",
-  "time": "23:05:05",
-  "dateAndTime": "4/10/16 23:05",
-  "feeding": 77,
-  "pee": 0.1,
-  "poop": 1
+  "poop": 0.6,
+  "dateAndTime": "2016-04-10T20:41:35.000Z"
 }, {
   "date": "4/11/16",
-  "time": "2:37:16",
-  "dateAndTime": "4/11/16 2:37",
-  "feeding": 70,
-  "pee": 0.6,
-  "poop": 0.7
-}, {
-  "date": "4/11/16",
-  "time": "3:20:38",
-  "dateAndTime": "4/11/16 3:20",
-  "feeding": 68,
-  "pee": 0.1,
-  "poop": 0.5
-}, {
-  "date": "4/11/16",
-  "time": "8:05:45",
-  "dateAndTime": "4/11/16 8:05",
-  "feeding": 83,
-  "pee": 0.9,
-  "poop": 0.8
-}, {
-  "date": "4/11/16",
-  "time": "9:45:12",
-  "dateAndTime": "4/11/16 9:45",
-  "feeding": 58,
-  "pee": 0.7,
-  "poop": 0.3
-}, {
-  "date": "4/11/16",
-  "time": "13:45:15",
-  "dateAndTime": "4/11/16 13:45",
-  "feeding": 58,
-  "pee": 0.1,
-  "poop": 0.5
-}, {
-  "date": "4/11/16",
-  "time": "17:06:16",
-  "dateAndTime": "4/11/16 17:06",
-  "feeding": 82,
-  "pee": 0.7,
-  "poop": 0.4
-}, {
-  "date": "4/11/16",
-  "time": "21:50:22",
-  "dateAndTime": "4/11/16 21:50",
-  "feeding": 51,
-  "pee": 0.9,
-  "poop": 0.9
-}, {
-  "date": "4/12/16",
-  "time": "1:22:03",
-  "dateAndTime": "4/12/16 1:22",
-  "feeding": 87,
-  "pee": 0.1,
-  "poop": 0.5
-}, {
-  "date": "4/12/16",
-  "time": "5:25:01",
-  "dateAndTime": "4/12/16 5:25",
-  "feeding": 52,
-  "pee": 0,
-  "poop": 0.6
-}, {
-  "date": "4/12/16",
-  "time": "6:30:42",
-  "dateAndTime": "4/12/16 6:30",
-  "feeding": 75,
-  "pee": 0.9,
-  "poop": 0.7
-}, {
-  "date": "4/12/16",
-  "time": "11:33:27",
-  "dateAndTime": "4/12/16 11:33",
-  "feeding": 56,
-  "pee": 0.8,
-  "poop": 0.9
-}, {
-  "date": "4/12/16",
-  "time": "13:40:07",
-  "dateAndTime": "4/12/16 13:40",
-  "feeding": 54,
-  "pee": 0,
-  "poop": 0.9
-}, {
-  "date": "4/12/16",
-  "time": "16:27:22",
-  "dateAndTime": "4/12/16 16:27",
-  "feeding": 86,
-  "pee": 0.4,
-  "poop": 0.9
-}, {
-  "date": "4/12/16",
-  "time": "20:26:08",
-  "dateAndTime": "4/12/16 20:26",
-  "feeding": 84,
-  "pee": 0.9,
-  "poop": 0
-}, {
-  "date": "4/13/16",
-  "time": "1:26:13",
-  "dateAndTime": "4/13/16 1:26",
-  "feeding": 90,
-  "pee": 0.3,
-  "poop": 0.9
-}, {
-  "date": "4/13/16",
-  "time": "3:59:16",
-  "dateAndTime": "4/13/16 3:59",
-  "feeding": 82,
-  "pee": 0.5,
-  "poop": 0.4
-}, {
-  "date": "4/13/16",
-  "time": "6:13:38",
-  "dateAndTime": "4/13/16 6:13",
-  "feeding": 78,
-  "pee": 0.8,
-  "poop": 0.2
-}, {
-  "date": "4/13/16",
-  "time": "11:06:57",
-  "dateAndTime": "4/13/16 11:06",
-  "feeding": 76,
-  "pee": 0.6,
-  "poop": 0.4
-}, {
-  "date": "4/13/16",
-  "time": "13:00:26",
-  "dateAndTime": "4/13/16 13:00",
-  "feeding": 80,
-  "pee": 0.1,
-  "poop": 0.1
-}, {
-  "date": "4/13/16",
-  "time": "16:12:30",
-  "dateAndTime": "4/13/16 16:12",
-  "feeding": 50,
-  "pee": 0.9,
-  "poop": 0.5
-}, {
-  "date": "4/13/16",
-  "time": "19:53:32",
-  "dateAndTime": "4/13/16 19:53",
-  "feeding": 67,
-  "pee": 0.7,
-  "poop": 1
-}, {
-  "date": "4/14/16",
-  "time": "1:33:46",
-  "dateAndTime": "4/14/16 1:33",
-  "feeding": 68,
-  "pee": 0,
-  "poop": 0.5
-}, {
-  "date": "4/14/16",
-  "time": "3:42:46",
-  "dateAndTime": "4/14/16 3:42",
-  "feeding": 84,
-  "pee": 0.6,
-  "poop": 0.1
-}, {
-  "date": "4/14/16",
-  "time": "7:11:35",
-  "dateAndTime": "4/14/16 7:11",
-  "feeding": 79,
-  "pee": 0.3,
-  "poop": 0
-}, {
-  "date": "4/14/16",
-  "time": "11:35:43",
-  "dateAndTime": "4/14/16 11:35",
-  "feeding": 61,
-  "pee": 0.1,
-  "poop": 1
-}, {
-  "date": "4/14/16",
-  "time": "13:12:44",
-  "dateAndTime": "4/14/16 13:12",
-  "feeding": 72,
-  "pee": 0.1,
-  "poop": 0.4
-}, {
-  "date": "4/14/16",
-  "time": "16:45:19",
-  "dateAndTime": "4/14/16 16:45",
-  "feeding": 67,
-  "pee": 0.5,
-  "poop": 0.2
-}, {
-  "date": "4/14/16",
-  "time": "21:46:51",
-  "dateAndTime": "4/14/16 21:46",
+  "time": "02:59:27",
   "feeding": 60,
-  "pee": 0.9,
-  "poop": 0.4
+  "pee": 0.2,
+  "poop": 0.9,
+  "dateAndTime": "2016-04-11T02:59:27.000Z"
 }, {
-  "date": "4/15/16",
-  "time": "2:04:48",
-  "dateAndTime": "4/15/16 2:04",
-  "feeding": 56,
-  "pee": 0.6,
-  "poop": 0.9
-}, {
-  "date": "4/15/16",
-  "time": "5:59:12",
-  "dateAndTime": "4/15/16 5:59",
-  "feeding": 61,
-  "pee": 1,
-  "poop": 0.3
-}, {
-  "date": "4/15/16",
-  "time": "8:06:17",
-  "dateAndTime": "4/15/16 8:06",
+  "date": "4/11/16",
+  "time": "05:50:18",
   "feeding": 86,
-  "pee": 0.3,
-  "poop": 0.6
-}, {
-  "date": "4/15/16",
-  "time": "9:33:31",
-  "dateAndTime": "4/15/16 9:33",
-  "feeding": 64,
-  "pee": 0.3,
-  "poop": 0.9
-}, {
-  "date": "4/15/16",
-  "time": "12:01:58",
-  "dateAndTime": "4/15/16 12:01",
-  "feeding": 68,
-  "pee": 0.1,
-  "poop": 0.8
-}, {
-  "date": "4/15/16",
-  "time": "17:42:54",
-  "dateAndTime": "4/15/16 17:42",
-  "feeding": 57,
   "pee": 1,
-  "poop": 0
+  "poop": 0.8,
+  "dateAndTime": "2016-04-11T05:50:18.000Z"
 }, {
-  "date": "4/15/16",
-  "time": "23:48:02",
-  "dateAndTime": "4/15/16 23:48",
-  "feeding": 62,
-  "pee": 0.6,
-  "poop": 1
-}, {
-  "date": "4/16/16",
-  "time": "2:48:11",
-  "dateAndTime": "4/16/16 2:48",
-  "feeding": 62,
-  "pee": 0.8,
-  "poop": 0.6
-}, {
-  "date": "4/16/16",
-  "time": "4:22:30",
-  "dateAndTime": "4/16/16 4:22",
-  "feeding": 78,
-  "pee": 0.2,
-  "poop": 0.7
-}, {
-  "date": "4/16/16",
-  "time": "8:42:49",
-  "dateAndTime": "4/16/16 8:42",
-  "feeding": 82,
-  "pee": 0.2,
-  "poop": 0.8
-}, {
-  "date": "4/16/16",
-  "time": "11:19:29",
-  "dateAndTime": "4/16/16 11:19",
-  "feeding": 52,
-  "pee": 0.9,
-  "poop": 0
-}, {
-  "date": "4/16/16",
-  "time": "14:29:14",
-  "dateAndTime": "4/16/16 14:29",
-  "feeding": 75,
-  "pee": 0.7,
-  "poop": 0.1
-}, {
-  "date": "4/16/16",
-  "time": "18:21:30",
-  "dateAndTime": "4/16/16 18:21",
-  "feeding": 65,
-  "pee": 0.8,
-  "poop": 0
-}, {
-  "date": "4/16/16",
-  "time": "22:47:32",
-  "dateAndTime": "4/16/16 22:47",
-  "feeding": 67,
-  "pee": 0.3,
-  "poop": 0.3
-}, {
-  "date": "4/17/16",
-  "time": "2:49:04",
-  "dateAndTime": "4/17/16 2:49",
-  "feeding": 74,
-  "pee": 0.9,
-  "poop": 0.1
-}, {
-  "date": "4/17/16",
-  "time": "4:37:11",
-  "dateAndTime": "4/17/16 4:37",
-  "feeding": 88,
-  "pee": 0.6,
-  "poop": 0.4
-}, {
-  "date": "4/17/16",
-  "time": "7:55:57",
-  "dateAndTime": "4/17/16 7:55",
-  "feeding": 54,
-  "pee": 0.9,
-  "poop": 0.8
-}, {
-  "date": "4/17/16",
-  "time": "9:16:07",
-  "dateAndTime": "4/17/16 9:16",
-  "feeding": 90,
-  "pee": 0.3,
-  "poop": 0.6
-}, {
-  "date": "4/17/16",
-  "time": "13:51:06",
-  "dateAndTime": "4/17/16 13:51",
-  "feeding": 56,
-  "pee": 0.2,
-  "poop": 0.1
-}, {
-  "date": "4/17/16",
-  "time": "17:03:18",
-  "dateAndTime": "4/17/16 17:03",
-  "feeding": 90,
-  "pee": 0.6,
-  "poop": 0.1
-}, {
-  "date": "4/17/16",
-  "time": "21:21:17",
-  "dateAndTime": "4/17/16 21:21",
-  "feeding": 82,
-  "pee": 0.8,
-  "poop": 0.3
-}, {
-  "date": "4/18/16",
-  "time": "2:13:17",
-  "dateAndTime": "4/18/16 2:13",
-  "feeding": 51,
-  "pee": 0.3,
-  "poop": 0.5
-}, {
-  "date": "4/18/16",
-  "time": "4:22:09",
-  "dateAndTime": "4/18/16 4:22",
-  "feeding": 68,
-  "pee": 0,
-  "poop": 0.1
-}, {
-  "date": "4/18/16",
-  "time": "7:40:18",
-  "dateAndTime": "4/18/16 7:40",
-  "feeding": 60,
-  "pee": 0.8,
-  "poop": 0.3
-}, {
-  "date": "4/18/16",
-  "time": "10:56:15",
-  "dateAndTime": "4/18/16 10:56",
-  "feeding": 64,
-  "pee": 0.5,
-  "poop": 0.7
-}, {
-  "date": "4/18/16",
-  "time": "12:57:14",
-  "dateAndTime": "4/18/16 12:57",
-  "feeding": 53,
-  "pee": 0.4,
-  "poop": 0.4
-}, {
-  "date": "4/18/16",
-  "time": "17:33:59",
-  "dateAndTime": "4/18/16 17:33",
-  "feeding": 51,
-  "pee": 0.1,
-  "poop": 0.9
-}, {
-  "date": "4/18/16",
-  "time": "20:04:42",
-  "dateAndTime": "4/18/16 20:04",
-  "feeding": 82,
-  "pee": 0.7,
-  "poop": 0.2
-}, {
-  "date": "4/19/16",
-  "time": "0:22:06",
-  "dateAndTime": "4/19/16 0:22",
-  "feeding": 66,
-  "pee": 0.2,
-  "poop": 0.7
-}, {
-  "date": "4/19/16",
-  "time": "4:23:59",
-  "dateAndTime": "4/19/16 4:23",
-  "feeding": 74,
-  "pee": 0.6,
-  "poop": 0
-}, {
-  "date": "4/19/16",
-  "time": "6:19:25",
-  "dateAndTime": "4/19/16 6:19",
-  "feeding": 90,
-  "pee": 0.8,
-  "poop": 0.6
-}, {
-  "date": "4/19/16",
-  "time": "11:26:56",
-  "dateAndTime": "4/19/16 11:26",
-  "feeding": 86,
-  "pee": 0.5,
-  "poop": 0.5
-}, {
-  "date": "4/19/16",
-  "time": "14:18:22",
-  "dateAndTime": "4/19/16 14:18",
-  "feeding": 54,
-  "pee": 0.4,
-  "poop": 0.9
-}, {
-  "date": "4/19/16",
-  "time": "15:13:07",
-  "dateAndTime": "4/19/16 15:13",
-  "feeding": 71,
-  "pee": 0.1,
-  "poop": 0.3
-}, {
-  "date": "4/19/16",
-  "time": "19:00:26",
-  "dateAndTime": "4/19/16 19:00",
-  "feeding": 60,
-  "pee": 0.8,
-  "poop": 0.2
-}, {
-  "date": "4/20/16",
-  "time": "1:58:08",
-  "dateAndTime": "4/20/16 1:58",
-  "feeding": 72,
-  "pee": 0.3,
-  "poop": 0.8
-}, {
-  "date": "4/20/16",
-  "time": "4:22:25",
-  "dateAndTime": "4/20/16 4:22",
-  "feeding": 63,
-  "pee": 0.7,
-  "poop": 0.3
-}, {
-  "date": "4/20/16",
-  "time": "8:57:00",
-  "dateAndTime": "4/20/16 8:57",
-  "feeding": 67,
-  "pee": 1,
-  "poop": 0.4
-}, {
-  "date": "4/20/16",
-  "time": "11:16:51",
-  "dateAndTime": "4/20/16 11:16",
-  "feeding": 90,
-  "pee": 1,
-  "poop": 0.4
-}, {
-  "date": "4/20/16",
-  "time": "14:41:19",
-  "dateAndTime": "4/20/16 14:41",
-  "feeding": 71,
-  "pee": 0.6,
-  "poop": 0.2
-}, {
-  "date": "4/20/16",
-  "time": "15:27:40",
-  "dateAndTime": "4/20/16 15:27",
-  "feeding": 62,
-  "pee": 0.2,
-  "poop": 0.4
-}, {
-  "date": "4/20/16",
-  "time": "19:09:43",
-  "dateAndTime": "4/20/16 19:09",
-  "feeding": 72,
-  "pee": 0.9,
-  "poop": 0.9
-}, {
-  "date": "4/21/16",
-  "time": "0:51:45",
-  "dateAndTime": "4/21/16 0:51",
-  "feeding": 61,
-  "pee": 0.4,
-  "poop": 0.8
-}, {
-  "date": "4/21/16",
-  "time": "4:11:18",
-  "dateAndTime": "4/21/16 4:11",
-  "feeding": 80,
-  "pee": 0.8,
-  "poop": 0.2
-}, {
-  "date": "4/21/16",
-  "time": "7:30:25",
-  "dateAndTime": "4/21/16 7:30",
-  "feeding": 50,
-  "pee": 0.4,
-  "poop": 0.1
-}, {
-  "date": "4/21/16",
-  "time": "9:37:16",
-  "dateAndTime": "4/21/16 9:37",
-  "feeding": 51,
-  "pee": 0.8,
-  "poop": 0.9
-}, {
-  "date": "4/21/16",
-  "time": "13:57:44",
-  "dateAndTime": "4/21/16 13:57",
-  "feeding": 66,
-  "pee": 0.1,
-  "poop": 0.5
-}, {
-  "date": "4/21/16",
-  "time": "16:36:48",
-  "dateAndTime": "4/21/16 16:36",
-  "feeding": 56,
-  "pee": 0.8,
-  "poop": 0.3
-}, {
-  "date": "4/21/16",
-  "time": "21:55:02",
-  "dateAndTime": "4/21/16 21:55",
-  "feeding": 73,
-  "pee": 0,
-  "poop": 0.4
-}, {
-  "date": "4/22/16",
-  "time": "0:11:07",
-  "dateAndTime": "4/22/16 0:11",
-  "feeding": 77,
-  "pee": 0.9,
-  "poop": 1
-}, {
-  "date": "4/22/16",
-  "time": "3:49:27",
-  "dateAndTime": "4/22/16 3:49",
-  "feeding": 75,
-  "pee": 0.1,
-  "poop": 0.4
-}, {
-  "date": "4/22/16",
-  "time": "6:19:41",
-  "dateAndTime": "4/22/16 6:19",
-  "feeding": 86,
-  "pee": 0.8,
-  "poop": 0.6
-}, {
-  "date": "4/22/16",
-  "time": "9:31:57",
-  "dateAndTime": "4/22/16 9:31",
-  "feeding": 85,
-  "pee": 0.7,
-  "poop": 0.1
-}, {
-  "date": "4/22/16",
-  "time": "13:51:18",
-  "dateAndTime": "4/22/16 13:51",
-  "feeding": 87,
-  "pee": 0.8,
-  "poop": 0.6
-}, {
-  "date": "4/22/16",
-  "time": "16:29:43",
-  "dateAndTime": "4/22/16 16:29",
-  "feeding": 84,
-  "pee": 0.3,
-  "poop": 0.4
-}, {
-  "date": "4/22/16",
-  "time": "22:37:10",
-  "dateAndTime": "4/22/16 22:37",
-  "feeding": 54,
-  "pee": 0.9,
-  "poop": 0.1
-}, {
-  "date": "4/23/16",
-  "time": "2:03:29",
-  "dateAndTime": "4/23/16 2:03",
-  "feeding": 85,
-  "pee": 0,
-  "poop": 0.8
-}, {
-  "date": "4/23/16",
-  "time": "4:07:06",
-  "dateAndTime": "4/23/16 4:07",
-  "feeding": 89,
-  "pee": 0.9,
-  "poop": 0.5
-}, {
-  "date": "4/23/16",
-  "time": "6:43:15",
-  "dateAndTime": "4/23/16 6:43",
-  "feeding": 73,
-  "pee": 0.4,
-  "poop": 0.5
-}, {
-  "date": "4/23/16",
-  "time": "10:09:48",
-  "dateAndTime": "4/23/16 10:09",
+  "date": "4/11/16",
+  "time": "08:53:24",
   "feeding": 69,
-  "pee": 0.9,
-  "poop": 0.4
-}, {
-  "date": "4/23/16",
-  "time": "13:55:41",
-  "dateAndTime": "4/23/16 13:55",
-  "feeding": 80,
   "pee": 0.3,
-  "poop": 0.7
+  "poop": 0.3,
+  "dateAndTime": "2016-04-11T08:53:24.000Z"
 }, {
-  "date": "4/23/16",
-  "time": "15:20:02",
-  "dateAndTime": "4/23/16 15:20",
-  "feeding": 57,
-  "pee": 0.5,
-  "poop": 1
-}, {
-  "date": "4/23/16",
-  "time": "21:34:42",
-  "dateAndTime": "4/23/16 21:34",
-  "feeding": 80,
-  "pee": 0.4,
-  "poop": 0.7
-}, {
-  "date": "4/24/16",
-  "time": "1:48:35",
-  "dateAndTime": "4/24/16 1:48",
-  "feeding": 54,
-  "pee": 0.3,
-  "poop": 0.6
-}, {
-  "date": "4/24/16",
-  "time": "4:38:16",
-  "dateAndTime": "4/24/16 4:38",
-  "feeding": 77,
-  "pee": 0.3,
-  "poop": 0.3
-}, {
-  "date": "4/24/16",
-  "time": "7:36:31",
-  "dateAndTime": "4/24/16 7:36",
-  "feeding": 73,
-  "pee": 0,
-  "poop": 0.5
-}, {
-  "date": "4/24/16",
-  "time": "9:35:27",
-  "dateAndTime": "4/24/16 9:35",
-  "feeding": 85,
-  "pee": 0.6,
-  "poop": 0
-}, {
-  "date": "4/24/16",
-  "time": "12:31:08",
-  "dateAndTime": "4/24/16 12:31",
-  "feeding": 54,
-  "pee": 0.4,
-  "poop": 0.2
-}, {
-  "date": "4/24/16",
-  "time": "17:40:00",
-  "dateAndTime": "4/24/16 17:40",
-  "feeding": 90,
-  "pee": 0.3,
-  "poop": 0.8
-}, {
-  "date": "4/24/16",
-  "time": "19:45:07",
-  "dateAndTime": "4/24/16 19:45",
-  "feeding": 85,
-  "pee": 0.4,
-  "poop": 0.9
-}, {
-  "date": "4/25/16",
-  "time": "0:26:54",
-  "dateAndTime": "4/25/16 0:26",
-  "feeding": 89,
-  "pee": 0.4,
-  "poop": 0.5
-}, {
-  "date": "4/25/16",
-  "time": "5:02:04",
-  "dateAndTime": "4/25/16 5:02",
-  "feeding": 76,
-  "pee": 0.3,
-  "poop": 1
-}, {
-  "date": "4/25/16",
-  "time": "8:54:41",
-  "dateAndTime": "4/25/16 8:54",
-  "feeding": 82,
-  "pee": 0.8,
-  "poop": 0.6
-}, {
-  "date": "4/25/16",
-  "time": "10:54:00",
-  "dateAndTime": "4/25/16 10:54",
-  "feeding": 60,
-  "pee": 0.4,
-  "poop": 0.1
-}, {
-  "date": "4/25/16",
-  "time": "13:25:15",
-  "dateAndTime": "4/25/16 13:25",
-  "feeding": 64,
-  "pee": 0.5,
-  "poop": 0.3
-}, {
-  "date": "4/25/16",
-  "time": "17:32:31",
-  "dateAndTime": "4/25/16 17:32",
-  "feeding": 67,
-  "pee": 0.6,
-  "poop": 0
-}, {
-  "date": "4/25/16",
-  "time": "20:41:18",
-  "dateAndTime": "4/25/16 20:41",
-  "feeding": 50,
-  "pee": 0.2,
-  "poop": 0.5
-}, {
-  "date": "4/26/16",
-  "time": "2:40:38",
-  "dateAndTime": "4/26/16 2:40",
-  "feeding": 77,
-  "pee": 1,
-  "poop": 0.8
-}, {
-  "date": "4/26/16",
-  "time": "4:13:23",
-  "dateAndTime": "4/26/16 4:13",
-  "feeding": 70,
-  "pee": 0.4,
-  "poop": 0.4
-}, {
-  "date": "4/26/16",
-  "time": "6:38:44",
-  "dateAndTime": "4/26/16 6:38",
-  "feeding": 64,
-  "pee": 0.7,
-  "poop": 0
-}, {
-  "date": "4/26/16",
-  "time": "9:10:54",
-  "dateAndTime": "4/26/16 9:10",
-  "feeding": 88,
-  "pee": 0.6,
-  "poop": 0.8
-}, {
-  "date": "4/26/16",
-  "time": "13:51:51",
-  "dateAndTime": "4/26/16 13:51",
-  "feeding": 56,
-  "pee": 0.1,
-  "poop": 0.6
-}, {
-  "date": "4/26/16",
-  "time": "18:10:36",
-  "dateAndTime": "4/26/16 18:10",
-  "feeding": 82,
-  "pee": 0.3,
-  "poop": 0
-}, {
-  "date": "4/26/16",
-  "time": "22:39:53",
-  "dateAndTime": "4/26/16 22:39",
-  "feeding": 55,
-  "pee": 0.8,
-  "poop": 0.7
-}, {
-  "date": "4/27/16",
-  "time": "0:23:20",
-  "dateAndTime": "4/27/16 0:23",
-  "feeding": 67,
-  "pee": 0.6,
-  "poop": 0.6
-}, {
-  "date": "4/27/16",
-  "time": "3:54:45",
-  "dateAndTime": "4/27/16 3:54",
-  "feeding": 62,
-  "pee": 0.4,
-  "poop": 0.6
-}, {
-  "date": "4/27/16",
-  "time": "7:15:11",
-  "dateAndTime": "4/27/16 7:15",
+  "date": "4/11/16",
+  "time": "10:23:27",
   "feeding": 65,
-  "pee": 0.2,
-  "poop": 0.8
+  "pee": 0.6,
+  "poop": 0.8,
+  "dateAndTime": "2016-04-11T10:23:27.000Z"
 }, {
-  "date": "4/27/16",
-  "time": "9:08:12",
-  "dateAndTime": "4/27/16 9:08",
-  "feeding": 85,
-  "pee": 1,
-  "poop": 0.6
-}, {
-  "date": "4/27/16",
-  "time": "14:00:11",
-  "dateAndTime": "4/27/16 14:00",
-  "feeding": 68,
-  "pee": 0.2,
-  "poop": 0.4
-}, {
-  "date": "4/27/16",
-  "time": "18:49:29",
-  "dateAndTime": "4/27/16 18:49",
-  "feeding": 87,
-  "pee": 0.4,
-  "poop": 0.6
-}, {
-  "date": "4/27/16",
-  "time": "23:14:17",
-  "dateAndTime": "4/27/16 23:14",
-  "feeding": 51,
-  "pee": 1,
-  "poop": 0.8
-}, {
-  "date": "4/28/16",
-  "time": "2:59:56",
-  "dateAndTime": "4/28/16 2:59",
-  "feeding": 53,
-  "pee": 0.3,
-  "poop": 0.1
-}, {
-  "date": "4/28/16",
-  "time": "4:04:48",
-  "dateAndTime": "4/28/16 4:04",
-  "feeding": 87,
-  "pee": 0.9,
-  "poop": 0.3
-}, {
-  "date": "4/28/16",
-  "time": "7:14:46",
-  "dateAndTime": "4/28/16 7:14",
-  "feeding": 88,
-  "pee": 0.1,
-  "poop": 0.2
-}, {
-  "date": "4/28/16",
-  "time": "11:06:35",
-  "dateAndTime": "4/28/16 11:06",
-  "feeding": 50,
-  "pee": 0.7,
-  "poop": 0.2
-}, {
-  "date": "4/28/16",
-  "time": "12:22:58",
-  "dateAndTime": "4/28/16 12:22",
-  "feeding": 89,
-  "pee": 0,
-  "poop": 0.1
-}, {
-  "date": "4/28/16",
-  "time": "16:58:53",
-  "dateAndTime": "4/28/16 16:58",
-  "feeding": 82,
-  "pee": 0.5,
-  "poop": 0.3
-}, {
-  "date": "4/28/16",
-  "time": "21:15:25",
-  "dateAndTime": "4/28/16 21:15",
-  "feeding": 82,
-  "pee": 0.5,
-  "poop": 0.9
-}, {
-  "date": "4/29/16",
-  "time": "0:18:11",
-  "dateAndTime": "4/29/16 0:18",
-  "feeding": 62,
-  "pee": 0.8,
-  "poop": 0.3
-}, {
-  "date": "4/29/16",
-  "time": "5:50:50",
-  "dateAndTime": "4/29/16 5:50",
-  "feeding": 58,
-  "pee": 0.9,
-  "poop": 0.5
-}, {
-  "date": "4/29/16",
-  "time": "7:50:53",
-  "dateAndTime": "4/29/16 7:50",
-  "feeding": 64,
-  "pee": 0.2,
-  "poop": 0.9
-}, {
-  "date": "4/29/16",
-  "time": "10:18:20",
-  "dateAndTime": "4/29/16 10:18",
-  "feeding": 88,
-  "pee": 0.4,
-  "poop": 0.2
-}, {
-  "date": "4/29/16",
-  "time": "14:29:42",
-  "dateAndTime": "4/29/16 14:29",
-  "feeding": 79,
-  "pee": 0.3,
-  "poop": 0.2
-}, {
-  "date": "4/29/16",
-  "time": "16:47:11",
-  "dateAndTime": "4/29/16 16:47",
-  "feeding": 83,
-  "pee": 0.5,
-  "poop": 0.4
-}, {
-  "date": "4/29/16",
-  "time": "23:43:55",
-  "dateAndTime": "4/29/16 23:43",
-  "feeding": 64,
-  "pee": 0.7,
-  "poop": 0.8
-}, {
-  "date": "4/30/16",
-  "time": "0:14:19",
-  "dateAndTime": "4/30/16 0:14",
-  "feeding": 56,
-  "pee": 0.8,
-  "poop": 0.1
-}, {
-  "date": "4/30/16",
-  "time": "4:08:45",
-  "dateAndTime": "4/30/16 4:08",
-  "feeding": 53,
-  "pee": 0.7,
-  "poop": 0.7
-}, {
-  "date": "4/30/16",
-  "time": "6:44:08",
-  "dateAndTime": "4/30/16 6:44",
-  "feeding": 69,
-  "pee": 0.8,
-  "poop": 0.1
-}, {
-  "date": "4/30/16",
-  "time": "11:30:22",
-  "dateAndTime": "4/30/16 11:30",
-  "feeding": 87,
-  "pee": 0.1,
-  "poop": 0.5
-}, {
-  "date": "4/30/16",
-  "time": "12:57:47",
-  "dateAndTime": "4/30/16 12:57",
+  "date": "4/11/16",
+  "time": "14:39:29",
   "feeding": 61,
-  "pee": 0.2,
-  "poop": 0.9
-}, {
-  "date": "4/30/16",
-  "time": "18:54:30",
-  "dateAndTime": "4/30/16 18:54",
-  "feeding": 77,
-  "pee": 0.9,
-  "poop": 0.8
-}, {
-  "date": "4/30/16",
-  "time": "21:52:42",
-  "dateAndTime": "4/30/16 21:52",
-  "feeding": 85,
-  "pee": 0.8,
-  "poop": 0.7
-}, {
-  "date": "5/1/16",
-  "time": "2:40:36",
-  "dateAndTime": "5/1/16 2:40",
-  "feeding": 72,
-  "pee": 0.4,
-  "poop": 0.9
-}, {
-  "date": "5/1/16",
-  "time": "3:27:25",
-  "dateAndTime": "5/1/16 3:27",
-  "feeding": 83,
-  "pee": 0.3,
-  "poop": 0.4
-}, {
-  "date": "5/1/16",
-  "time": "7:36:58",
-  "dateAndTime": "5/1/16 7:36",
-  "feeding": 81,
-  "pee": 0.4,
-  "poop": 0.4
-}, {
-  "date": "5/1/16",
-  "time": "9:44:57",
-  "dateAndTime": "5/1/16 9:44",
-  "feeding": 71,
-  "pee": 0.4,
-  "poop": 0.3
-}, {
-  "date": "5/1/16",
-  "time": "13:54:49",
-  "dateAndTime": "5/1/16 13:54",
-  "feeding": 78,
-  "pee": 0.9,
-  "poop": 0.4
-}, {
-  "date": "5/1/16",
-  "time": "16:19:20",
-  "dateAndTime": "5/1/16 16:19",
-  "feeding": 83,
-  "pee": 0.5,
-  "poop": 0.5
-}, {
-  "date": "5/1/16",
-  "time": "21:34:15",
-  "dateAndTime": "5/1/16 21:34",
-  "feeding": 86,
-  "pee": 0.3,
-  "poop": 0.9
-}, {
-  "date": "5/2/16",
-  "time": "2:00:03",
-  "dateAndTime": "5/2/16 2:00",
-  "feeding": 51,
-  "pee": 1,
-  "poop": 1
-}, {
-  "date": "5/2/16",
-  "time": "4:20:40",
-  "dateAndTime": "5/2/16 4:20",
-  "feeding": 71,
-  "pee": 0.9,
-  "poop": 0.6
-}, {
-  "date": "5/2/16",
-  "time": "7:17:14",
-  "dateAndTime": "5/2/16 7:17",
-  "feeding": 50,
-  "pee": 0.8,
-  "poop": 0.2
-}, {
-  "date": "5/2/16",
-  "time": "9:47:50",
-  "dateAndTime": "5/2/16 9:47",
-  "feeding": 57,
-  "pee": 0.2,
-  "poop": 0.4
-}, {
-  "date": "5/2/16",
-  "time": "12:56:32",
-  "dateAndTime": "5/2/16 12:56",
-  "feeding": 56,
-  "pee": 0.2,
-  "poop": 0.7
-}, {
-  "date": "5/2/16",
-  "time": "18:09:15",
-  "dateAndTime": "5/2/16 18:09",
-  "feeding": 60,
-  "pee": 0.8,
-  "poop": 0.4
-}, {
-  "date": "5/2/16",
-  "time": "22:45:29",
-  "dateAndTime": "5/2/16 22:45",
-  "feeding": 82,
-  "pee": 0.3,
-  "poop": 0.3
-}, {
-  "date": "5/3/16",
-  "time": "2:52:11",
-  "dateAndTime": "5/3/16 2:52",
-  "feeding": 54,
-  "pee": 0.7,
-  "poop": 0.2
-}, {
-  "date": "5/3/16",
-  "time": "5:51:46",
-  "dateAndTime": "5/3/16 5:51",
-  "feeding": 84,
-  "pee": 0.4,
-  "poop": 0.3
-}, {
-  "date": "5/3/16",
-  "time": "8:13:04",
-  "dateAndTime": "5/3/16 8:13",
-  "feeding": 51,
   "pee": 0.6,
-  "poop": 0.1
+  "poop": 0.8,
+  "dateAndTime": "2016-04-11T14:39:29.000Z"
 }, {
-  "date": "5/3/16",
-  "time": "10:52:14",
-  "dateAndTime": "5/3/16 10:52",
-  "feeding": 88,
-  "pee": 0.6,
-  "poop": 0.1
-}, {
-  "date": "5/3/16",
-  "time": "14:44:07",
-  "dateAndTime": "5/3/16 14:44",
-  "feeding": 86,
-  "pee": 0.9,
-  "poop": 0.6
-}, {
-  "date": "5/3/16",
-  "time": "18:33:27",
-  "dateAndTime": "5/3/16 18:33",
-  "feeding": 57,
-  "pee": 0.6,
-  "poop": 0.3
-}, {
-  "date": "5/3/16",
-  "time": "23:05:30",
-  "dateAndTime": "5/3/16 23:05",
-  "feeding": 83,
-  "pee": 0.1,
-  "poop": 0.6
-}, {
-  "date": "5/4/16",
-  "time": "1:12:59",
-  "dateAndTime": "5/4/16 1:12",
-  "feeding": 74,
-  "pee": 1,
-  "poop": 1
-}, {
-  "date": "5/4/16",
-  "time": "5:00:45",
-  "dateAndTime": "5/4/16 5:00",
-  "feeding": 55,
-  "pee": 0.6,
-  "poop": 0.4
-}, {
-  "date": "5/4/16",
-  "time": "7:40:10",
-  "dateAndTime": "5/4/16 7:40",
-  "feeding": 75,
-  "pee": 0.2,
-  "poop": 0.4
-}, {
-  "date": "5/4/16",
-  "time": "9:17:02",
-  "dateAndTime": "5/4/16 9:17",
-  "feeding": 52,
-  "pee": 0.1,
-  "poop": 0.8
-}, {
-  "date": "5/4/16",
-  "time": "12:00:38",
-  "dateAndTime": "5/4/16 12:00",
-  "feeding": 51,
-  "pee": 0.2,
-  "poop": 0.3
-}, {
-  "date": "5/4/16",
-  "time": "15:12:54",
-  "dateAndTime": "5/4/16 15:12",
-  "feeding": 76,
-  "pee": 0.5,
-  "poop": 1
-}, {
-  "date": "5/4/16",
-  "time": "19:14:56",
-  "dateAndTime": "5/4/16 19:14",
-  "feeding": 84,
-  "pee": 1,
-  "poop": 0.5
-}, {
-  "date": "5/5/16",
-  "time": "2:18:48",
-  "dateAndTime": "5/5/16 2:18",
+  "date": "4/11/16",
+  "time": "15:21:32",
   "feeding": 89,
-  "pee": 0.6,
-  "poop": 1
-}, {
-  "date": "5/5/16",
-  "time": "4:55:15",
-  "dateAndTime": "5/5/16 4:55",
-  "feeding": 78,
-  "pee": 0.3,
-  "poop": 0.4
-}, {
-  "date": "5/5/16",
-  "time": "7:57:44",
-  "dateAndTime": "5/5/16 7:57",
-  "feeding": 87,
   "pee": 0.9,
-  "poop": 0.9
+  "poop": 1,
+  "dateAndTime": "2016-04-11T15:21:32.000Z"
 }, {
-  "date": "5/5/16",
-  "time": "9:36:01",
-  "dateAndTime": "5/5/16 9:36",
-  "feeding": 85,
-  "pee": 0.5,
-  "poop": 0.1
-}, {
-  "date": "5/5/16",
-  "time": "13:20:02",
-  "dateAndTime": "5/5/16 13:20",
-  "feeding": 55,
-  "pee": 0.7,
-  "poop": 1
-}, {
-  "date": "5/5/16",
-  "time": "15:19:14",
-  "dateAndTime": "5/5/16 15:19",
-  "feeding": 89,
-  "pee": 0.3,
-  "poop": 0.6
-}, {
-  "date": "5/5/16",
-  "time": "22:41:06",
-  "dateAndTime": "5/5/16 22:41",
-  "feeding": 80,
-  "pee": 0.4,
-  "poop": 0.1
-}, {
-  "date": "5/6/16",
-  "time": "0:06:23",
-  "dateAndTime": "5/6/16 0:06",
-  "feeding": 50,
-  "pee": 1,
-  "poop": 0.2
-}, {
-  "date": "5/6/16",
-  "time": "4:13:36",
-  "dateAndTime": "5/6/16 4:13",
-  "feeding": 63,
-  "pee": 0.5,
-  "poop": 0.5
-}, {
-  "date": "5/6/16",
-  "time": "6:12:10",
-  "dateAndTime": "5/6/16 6:12",
-  "feeding": 73,
-  "pee": 0.1,
-  "poop": 0.5
-}, {
-  "date": "5/6/16",
-  "time": "11:50:42",
-  "dateAndTime": "5/6/16 11:50",
-  "feeding": 72,
-  "pee": 0.8,
-  "poop": 0.8
-}, {
-  "date": "5/6/16",
-  "time": "14:47:50",
-  "dateAndTime": "5/6/16 14:47",
+  "date": "4/11/16",
+  "time": "19:31:11",
   "feeding": 70,
-  "pee": 0.3,
-  "poop": 0.3
+  "pee": 1,
+  "poop": 0.4,
+  "dateAndTime": "2016-04-11T19:31:11.000Z"
 }, {
-  "date": "5/6/16",
-  "time": "16:58:04",
-  "dateAndTime": "5/6/16 16:58",
-  "feeding": 59,
-  "pee": 0.1,
-  "poop": 0.4
-}, {
-  "date": "5/6/16",
-  "time": "20:35:09",
-  "dateAndTime": "5/6/16 20:35",
+  "date": "4/12/16",
+  "time": "01:45:05",
   "feeding": 52,
-  "pee": 0.4,
-  "poop": 0.6
-}, {
-  "date": "5/7/16",
-  "time": "1:35:01",
-  "dateAndTime": "5/7/16 1:35",
-  "feeding": 88,
   "pee": 0.9,
-  "poop": 0.4
+  "poop": 0.1,
+  "dateAndTime": "2016-04-12T01:45:05.000Z"
 }, {
-  "date": "5/7/16",
-  "time": "5:15:28",
-  "dateAndTime": "5/7/16 5:15",
-  "feeding": 79,
-  "pee": 0.6,
-  "poop": 0.2
-}, {
-  "date": "5/7/16",
-  "time": "7:36:59",
-  "dateAndTime": "5/7/16 7:36",
-  "feeding": 51,
-  "pee": 0.1,
-  "poop": 0.3
-}, {
-  "date": "5/7/16",
-  "time": "11:19:17",
-  "dateAndTime": "5/7/16 11:19",
-  "feeding": 60,
-  "pee": 0.8,
-  "poop": 0.4
-}, {
-  "date": "5/7/16",
-  "time": "14:30:22",
-  "dateAndTime": "5/7/16 14:30",
-  "feeding": 56,
-  "pee": 0.2,
-  "poop": 0.5
-}, {
-  "date": "5/7/16",
-  "time": "16:35:44",
-  "dateAndTime": "5/7/16 16:35",
-  "feeding": 57,
-  "pee": 0.5,
-  "poop": 0.7
-}, {
-  "date": "5/7/16",
-  "time": "21:35:39",
-  "dateAndTime": "5/7/16 21:35",
-  "feeding": 50,
-  "pee": 0.9,
-  "poop": 0.1
-}, {
-  "date": "5/8/16",
-  "time": "2:32:27",
-  "dateAndTime": "5/8/16 2:32",
-  "feeding": 81,
-  "pee": 0.1,
-  "poop": 1
-}, {
-  "date": "5/8/16",
-  "time": "4:35:34",
-  "dateAndTime": "5/8/16 4:35",
-  "feeding": 72,
-  "pee": 0.1,
-  "poop": 0.5
-}, {
-  "date": "5/8/16",
-  "time": "7:42:25",
-  "dateAndTime": "5/8/16 7:42",
-  "feeding": 60,
-  "pee": 0.7,
-  "poop": 0.8
-}, {
-  "date": "5/8/16",
-  "time": "9:42:19",
-  "dateAndTime": "5/8/16 9:42",
-  "feeding": 64,
-  "pee": 0.3,
-  "poop": 0.9
-}, {
-  "date": "5/8/16",
-  "time": "12:33:06",
-  "dateAndTime": "5/8/16 12:33",
-  "feeding": 55,
-  "pee": 0.5,
-  "poop": 0.6
-}, {
-  "date": "5/8/16",
-  "time": "17:42:15",
-  "dateAndTime": "5/8/16 17:42",
-  "feeding": 58,
-  "pee": 0.6,
-  "poop": 0.3
-}, {
-  "date": "5/8/16",
-  "time": "22:54:55",
-  "dateAndTime": "5/8/16 22:54",
-  "feeding": 78,
-  "pee": 0.2,
-  "poop": 0.7
-}, {
-  "date": "5/9/16",
-  "time": "2:36:12",
-  "dateAndTime": "5/9/16 2:36",
-  "feeding": 59,
-  "pee": 0.8,
-  "poop": 0.5
-}, {
-  "date": "5/9/16",
-  "time": "4:24:31",
-  "dateAndTime": "5/9/16 4:24",
-  "feeding": 80,
-  "pee": 0.4,
-  "poop": 0.9
-}, {
-  "date": "5/9/16",
-  "time": "6:53:49",
-  "dateAndTime": "5/9/16 6:53",
-  "feeding": 53,
-  "pee": 0.7,
-  "poop": 0.1
-}, {
-  "date": "5/9/16",
-  "time": "11:04:25",
-  "dateAndTime": "5/9/16 11:04",
-  "feeding": 56,
-  "pee": 0.7,
-  "poop": 0.9
-}, {
-  "date": "5/9/16",
-  "time": "13:09:52",
-  "dateAndTime": "5/9/16 13:09",
-  "feeding": 68,
-  "pee": 0.5,
-  "poop": 0.6
-}, {
-  "date": "5/9/16",
-  "time": "16:42:38",
-  "dateAndTime": "5/9/16 16:42",
-  "feeding": 90,
-  "pee": 0.5,
-  "poop": 0.8
-}, {
-  "date": "5/9/16",
-  "time": "20:23:55",
-  "dateAndTime": "5/9/16 20:23",
-  "feeding": 85,
-  "pee": 0.8,
-  "poop": 0.6
-}, {
-  "date": "5/10/16",
-  "time": "0:13:40",
-  "dateAndTime": "5/10/16 0:13",
-  "feeding": 77,
-  "pee": 0.7,
-  "poop": 0.8
-}, {
-  "date": "5/10/16",
-  "time": "3:51:05",
-  "dateAndTime": "5/10/16 3:51",
-  "feeding": 77,
-  "pee": 0.9,
-  "poop": 0.8
-}, {
-  "date": "5/10/16",
-  "time": "8:40:47",
-  "dateAndTime": "5/10/16 8:40",
-  "feeding": 64,
-  "pee": 0.6,
-  "poop": 0.6
-}, {
-  "date": "5/10/16",
-  "time": "10:52:28",
-  "dateAndTime": "5/10/16 10:52",
-  "feeding": 81,
-  "pee": 0.5,
-  "poop": 0.8
-}, {
-  "date": "5/10/16",
-  "time": "13:25:36",
-  "dateAndTime": "5/10/16 13:25",
-  "feeding": 85,
-  "pee": 0,
-  "poop": 0.2
-}, {
-  "date": "5/10/16",
-  "time": "18:45:31",
-  "dateAndTime": "5/10/16 18:45",
+  "date": "4/12/16",
+  "time": "05:15:02",
   "feeding": 84,
   "pee": 0.2,
-  "poop": 0.1
+  "poop": 0.1,
+  "dateAndTime": "2016-04-12T05:15:02.000Z"
 }, {
-  "date": "5/10/16",
-  "time": "23:15:00",
-  "dateAndTime": "5/10/16 23:15",
-  "feeding": 65,
+  "date": "4/12/16",
+  "time": "06:37:39",
+  "feeding": 64,
   "pee": 0.2,
-  "poop": 0.1
+  "poop": 0.7,
+  "dateAndTime": "2016-04-12T06:37:39.000Z"
 }, {
-  "date": "5/11/16",
-  "time": "2:49:00",
-  "dateAndTime": "5/11/16 2:49",
-  "feeding": 62,
-  "pee": 0,
-  "poop": 0.8
-}, {
-  "date": "5/11/16",
-  "time": "5:54:46",
-  "dateAndTime": "5/11/16 5:54",
-  "feeding": 75,
-  "pee": 1,
-  "poop": 0.6
-}, {
-  "date": "5/11/16",
-  "time": "8:57:56",
-  "dateAndTime": "5/11/16 8:57",
-  "feeding": 51,
-  "pee": 0.3,
-  "poop": 0.9
-}, {
-  "date": "5/11/16",
-  "time": "9:01:58",
-  "dateAndTime": "5/11/16 9:01",
-  "feeding": 88,
-  "pee": 0,
-  "poop": 0.7
-}, {
-  "date": "5/11/16",
-  "time": "12:48:05",
-  "dateAndTime": "5/11/16 12:48",
-  "feeding": 78,
-  "pee": 0,
-  "poop": 0.1
-}, {
-  "date": "5/11/16",
-  "time": "18:35:36",
-  "dateAndTime": "5/11/16 18:35",
-  "feeding": 62,
-  "pee": 0.5,
-  "poop": 1
-}, {
-  "date": "5/11/16",
-  "time": "22:15:32",
-  "dateAndTime": "5/11/16 22:15",
-  "feeding": 85,
-  "pee": 0.5,
-  "poop": 0.5
-}, {
-  "date": "5/12/16",
-  "time": "0:49:03",
-  "dateAndTime": "5/12/16 0:49",
-  "feeding": 55,
-  "pee": 0.6,
-  "poop": 0.8
-}, {
-  "date": "5/12/16",
-  "time": "4:31:54",
-  "dateAndTime": "5/12/16 4:31",
-  "feeding": 76,
-  "pee": 0.2,
-  "poop": 0.1
-}, {
-  "date": "5/12/16",
-  "time": "6:44:01",
-  "dateAndTime": "5/12/16 6:44",
-  "feeding": 79,
-  "pee": 0.6,
-  "poop": 0.9
-}, {
-  "date": "5/12/16",
-  "time": "9:03:02",
-  "dateAndTime": "5/12/16 9:03",
-  "feeding": 54,
-  "pee": 0.1,
-  "poop": 0.1
-}, {
-  "date": "5/12/16",
-  "time": "12:00:14",
-  "dateAndTime": "5/12/16 12:00",
-  "feeding": 51,
-  "pee": 0.1,
-  "poop": 1
-}, {
-  "date": "5/12/16",
-  "time": "15:40:13",
-  "dateAndTime": "5/12/16 15:40",
-  "feeding": 68,
-  "pee": 0.9,
-  "poop": 0
-}, {
-  "date": "5/12/16",
-  "time": "21:56:20",
-  "dateAndTime": "5/12/16 21:56",
-  "feeding": 83,
-  "pee": 0.5,
-  "poop": 0.4
-}, {
-  "date": "5/13/16",
-  "time": "1:32:39",
-  "dateAndTime": "5/13/16 1:32",
-  "feeding": 74,
-  "pee": 0.9,
-  "poop": 0
-}, {
-  "date": "5/13/16",
-  "time": "4:56:42",
-  "dateAndTime": "5/13/16 4:56",
-  "feeding": 82,
-  "pee": 0,
-  "poop": 0.2
-}, {
-  "date": "5/13/16",
-  "time": "8:34:42",
-  "dateAndTime": "5/13/16 8:34",
-  "feeding": 68,
-  "pee": 0.1,
-  "poop": 0.9
-}, {
-  "date": "5/13/16",
-  "time": "10:10:42",
-  "dateAndTime": "5/13/16 10:10",
-  "feeding": 63,
-  "pee": 0.2,
-  "poop": 0.2
-}, {
-  "date": "5/13/16",
-  "time": "14:12:10",
-  "dateAndTime": "5/13/16 14:12",
-  "feeding": 61,
-  "pee": 0.9,
-  "poop": 0.1
-}, {
-  "date": "5/13/16",
-  "time": "17:27:34",
-  "dateAndTime": "5/13/16 17:27",
-  "feeding": 62,
-  "pee": 0.7,
-  "poop": 0.3
-}, {
-  "date": "5/13/16",
-  "time": "19:11:50",
-  "dateAndTime": "5/13/16 19:11",
-  "feeding": 66,
-  "pee": 1,
-  "poop": 0.6
-}, {
-  "date": "5/14/16",
-  "time": "2:55:14",
-  "dateAndTime": "5/14/16 2:55",
-  "feeding": 61,
-  "pee": 0.9,
-  "poop": 0.1
-}, {
-  "date": "5/14/16",
-  "time": "5:57:06",
-  "dateAndTime": "5/14/16 5:57",
-  "feeding": 56,
-  "pee": 0.1,
-  "poop": 0.9
-}, {
-  "date": "5/14/16",
-  "time": "6:08:58",
-  "dateAndTime": "5/14/16 6:08",
-  "feeding": 77,
-  "pee": 0.8,
-  "poop": 0.7
-}, {
-  "date": "5/14/16",
-  "time": "11:15:06",
-  "dateAndTime": "5/14/16 11:15",
-  "feeding": 86,
-  "pee": 0.8,
-  "poop": 0.4
-}, {
-  "date": "5/14/16",
-  "time": "13:13:37",
-  "dateAndTime": "5/14/16 13:13",
-  "feeding": 67,
-  "pee": 0.7,
-  "poop": 0.4
-}, {
-  "date": "5/14/16",
-  "time": "16:21:57",
-  "dateAndTime": "5/14/16 16:21",
-  "feeding": 88,
-  "pee": 0.1,
-  "poop": 0.6
-}, {
-  "date": "5/14/16",
-  "time": "20:35:47",
-  "dateAndTime": "5/14/16 20:35",
-  "feeding": 56,
-  "pee": 0.7,
-  "poop": 0.8
-}, {
-  "date": "5/15/16",
-  "time": "0:48:30",
-  "dateAndTime": "5/15/16 0:48",
-  "feeding": 51,
-  "pee": 0.5,
-  "poop": 0.2
-}, {
-  "date": "5/15/16",
-  "time": "4:29:03",
-  "dateAndTime": "5/15/16 4:29",
-  "feeding": 56,
-  "pee": 0.2,
-  "poop": 0.8
-}, {
-  "date": "5/15/16",
-  "time": "7:06:17",
-  "dateAndTime": "5/15/16 7:06",
-  "feeding": 51,
-  "pee": 0.2,
-  "poop": 0.9
-}, {
-  "date": "5/15/16",
-  "time": "9:17:42",
-  "dateAndTime": "5/15/16 9:17",
-  "feeding": 82,
-  "pee": 0.2,
-  "poop": 0.1
-}, {
-  "date": "5/15/16",
-  "time": "13:36:01",
-  "dateAndTime": "5/15/16 13:36",
-  "feeding": 61,
-  "pee": 0.4,
-  "poop": 0.5
-}, {
-  "date": "5/15/16",
-  "time": "16:39:14",
-  "dateAndTime": "5/15/16 16:39",
-  "feeding": 61,
-  "pee": 0.1,
-  "poop": 0.9
-}, {
-  "date": "5/15/16",
-  "time": "21:50:56",
-  "dateAndTime": "5/15/16 21:50",
-  "feeding": 87,
-  "pee": 0.3,
-  "poop": 0.2
-}, {
-  "date": "5/16/16",
-  "time": "1:57:27",
-  "dateAndTime": "5/16/16 1:57",
-  "feeding": 71,
-  "pee": 0.4,
-  "poop": 0.5
-}, {
-  "date": "5/16/16",
-  "time": "5:01:11",
-  "dateAndTime": "5/16/16 5:01",
-  "feeding": 57,
-  "pee": 0.2,
-  "poop": 0.7
-}, {
-  "date": "5/16/16",
-  "time": "8:03:46",
-  "dateAndTime": "5/16/16 8:03",
-  "feeding": 84,
-  "pee": 0.5,
-  "poop": 0.3
-}, {
-  "date": "5/16/16",
-  "time": "10:43:46",
-  "dateAndTime": "5/16/16 10:43",
-  "feeding": 73,
-  "pee": 0.6,
-  "poop": 0.7
-}, {
-  "date": "5/16/16",
-  "time": "12:26:13",
-  "dateAndTime": "5/16/16 12:26",
-  "feeding": 70,
-  "pee": 0.3,
-  "poop": 0.6
-}, {
-  "date": "5/16/16",
-  "time": "18:07:33",
-  "dateAndTime": "5/16/16 18:07",
-  "feeding": 85,
-  "pee": 0.4,
-  "poop": 0.1
-}, {
-  "date": "5/16/16",
-  "time": "23:29:17",
-  "dateAndTime": "5/16/16 23:29",
-  "feeding": 60,
-  "pee": 0.9,
-  "poop": 0.8
-}, {
-  "date": "5/17/16",
-  "time": "1:40:35",
-  "dateAndTime": "5/17/16 1:40",
-  "feeding": 76,
-  "pee": 0.1,
-  "poop": 0.7
-}, {
-  "date": "5/17/16",
-  "time": "3:36:02",
-  "dateAndTime": "5/17/16 3:36",
-  "feeding": 90,
-  "pee": 0.1,
-  "poop": 0.9
-}, {
-  "date": "5/17/16",
-  "time": "6:41:29",
-  "dateAndTime": "5/17/16 6:41",
-  "feeding": 52,
-  "pee": 0.8,
-  "poop": 0.5
-}, {
-  "date": "5/17/16",
-  "time": "10:58:29",
-  "dateAndTime": "5/17/16 10:58",
+  "date": "4/12/16",
+  "time": "10:36:16",
   "feeding": 75,
   "pee": 0.6,
-  "poop": 0.2
+  "poop": 0.7,
+  "dateAndTime": "2016-04-12T10:36:16.000Z"
 }, {
-  "date": "5/17/16",
-  "time": "13:37:29",
-  "dateAndTime": "5/17/16 13:37",
-  "feeding": 88,
-  "pee": 0.1,
-  "poop": 0.2
-}, {
-  "date": "5/17/16",
-  "time": "15:31:04",
-  "dateAndTime": "5/17/16 15:31",
-  "feeding": 82,
-  "pee": 0.4,
-  "poop": 0.7
-}, {
-  "date": "5/17/16",
-  "time": "23:15:17",
-  "dateAndTime": "5/17/16 23:15",
-  "feeding": 59,
-  "pee": 0,
-  "poop": 0.7
-}, {
-  "date": "5/18/16",
-  "time": "0:01:46",
-  "dateAndTime": "5/18/16 0:01",
-  "feeding": 71,
-  "pee": 0.4,
-  "poop": 0.6
-}, {
-  "date": "5/18/16",
-  "time": "4:24:34",
-  "dateAndTime": "5/18/16 4:24",
-  "feeding": 71,
-  "pee": 0.6,
-  "poop": 0
-}, {
-  "date": "5/18/16",
-  "time": "7:23:15",
-  "dateAndTime": "5/18/16 7:23",
-  "feeding": 66,
-  "pee": 0.3,
-  "poop": 0.3
-}, {
-  "date": "5/18/16",
-  "time": "11:10:58",
-  "dateAndTime": "5/18/16 11:10",
-  "feeding": 81,
-  "pee": 0.4,
-  "poop": 0.6
-}, {
-  "date": "5/18/16",
-  "time": "12:58:19",
-  "dateAndTime": "5/18/16 12:58",
-  "feeding": 72,
-  "pee": 0.1,
-  "poop": 0.4
-}, {
-  "date": "5/18/16",
-  "time": "16:13:51",
-  "dateAndTime": "5/18/16 16:13",
-  "feeding": 76,
-  "pee": 0.6,
-  "poop": 0.5
-}, {
-  "date": "5/18/16",
-  "time": "22:49:48",
-  "dateAndTime": "5/18/16 22:49",
-  "feeding": 52,
-  "pee": 0.5,
-  "poop": 0.3
-}, {
-  "date": "5/19/16",
-  "time": "1:03:25",
-  "dateAndTime": "5/19/16 1:03",
-  "feeding": 82,
-  "pee": 0.6,
-  "poop": 0.5
-}, {
-  "date": "5/19/16",
-  "time": "3:32:34",
-  "dateAndTime": "5/19/16 3:32",
-  "feeding": 62,
-  "pee": 0.7,
-  "poop": 0.1
-}, {
-  "date": "5/19/16",
-  "time": "8:05:23",
-  "dateAndTime": "5/19/16 8:05",
-  "feeding": 53,
-  "pee": 0.6,
-  "poop": 0.5
-}, {
-  "date": "5/19/16",
-  "time": "10:06:24",
-  "dateAndTime": "5/19/16 10:06",
-  "feeding": 55,
-  "pee": 0.7,
-  "poop": 0.5
-}, {
-  "date": "5/19/16",
-  "time": "12:19:53",
-  "dateAndTime": "5/19/16 12:19",
-  "feeding": 71,
-  "pee": 0.6,
-  "poop": 0.2
-}, {
-  "date": "5/19/16",
-  "time": "17:03:46",
-  "dateAndTime": "5/19/16 17:03",
-  "feeding": 58,
-  "pee": 0.4,
-  "poop": 0.5
-}, {
-  "date": "5/19/16",
-  "time": "21:24:34",
-  "dateAndTime": "5/19/16 21:24",
-  "feeding": 82,
-  "pee": 0.7,
-  "poop": 0.4
-}, {
-  "date": "5/20/16",
-  "time": "2:04:20",
-  "dateAndTime": "5/20/16 2:04",
+  "date": "4/12/16",
+  "time": "12:18:36",
   "feeding": 67,
-  "pee": 0.7,
-  "poop": 0.8
-}, {
-  "date": "5/20/16",
-  "time": "4:47:34",
-  "dateAndTime": "5/20/16 4:47",
-  "feeding": 89,
   "pee": 1,
-  "poop": 0.9
+  "poop": 0,
+  "dateAndTime": "2016-04-12T12:18:36.000Z"
 }, {
-  "date": "5/20/16",
-  "time": "8:59:51",
-  "dateAndTime": "5/20/16 8:59",
-  "feeding": 77,
+  "date": "4/12/16",
+  "time": "16:54:20",
+  "feeding": 68,
+  "pee": 0.9,
+  "poop": 0.2,
+  "dateAndTime": "2016-04-12T16:54:20.000Z"
+}, {
+  "date": "4/12/16",
+  "time": "21:07:09",
+  "feeding": 52,
   "pee": 0.3,
-  "poop": 0.3
+  "poop": 0.9,
+  "dateAndTime": "2016-04-12T21:07:09.000Z"
 }, {
-  "date": "5/20/16",
-  "time": "9:25:23",
-  "dateAndTime": "5/20/16 9:25",
-  "feeding": 84,
-  "pee": 0.3,
-  "poop": 0.2
-}, {
-  "date": "5/20/16",
-  "time": "12:07:44",
-  "dateAndTime": "5/20/16 12:07",
-  "feeding": 71,
-  "pee": 0.2,
-  "poop": 0.7
-}, {
-  "date": "5/20/16",
-  "time": "18:15:14",
-  "dateAndTime": "5/20/16 18:15",
-  "feeding": 82,
-  "pee": 0,
-  "poop": 0.1
-}, {
-  "date": "5/20/16",
-  "time": "19:09:54",
-  "dateAndTime": "5/20/16 19:09",
-  "feeding": 56,
-  "pee": 0.6,
-  "poop": 0.9
-}, {
-  "date": "5/21/16",
-  "time": "2:39:55",
-  "dateAndTime": "5/21/16 2:39",
-  "feeding": 82,
-  "pee": 0.5,
-  "poop": 0.7
-}, {
-  "date": "5/21/16",
-  "time": "4:12:20",
-  "dateAndTime": "5/21/16 4:12",
+  "date": "4/13/16",
+  "time": "00:10:51",
   "feeding": 82,
   "pee": 0.6,
-  "poop": 0.9
+  "poop": 0.7,
+  "dateAndTime": "2016-04-13T00:10:51.000Z"
 }, {
-  "date": "5/21/16",
-  "time": "6:51:29",
-  "dateAndTime": "5/21/16 6:51",
-  "feeding": 74,
-  "pee": 0.7,
-  "poop": 0
+  "date": "4/13/16",
+  "time": "05:37:30",
+  "feeding": 89,
+  "pee": 0.6,
+  "poop": 1,
+  "dateAndTime": "2016-04-13T05:37:30.000Z"
 }, {
-  "date": "5/21/16",
-  "time": "11:27:47",
-  "dateAndTime": "5/21/16 11:27",
-  "feeding": 84,
-  "pee": 0.7,
-  "poop": 0.2
+  "date": "4/13/16",
+  "time": "07:06:35",
+  "feeding": 78,
+  "pee": 0.1,
+  "poop": 0.8,
+  "dateAndTime": "2016-04-13T07:06:35.000Z"
 }, {
-  "date": "5/21/16",
-  "time": "13:37:07",
-  "dateAndTime": "5/21/16 13:37",
-  "feeding": 69,
-  "pee": 0,
-  "poop": 0.4
+  "date": "4/13/16",
+  "time": "11:47:04",
+  "feeding": 83,
+  "pee": 0.1,
+  "poop": 0.4,
+  "dateAndTime": "2016-04-13T11:47:04.000Z"
 }, {
-  "date": "5/21/16",
-  "time": "17:40:46",
-  "dateAndTime": "5/21/16 17:40",
-  "feeding": 70,
-  "pee": 0.2,
-  "poop": 0.6
-}, {
-  "date": "5/21/16",
-  "time": "20:18:07",
-  "dateAndTime": "5/21/16 20:18",
-  "feeding": 76,
-  "pee": 0,
-  "poop": 0.3
-}, {
-  "date": "5/22/16",
-  "time": "0:02:29",
-  "dateAndTime": "5/22/16 0:02",
+  "date": "4/13/16",
+  "time": "13:12:59",
   "feeding": 80,
-  "pee": 0.7,
-  "poop": 0.6
-}, {
-  "date": "5/22/16",
-  "time": "4:24:34",
-  "dateAndTime": "5/22/16 4:24",
-  "feeding": 80,
-  "pee": 0.1,
-  "poop": 0.3
-}, {
-  "date": "5/22/16",
-  "time": "6:10:24",
-  "dateAndTime": "5/22/16 6:10",
-  "feeding": 83,
-  "pee": 0.8,
-  "poop": 0.2
-}, {
-  "date": "5/22/16",
-  "time": "11:41:30",
-  "dateAndTime": "5/22/16 11:41",
-  "feeding": 54,
   "pee": 0.5,
-  "poop": 0.9
+  "poop": 0.3,
+  "dateAndTime": "2016-04-13T13:12:59.000Z"
 }, {
-  "date": "5/22/16",
-  "time": "13:11:37",
-  "dateAndTime": "5/22/16 13:11",
-  "feeding": 71,
-  "pee": 0.6,
-  "poop": 0.9
-}, {
-  "date": "5/22/16",
-  "time": "15:45:06",
-  "dateAndTime": "5/22/16 15:45",
-  "feeding": 53,
-  "pee": 0.2,
-  "poop": 0.1
-}, {
-  "date": "5/22/16",
-  "time": "23:06:10",
-  "dateAndTime": "5/22/16 23:06",
-  "feeding": 75,
-  "pee": 0.5,
-  "poop": 0.5
-}, {
-  "date": "5/23/16",
-  "time": "0:08:24",
-  "dateAndTime": "5/23/16 0:08",
-  "feeding": 87,
-  "pee": 0,
-  "poop": 0.8
-}, {
-  "date": "5/23/16",
-  "time": "3:19:45",
-  "dateAndTime": "5/23/16 3:19",
-  "feeding": 90,
-  "pee": 0.7,
-  "poop": 0.1
-}, {
-  "date": "5/23/16",
-  "time": "7:49:00",
-  "dateAndTime": "5/23/16 7:49",
-  "feeding": 52,
-  "pee": 0.8,
-  "poop": 0.1
-}, {
-  "date": "5/23/16",
-  "time": "9:03:06",
-  "dateAndTime": "5/23/16 9:03",
+  "date": "4/13/16",
+  "time": "18:17:14",
   "feeding": 58,
-  "pee": 0.4,
-  "poop": 0.9
+  "pee": 1,
+  "poop": 1,
+  "dateAndTime": "2016-04-13T18:17:14.000Z"
 }, {
-  "date": "5/23/16",
-  "time": "13:36:08",
-  "dateAndTime": "5/23/16 13:36",
-  "feeding": 84,
-  "pee": 0.3,
-  "poop": 0.9
-}, {
-  "date": "5/23/16",
-  "time": "16:54:06",
-  "dateAndTime": "5/23/16 16:54",
-  "feeding": 52,
-  "pee": 0.9,
-  "poop": 0.5
-}, {
-  "date": "5/23/16",
-  "time": "19:42:23",
-  "dateAndTime": "5/23/16 19:42",
+  "date": "4/13/16",
+  "time": "21:38:39",
   "feeding": 50,
-  "pee": 0.9,
-  "poop": 0.4
-}, {
-  "date": "5/24/16",
-  "time": "0:07:33",
-  "dateAndTime": "5/24/16 0:07",
-  "feeding": 65,
-  "pee": 0.1,
-  "poop": 0.3
-}, {
-  "date": "5/24/16",
-  "time": "5:08:06",
-  "dateAndTime": "5/24/16 5:08",
-  "feeding": 67,
-  "pee": 0.9,
-  "poop": 0.7
-}, {
-  "date": "5/24/16",
-  "time": "8:53:41",
-  "dateAndTime": "5/24/16 8:53",
-  "feeding": 55,
-  "pee": 0.7,
-  "poop": 0.6
-}, {
-  "date": "5/24/16",
-  "time": "11:40:50",
-  "dateAndTime": "5/24/16 11:40",
-  "feeding": 83,
-  "pee": 0.8,
-  "poop": 0.9
-}, {
-  "date": "5/24/16",
-  "time": "12:56:35",
-  "dateAndTime": "5/24/16 12:56",
-  "feeding": 58,
-  "pee": 0.4,
-  "poop": 0.4
-}, {
-  "date": "5/24/16",
-  "time": "17:00:03",
-  "dateAndTime": "5/24/16 17:00",
-  "feeding": 63,
   "pee": 0.3,
-  "poop": 0
-}, {
-  "date": "5/24/16",
-  "time": "23:28:36",
-  "dateAndTime": "5/24/16 23:28",
-  "feeding": 78,
-  "pee": 0.7,
-  "poop": 0.9
-}, {
-  "date": "5/25/16",
-  "time": "2:08:40",
-  "dateAndTime": "5/25/16 2:08",
-  "feeding": 78,
-  "pee": 0.3,
-  "poop": 0.9
-}, {
-  "date": "5/25/16",
-  "time": "3:00:58",
-  "dateAndTime": "5/25/16 3:00",
-  "feeding": 53,
-  "pee": 0.1,
-  "poop": 0.6
-}, {
-  "date": "5/25/16",
-  "time": "8:19:52",
-  "dateAndTime": "5/25/16 8:19",
-  "feeding": 88,
-  "pee": 0.6,
-  "poop": 0.4
-}, {
-  "date": "5/25/16",
-  "time": "9:05:27",
-  "dateAndTime": "5/25/16 9:05",
-  "feeding": 86,
-  "pee": 0.1,
-  "poop": 0
-}, {
-  "date": "5/25/16",
-  "time": "13:49:18",
-  "dateAndTime": "5/25/16 13:49",
-  "feeding": 52,
-  "pee": 0.4,
-  "poop": 0.5
-}, {
-  "date": "5/25/16",
-  "time": "16:54:14",
-  "dateAndTime": "5/25/16 16:54",
-  "feeding": 65,
-  "pee": 0.2,
-  "poop": 0.1
-}, {
-  "date": "5/25/16",
-  "time": "23:21:32",
-  "dateAndTime": "5/25/16 23:21",
-  "feeding": 62,
-  "pee": 0.2,
-  "poop": 0.2
-}, {
-  "date": "5/26/16",
-  "time": "2:05:13",
-  "dateAndTime": "5/26/16 2:05",
-  "feeding": 64,
-  "pee": 0.4,
-  "poop": 0.2
-}, {
-  "date": "5/26/16",
-  "time": "4:21:10",
-  "dateAndTime": "5/26/16 4:21",
-  "feeding": 55,
-  "pee": 0.9,
-  "poop": 0.7
-}, {
-  "date": "5/26/16",
-  "time": "7:25:31",
-  "dateAndTime": "5/26/16 7:25",
-  "feeding": 67,
-  "pee": 0.3,
-  "poop": 0.7
-}, {
-  "date": "5/26/16",
-  "time": "10:21:19",
-  "dateAndTime": "5/26/16 10:21",
-  "feeding": 72,
-  "pee": 0.6,
-  "poop": 0.8
-}, {
-  "date": "5/25/16",
-  "time": "12:14:41",
-  "dateAndTime": "5/25/16 12:14",
-  "feeding": 63,
-  "pee": 0.7,
-  "poop": 0.4
-}, {
-  "date": "5/25/16",
-  "time": "15:26:41",
-  "dateAndTime": "5/25/16 15:26",
-  "feeding": 61,
-  "pee": 0.5,
-  "poop": 0.9
-}, {
-  "date": "5/25/16",
-  "time": "21:59:45",
-  "dateAndTime": "5/25/16 21:59",
-  "feeding": 68,
-  "pee": 0.7,
-  "poop": 0.9
-}, {
-  "date": "5/26/16",
-  "time": "2:27:50",
-  "dateAndTime": "5/26/16 2:27",
-  "feeding": 58,
-  "pee": 0.2,
-  "poop": 0.7
-}, {
-  "date": "5/26/16",
-  "time": "5:40:43",
-  "dateAndTime": "5/26/16 5:40",
-  "feeding": 78,
-  "pee": 0.6,
-  "poop": 0.6
-}, {
-  "date": "5/26/16",
-  "time": "7:05:33",
-  "dateAndTime": "5/26/16 7:05",
-  "feeding": 85,
-  "pee": 0.8,
-  "poop": 0.8
-}, {
-  "date": "5/26/16",
-  "time": "10:06:33",
-  "dateAndTime": "5/26/16 10:06",
-  "feeding": 52,
-  "pee": 0.5,
-  "poop": 0.7
-}, {
-  "date": "5/26/16",
-  "time": "14:24:08",
-  "dateAndTime": "5/26/16 14:24",
-  "feeding": 63,
-  "pee": 0.2,
-  "poop": 0.1
-}, {
-  "date": "5/26/16",
-  "time": "18:00:06",
-  "dateAndTime": "5/26/16 18:00",
-  "feeding": 72,
-  "pee": 0.3,
-  "poop": 0.2
-}, {
-  "date": "5/26/16",
-  "time": "20:49:26",
-  "dateAndTime": "5/26/16 20:49",
-  "feeding": 85,
-  "pee": 0.1,
-  "poop": 0.4
-}, {
-  "date": "5/27/16",
-  "time": "2:23:45",
-  "dateAndTime": "5/27/16 2:23",
-  "feeding": 82,
-  "pee": 0.3,
-  "poop": 0.8
-}, {
-  "date": "5/27/16",
-  "time": "4:46:05",
-  "dateAndTime": "5/27/16 4:46",
-  "feeding": 84,
-  "pee": 0.1,
-  "poop": 0.6
-}, {
-  "date": "5/27/16",
-  "time": "6:14:27",
-  "dateAndTime": "5/27/16 6:14",
-  "feeding": 71,
-  "pee": 0.7,
-  "poop": 0.5
-}, {
-  "date": "5/27/16",
-  "time": "11:55:03",
-  "dateAndTime": "5/27/16 11:55",
-  "feeding": 64,
-  "pee": 1,
-  "poop": 0.4
-}, {
-  "date": "5/27/16",
-  "time": "13:45:18",
-  "dateAndTime": "5/27/16 13:45",
-  "feeding": 79,
-  "pee": 0.4,
-  "poop": 0.3
-}, {
-  "date": "5/27/16",
-  "time": "17:01:59",
-  "dateAndTime": "5/27/16 17:01",
-  "feeding": 52,
-  "pee": 0.4,
-  "poop": 1
-}, {
-  "date": "5/27/16",
-  "time": "23:14:21",
-  "dateAndTime": "5/27/16 23:14",
-  "feeding": 84,
-  "pee": 0.7,
-  "poop": 0.9
-}, {
-  "date": "5/28/16",
-  "time": "1:53:30",
-  "dateAndTime": "5/28/16 1:53",
-  "feeding": 81,
-  "pee": 1,
-  "poop": 0.1
-}, {
-  "date": "5/28/16",
-  "time": "5:24:42",
-  "dateAndTime": "5/28/16 5:24",
-  "feeding": 82,
-  "pee": 0.2,
-  "poop": 0.4
-}, {
-  "date": "5/28/16",
-  "time": "8:09:56",
-  "dateAndTime": "5/28/16 8:09",
-  "feeding": 55,
-  "pee": 0.4,
-  "poop": 0.8
-}, {
-  "date": "5/28/16",
-  "time": "11:38:08",
-  "dateAndTime": "5/28/16 11:38",
-  "feeding": 75,
-  "pee": 0.8,
-  "poop": 0.1
-}, {
-  "date": "5/28/16",
-  "time": "12:47:43",
-  "dateAndTime": "5/28/16 12:47",
-  "feeding": 78,
-  "pee": 0.8,
-  "poop": 0.2
-}, {
-  "date": "5/28/16",
-  "time": "18:52:17",
-  "dateAndTime": "5/28/16 18:52",
-  "feeding": 52,
-  "pee": 0.1,
-  "poop": 1
-}, {
-  "date": "5/28/16",
-  "time": "22:34:19",
-  "dateAndTime": "5/28/16 22:34",
-  "feeding": 81,
-  "pee": 0.8,
-  "poop": 0.6
-}, {
-  "date": "5/29/16",
-  "time": "1:35:06",
-  "dateAndTime": "5/29/16 1:35",
-  "feeding": 82,
-  "pee": 0.9,
-  "poop": 1
-}, {
-  "date": "5/29/16",
-  "time": "3:55:04",
-  "dateAndTime": "5/29/16 3:55",
-  "feeding": 55,
-  "pee": 0.2,
-  "poop": 0.8
-}, {
-  "date": "5/29/16",
-  "time": "8:40:20",
-  "dateAndTime": "5/29/16 8:40",
-  "feeding": 50,
-  "pee": 0.4,
-  "poop": 0.6
-}, {
-  "date": "5/29/16",
-  "time": "11:59:33",
-  "dateAndTime": "5/29/16 11:59",
-  "feeding": 74,
-  "pee": 0.4,
-  "poop": 0.8
-}, {
-  "date": "5/29/16",
-  "time": "13:02:09",
-  "dateAndTime": "5/29/16 13:02",
-  "feeding": 50,
-  "pee": 1,
-  "poop": 0.3
-}, {
-  "date": "5/29/16",
-  "time": "16:05:21",
-  "dateAndTime": "5/29/16 16:05",
-  "feeding": 85,
-  "pee": 1,
-  "poop": 0.4
-}, {
-  "date": "5/29/16",
-  "time": "23:21:45",
-  "dateAndTime": "5/29/16 23:21",
-  "feeding": 76,
-  "pee": 0.9,
-  "poop": 0.3
-}, {
-  "date": "5/30/16",
-  "time": "0:16:55",
-  "dateAndTime": "5/30/16 0:16",
-  "feeding": 50,
-  "pee": 0.7,
-  "poop": 0.1
-}, {
-  "date": "5/30/16",
-  "time": "5:05:07",
-  "dateAndTime": "5/30/16 5:05",
-  "feeding": 63,
-  "pee": 0,
-  "poop": 0.6
-}, {
-  "date": "5/30/16",
-  "time": "7:35:03",
-  "dateAndTime": "5/30/16 7:35",
-  "feeding": 86,
-  "pee": 0.6,
-  "poop": 0.9
-}, {
-  "date": "5/30/16",
-  "time": "9:31:10",
-  "dateAndTime": "5/30/16 9:31",
-  "feeding": 76,
-  "pee": 0.1,
-  "poop": 0.8
-}, {
-  "date": "5/30/16",
-  "time": "12:36:09",
-  "dateAndTime": "5/30/16 12:36",
-  "feeding": 79,
-  "pee": 0.4,
-  "poop": 0.1
-}, {
-  "date": "5/30/16",
-  "time": "18:01:21",
-  "dateAndTime": "5/30/16 18:01",
-  "feeding": 57,
-  "pee": 0,
-  "poop": 0.2
-}, {
-  "date": "5/30/16",
-  "time": "23:47:41",
-  "dateAndTime": "5/30/16 23:47",
-  "feeding": 83,
-  "pee": 0.2,
-  "poop": 0.7
-}, {
-  "date": "6/1/16",
-  "time": "2:38:58",
-  "dateAndTime": "6/1/16 2:38",
-  "feeding": 55,
-  "pee": 0.6,
-  "poop": 0
-}, {
-  "date": "6/1/16",
-  "time": "5:48:57",
-  "dateAndTime": "6/1/16 5:48",
-  "feeding": 65,
-  "pee": 0.1,
-  "poop": 0.4
-}, {
-  "date": "6/1/16",
-  "time": "7:20:48",
-  "dateAndTime": "6/1/16 7:20",
-  "feeding": 51,
-  "pee": 0.9,
-  "poop": 0.2
-}, {
-  "date": "6/1/16",
-  "time": "9:14:47",
-  "dateAndTime": "6/1/16 9:14",
-  "feeding": 78,
-  "pee": 0.2,
-  "poop": 0.1
-}, {
-  "date": "6/1/16",
-  "time": "13:01:34",
-  "dateAndTime": "6/1/16 13:01",
-  "feeding": 60,
-  "pee": 0.8,
-  "poop": 0.9
-}, {
-  "date": "6/1/16",
-  "time": "18:06:10",
-  "dateAndTime": "6/1/16 18:06",
-  "feeding": 79,
-  "pee": 0.6,
-  "poop": 0.2
-}, {
-  "date": "6/1/16",
-  "time": "21:13:40",
-  "dateAndTime": "6/1/16 21:13",
-  "feeding": 60,
-  "pee": 0.7,
-  "poop": 0.4
-}, {
-  "date": "6/2/16",
-  "time": "2:06:57",
-  "dateAndTime": "6/2/16 2:06",
-  "feeding": 66,
-  "pee": 0.2,
-  "poop": 0.9
-}, {
-  "date": "6/2/16",
-  "time": "3:39:24",
-  "dateAndTime": "6/2/16 3:39",
-  "feeding": 90,
-  "pee": 0,
-  "poop": 0
-}, {
-  "date": "6/2/16",
-  "time": "7:41:55",
-  "dateAndTime": "6/2/16 7:41",
-  "feeding": 87,
-  "pee": 0.5,
-  "poop": 0.9
-}, {
-  "date": "6/2/16",
-  "time": "9:56:56",
-  "dateAndTime": "6/2/16 9:56",
-  "feeding": 64,
-  "pee": 0.1,
-  "poop": 0.2
-}, {
-  "date": "6/2/16",
-  "time": "13:54:30",
-  "dateAndTime": "6/2/16 13:54",
-  "feeding": 57,
-  "pee": 0.6,
-  "poop": 0.3
-}, {
-  "date": "6/2/16",
-  "time": "16:52:26",
-  "dateAndTime": "6/2/16 16:52",
-  "feeding": 65,
-  "pee": 0.2,
-  "poop": 0.5
-}, {
-  "date": "6/2/16",
-  "time": "19:21:21",
-  "dateAndTime": "6/2/16 19:21",
-  "feeding": 52,
-  "pee": 0.4,
-  "poop": 0.4
-}, {
-  "date": "6/3/16",
-  "time": "0:40:37",
-  "dateAndTime": "6/3/16 0:40",
-  "feeding": 85,
-  "pee": 0.5,
-  "poop": 0.7
-}, {
-  "date": "6/3/16",
-  "time": "3:51:22",
-  "dateAndTime": "6/3/16 3:51",
-  "feeding": 59,
-  "pee": 0.9,
-  "poop": 0.6
-}, {
-  "date": "6/3/16",
-  "time": "7:00:03",
-  "dateAndTime": "6/3/16 7:00",
-  "feeding": 90,
-  "pee": 0.9,
-  "poop": 0.9
-}, {
-  "date": "6/3/16",
-  "time": "11:45:23",
-  "dateAndTime": "6/3/16 11:45",
-  "feeding": 50,
-  "pee": 0.2,
-  "poop": 0.8
-}, {
-  "date": "6/3/16",
-  "time": "12:28:19",
-  "dateAndTime": "6/3/16 12:28",
-  "feeding": 65,
-  "pee": 1,
-  "poop": 0.9
-}, {
-  "date": "6/3/16",
-  "time": "15:27:54",
-  "dateAndTime": "6/3/16 15:27",
-  "feeding": 55,
-  "pee": 0.9,
-  "poop": 0.2
-}, {
-  "date": "6/3/16",
-  "time": "22:10:05",
-  "dateAndTime": "6/3/16 22:10",
-  "feeding": 72,
-  "pee": 0.2,
-  "poop": 0.9
-}, {
-  "date": "6/4/16",
-  "time": "0:11:41",
-  "dateAndTime": "6/4/16 0:11",
-  "feeding": 63,
-  "pee": 0.7,
-  "poop": 0.3
-}, {
-  "date": "6/4/16",
-  "time": "4:01:15",
-  "dateAndTime": "6/4/16 4:01",
-  "feeding": 60,
-  "pee": 0.8,
-  "poop": 0.1
-}, {
-  "date": "6/4/16",
-  "time": "8:50:31",
-  "dateAndTime": "6/4/16 8:50",
-  "feeding": 58,
-  "pee": 0.9,
-  "poop": 0.4
-}, {
-  "date": "6/4/16",
-  "time": "10:06:51",
-  "dateAndTime": "6/4/16 10:06",
-  "feeding": 82,
-  "pee": 0.3,
-  "poop": 0.2
-}, {
-  "date": "6/4/16",
-  "time": "12:45:40",
-  "dateAndTime": "6/4/16 12:45",
-  "feeding": 65,
-  "pee": 0.7,
-  "poop": 0.1
-}, {
-  "date": "6/4/16",
-  "time": "16:24:15",
-  "dateAndTime": "6/4/16 16:24",
-  "feeding": 71,
-  "pee": 0.8,
-  "poop": 0.1
-}, {
-  "date": "6/4/16",
-  "time": "22:39:26",
-  "dateAndTime": "6/4/16 22:39",
-  "feeding": 61,
-  "pee": 0.9,
-  "poop": 0.9
-}, {
-  "date": "6/5/16",
-  "time": "0:36:19",
-  "dateAndTime": "6/5/16 0:36",
-  "feeding": 51,
-  "pee": 0.9,
-  "poop": 0.5
-}, {
-  "date": "6/5/16",
-  "time": "4:32:42",
-  "dateAndTime": "6/5/16 4:32",
-  "feeding": 78,
-  "pee": 0.8,
-  "poop": 0.1
-}, {
-  "date": "6/5/16",
-  "time": "8:27:39",
-  "dateAndTime": "6/5/16 8:27",
-  "feeding": 67,
-  "pee": 0.7,
-  "poop": 0.6
-}, {
-  "date": "6/5/16",
-  "time": "9:46:23",
-  "dateAndTime": "6/5/16 9:46",
-  "feeding": 59,
-  "pee": 1,
-  "poop": 0.9
-}, {
-  "date": "6/5/16",
-  "time": "12:23:04",
-  "dateAndTime": "6/5/16 12:23",
-  "feeding": 67,
-  "pee": 0.3,
-  "poop": 0.4
-}, {
-  "date": "6/5/16",
-  "time": "15:34:10",
-  "dateAndTime": "6/5/16 15:34",
-  "feeding": 76,
-  "pee": 0.3,
-  "poop": 0.9
-}, {
-  "date": "6/5/16",
-  "time": "19:18:53",
-  "dateAndTime": "6/5/16 19:18",
-  "feeding": 81,
-  "pee": 1,
-  "poop": 0.4
-}, {
-  "date": "6/6/16",
-  "time": "0:06:05",
-  "dateAndTime": "6/6/16 0:06",
-  "feeding": 79,
-  "pee": 1,
-  "poop": 0.3
-}, {
-  "date": "6/6/16",
-  "time": "5:30:48",
-  "dateAndTime": "6/6/16 5:30",
-  "feeding": 90,
-  "pee": 0.2,
-  "poop": 0.2
-}, {
-  "date": "6/6/16",
-  "time": "6:22:26",
-  "dateAndTime": "6/6/16 6:22",
-  "feeding": 52,
-  "pee": 1,
-  "poop": 0.4
-}, {
-  "date": "6/6/16",
-  "time": "9:06:43",
-  "dateAndTime": "6/6/16 9:06",
-  "feeding": 57,
-  "pee": 0.4,
-  "poop": 0.3
-}, {
-  "date": "6/6/16",
-  "time": "13:44:42",
-  "dateAndTime": "6/6/16 13:44",
-  "feeding": 63,
-  "pee": 0,
-  "poop": 0
-}, {
-  "date": "6/6/16",
-  "time": "17:03:45",
-  "dateAndTime": "6/6/16 17:03",
-  "feeding": 84,
-  "pee": 0.9,
-  "poop": 0.5
-}, {
-  "date": "6/6/16",
-  "time": "23:38:14",
-  "dateAndTime": "6/6/16 23:38",
-  "feeding": 84,
-  "pee": 0.5,
-  "poop": 0
-}, {
-  "date": "6/7/16",
-  "time": "2:29:24",
-  "dateAndTime": "6/7/16 2:29",
-  "feeding": 65,
-  "pee": 0.1,
-  "poop": 0.1
-}, {
-  "date": "6/7/16",
-  "time": "4:26:22",
-  "dateAndTime": "6/7/16 4:26",
-  "feeding": 60,
-  "pee": 0.9,
-  "poop": 0.7
-}, {
-  "date": "6/7/16",
-  "time": "6:11:42",
-  "dateAndTime": "6/7/16 6:11",
-  "feeding": 67,
-  "pee": 0.9,
-  "poop": 0.7
-}, {
-  "date": "6/7/16",
-  "time": "11:27:38",
-  "dateAndTime": "6/7/16 11:27",
-  "feeding": 70,
-  "pee": 0.6,
-  "poop": 0.7
-}, {
-  "date": "6/7/16",
-  "time": "14:49:35",
-  "dateAndTime": "6/7/16 14:49",
-  "feeding": 66,
-  "pee": 0.4,
-  "poop": 0.3
-}, {
-  "date": "6/7/16",
-  "time": "16:09:47",
-  "dateAndTime": "6/7/16 16:09",
-  "feeding": 59,
-  "pee": 0.4,
-  "poop": 0.3
-}, {
-  "date": "6/7/16",
-  "time": "21:21:17",
-  "dateAndTime": "6/7/16 21:21",
-  "feeding": 90,
-  "pee": 0.7,
-  "poop": 0.1
-}, {
-  "date": "6/8/16",
-  "time": "1:28:36",
-  "dateAndTime": "6/8/16 1:28",
-  "feeding": 54,
-  "pee": 0.3,
-  "poop": 0.6
-}, {
-  "date": "6/8/16",
-  "time": "4:54:26",
-  "dateAndTime": "6/8/16 4:54",
-  "feeding": 89,
-  "pee": 0.3,
-  "poop": 0.6
-}, {
-  "date": "6/8/16",
-  "time": "7:33:12",
-  "dateAndTime": "6/8/16 7:33",
-  "feeding": 88,
-  "pee": 0.4,
-  "poop": 0.3
-}, {
-  "date": "6/8/16",
-  "time": "10:29:04",
-  "dateAndTime": "6/8/16 10:29",
-  "feeding": 89,
-  "pee": 0.7,
-  "poop": 0.7
-}, {
-  "date": "6/8/16",
-  "time": "13:36:04",
-  "dateAndTime": "6/8/16 13:36",
-  "feeding": 74,
-  "pee": 0.3,
-  "poop": 0.3
-}, {
-  "date": "6/8/16",
-  "time": "15:14:38",
-  "dateAndTime": "6/8/16 15:14",
-  "feeding": 66,
-  "pee": 1,
-  "poop": 0.2
-}, {
-  "date": "6/8/16",
-  "time": "22:18:38",
-  "dateAndTime": "6/8/16 22:18",
-  "feeding": 78,
-  "pee": 0.1,
-  "poop": 0.3
-}, {
-  "date": "6/9/16",
-  "time": "0:18:12",
-  "dateAndTime": "6/9/16 0:18",
-  "feeding": 90,
-  "pee": 1,
-  "poop": 0.9
-}, {
-  "date": "6/9/16",
-  "time": "4:56:28",
-  "dateAndTime": "6/9/16 4:56",
-  "feeding": 64,
-  "pee": 0.6,
-  "poop": 0.6
-}, {
-  "date": "6/9/16",
-  "time": "6:34:12",
-  "dateAndTime": "6/9/16 6:34",
-  "feeding": 71,
-  "pee": 0.5,
-  "poop": 0.9
-}, {
-  "date": "6/9/16",
-  "time": "11:06:48",
-  "dateAndTime": "6/9/16 11:06",
-  "feeding": 51,
-  "pee": 0.3,
-  "poop": 0.1
-}, {
-  "date": "6/9/16",
-  "time": "13:16:50",
-  "dateAndTime": "6/9/16 13:16",
-  "feeding": 84,
-  "pee": 0.1,
-  "poop": 0.1
-}, {
-  "date": "6/9/16",
-  "time": "16:54:11",
-  "dateAndTime": "6/9/16 16:54",
-  "feeding": 79,
-  "pee": 0.6,
-  "poop": 0.4
-}, {
-  "date": "6/9/16",
-  "time": "21:49:44",
-  "dateAndTime": "6/9/16 21:49",
-  "feeding": 82,
-  "pee": 0.4,
-  "poop": 0.1
-}, {
-  "date": "6/10/16",
-  "time": "2:40:00",
-  "dateAndTime": "6/10/16 2:40",
-  "feeding": 89,
-  "pee": 0.8,
-  "poop": 0.1
-}, {
-  "date": "6/10/16",
-  "time": "4:31:45",
-  "dateAndTime": "6/10/16 4:31",
-  "feeding": 82,
-  "pee": 0.6,
-  "poop": 0
-}, {
-  "date": "6/10/16",
-  "time": "6:42:14",
-  "dateAndTime": "6/10/16 6:42",
-  "feeding": 81,
-  "pee": 0.9,
-  "poop": 0.1
-}, {
-  "date": "6/10/16",
-  "time": "9:12:00",
-  "dateAndTime": "6/10/16 9:12",
-  "feeding": 66,
-  "pee": 0.1,
-  "poop": 0.5
-}, {
-  "date": "6/10/16",
-  "time": "14:57:43",
-  "dateAndTime": "6/10/16 14:57",
-  "feeding": 56,
-  "pee": 0.8,
-  "poop": 0.7
-}, {
-  "date": "6/10/16",
-  "time": "18:03:30",
-  "dateAndTime": "6/10/16 18:03",
-  "feeding": 53,
-  "pee": 0.2,
-  "poop": 0.2
-}, {
-  "date": "6/10/16",
-  "time": "22:04:07",
-  "dateAndTime": "6/10/16 22:04",
-  "feeding": 83,
-  "pee": 0.6,
-  "poop": 0.3
-}, {
-  "date": "6/11/16",
-  "time": "2:58:54",
-  "dateAndTime": "6/11/16 2:58",
-  "feeding": 74,
-  "pee": 0.1,
-  "poop": 0.9
-}, {
-  "date": "6/11/16",
-  "time": "4:11:25",
-  "dateAndTime": "6/11/16 4:11",
-  "feeding": 53,
-  "pee": 0.4,
-  "poop": 0.6
-}, {
-  "date": "6/11/16",
-  "time": "8:43:06",
-  "dateAndTime": "6/11/16 8:43",
-  "feeding": 68,
-  "pee": 0.4,
-  "poop": 0.7
-}, {
-  "date": "6/11/16",
-  "time": "10:20:33",
-  "dateAndTime": "6/11/16 10:20",
-  "feeding": 85,
-  "pee": 0.8,
-  "poop": 0.4
-}, {
-  "date": "6/11/16",
-  "time": "13:52:42",
-  "dateAndTime": "6/11/16 13:52",
-  "feeding": 72,
-  "pee": 0.1,
-  "poop": 0.3
-}, {
-  "date": "6/11/16",
-  "time": "18:07:02",
-  "dateAndTime": "6/11/16 18:07",
-  "feeding": 72,
-  "pee": 1,
-  "poop": 0.2
-}, {
-  "date": "6/11/16",
-  "time": "20:00:39",
-  "dateAndTime": "6/11/16 20:00",
-  "feeding": 90,
-  "pee": 0.8,
-  "poop": 0.7
-}, {
-  "date": "6/12/16",
-  "time": "2:13:08",
-  "dateAndTime": "6/12/16 2:13",
-  "feeding": 72,
-  "pee": 0.5,
-  "poop": 0.2
-}, {
-  "date": "6/12/16",
-  "time": "5:16:37",
-  "dateAndTime": "6/12/16 5:16",
-  "feeding": 55,
-  "pee": 0.3,
-  "poop": 0.8
-}, {
-  "date": "6/12/16",
-  "time": "6:12:03",
-  "dateAndTime": "6/12/16 6:12",
-  "feeding": 73,
-  "pee": 0.1,
-  "poop": 0.5
-}, {
-  "date": "6/12/16",
-  "time": "9:57:42",
-  "dateAndTime": "6/12/16 9:57",
-  "feeding": 53,
-  "pee": 0.8,
-  "poop": 0.6
-}, {
-  "date": "6/12/16",
-  "time": "13:18:26",
-  "dateAndTime": "6/12/16 13:18",
-  "feeding": 55,
-  "pee": 0.3,
-  "poop": 0.2
-}, {
-  "date": "6/12/16",
-  "time": "18:59:36",
-  "dateAndTime": "6/12/16 18:59",
-  "feeding": 68,
-  "pee": 0.9,
-  "poop": 0.8
-}, {
-  "date": "6/12/16",
-  "time": "21:49:11",
-  "dateAndTime": "6/12/16 21:49",
+  "poop": 0.9,
+  "dateAndTime": "2016-04-13T21:38:39.000Z"
+}, {
+  "date": "4/14/16",
+  "time": "00:18:38",
   "feeding": 69,
   "pee": 0.4,
-  "poop": 0.9
+  "poop": 0.6,
+  "dateAndTime": "2016-04-14T00:18:38.000Z"
 }, {
-  "date": "6/13/16",
-  "time": "2:13:06",
-  "dateAndTime": "6/13/16 2:13",
-  "feeding": 68,
-  "pee": 0.4,
-  "poop": 0.4
-}, {
-  "date": "6/13/16",
-  "time": "5:53:57",
-  "dateAndTime": "6/13/16 5:53",
-  "feeding": 75,
+  "date": "4/14/16",
+  "time": "05:09:38",
+  "feeding": 54,
   "pee": 0.5,
-  "poop": 0.9
+  "poop": 0.4,
+  "dateAndTime": "2016-04-14T05:09:38.000Z"
 }, {
-  "date": "6/13/16",
-  "time": "6:16:49",
-  "dateAndTime": "6/13/16 6:16",
-  "feeding": 69,
-  "pee": 0.9,
-  "poop": 0.1
+  "date": "4/14/16",
+  "time": "06:51:45",
+  "feeding": 77,
+  "pee": 0.3,
+  "poop": 0.7,
+  "dateAndTime": "2016-04-14T06:51:45.000Z"
 }, {
-  "date": "6/13/16",
-  "time": "11:54:41",
-  "dateAndTime": "6/13/16 11:54",
-  "feeding": 81,
-  "pee": 0,
-  "poop": 0.2
+  "date": "4/14/16",
+  "time": "09:19:55",
+  "feeding": 83,
+  "pee": 1,
+  "poop": 0.1,
+  "dateAndTime": "2016-04-14T09:19:55.000Z"
 }, {
-  "date": "6/13/16",
-  "time": "12:38:01",
-  "dateAndTime": "6/13/16 12:38",
-  "feeding": 50,
-  "pee": 0.2,
-  "poop": 0.9
+  "date": "4/14/16",
+  "time": "14:46:35",
+  "feeding": 87,
+  "pee": 0.6,
+  "poop": 0.8,
+  "dateAndTime": "2016-04-14T14:46:35.000Z"
 }, {
-  "date": "6/13/16",
-  "time": "17:37:19",
-  "dateAndTime": "6/13/16 17:37",
-  "feeding": 56,
-  "pee": 0.5,
-  "poop": 0.6
-}, {
-  "date": "6/13/16",
-  "time": "23:43:43",
-  "dateAndTime": "6/13/16 23:43",
-  "feeding": 71,
-  "pee": 0.1,
-  "poop": 0.4
-}, {
-  "date": "6/14/16",
-  "time": "2:59:06",
-  "dateAndTime": "6/14/16 2:59",
+  "date": "4/14/16",
+  "time": "16:21:10",
   "feeding": 61,
-  "pee": 0.7,
-  "poop": 0.4
+  "pee": 0.3,
+  "poop": 0.3,
+  "dateAndTime": "2016-04-14T16:21:10.000Z"
 }, {
-  "date": "6/14/16",
-  "time": "3:39:18",
-  "dateAndTime": "6/14/16 3:39",
+  "date": "4/14/16",
+  "time": "21:56:19",
   "feeding": 52,
-  "pee": 0.8,
-  "poop": 0.3
-}, {
-  "date": "6/14/16",
-  "time": "7:15:27",
-  "dateAndTime": "6/14/16 7:15",
-  "feeding": 70,
   "pee": 0.1,
-  "poop": 0.2
+  "poop": 0.4,
+  "dateAndTime": "2016-04-14T21:56:19.000Z"
 }, {
-  "date": "6/14/16",
-  "time": "9:40:11",
-  "dateAndTime": "6/14/16 9:40",
-  "feeding": 52,
+  "date": "4/15/16",
+  "time": "02:05:04",
+  "feeding": 83,
+  "pee": 0.3,
+  "poop": 0.8,
+  "dateAndTime": "2016-04-15T02:05:04.000Z"
+}, {
+  "date": "4/15/16",
+  "time": "04:17:33",
+  "feeding": 70,
+  "pee": 0.6,
+  "poop": 0.4,
+  "dateAndTime": "2016-04-15T04:17:33.000Z"
+}, {
+  "date": "4/15/16",
+  "time": "08:31:03",
+  "feeding": 54,
+  "pee": 0.2,
+  "poop": 0.1,
+  "dateAndTime": "2016-04-15T08:31:03.000Z"
+}, {
+  "date": "4/15/16",
+  "time": "10:42:12",
+  "feeding": 83,
+  "pee": 0.2,
+  "poop": 0.2,
+  "dateAndTime": "2016-04-15T10:42:12.000Z"
+}, {
+  "date": "4/15/16",
+  "time": "13:07:46",
+  "feeding": 67,
+  "pee": 0.2,
+  "poop": 0.8,
+  "dateAndTime": "2016-04-15T13:07:46.000Z"
+}, {
+  "date": "4/15/16",
+  "time": "17:12:08",
+  "feeding": 64,
+  "pee": 0.8,
+  "poop": 0.7,
+  "dateAndTime": "2016-04-15T17:12:08.000Z"
+}, {
+  "date": "4/15/16",
+  "time": "19:06:40",
+  "feeding": 55,
+  "pee": 0.9,
+  "poop": 0.7,
+  "dateAndTime": "2016-04-15T19:06:40.000Z"
+}, {
+  "date": "4/16/16",
+  "time": "01:56:01",
+  "feeding": 73,
+  "pee": 0.6,
+  "poop": 0.3,
+  "dateAndTime": "2016-04-16T01:56:01.000Z"
+}, {
+  "date": "4/16/16",
+  "time": "04:59:17",
+  "feeding": 90,
+  "pee": 0.7,
+  "poop": 0,
+  "dateAndTime": "2016-04-16T04:59:17.000Z"
+}, {
+  "date": "4/16/16",
+  "time": "06:25:29",
+  "feeding": 74,
+  "pee": 0.6,
+  "poop": 0.5,
+  "dateAndTime": "2016-04-16T06:25:29.000Z"
+}, {
+  "date": "4/16/16",
+  "time": "10:05:22",
+  "feeding": 83,
+  "pee": 0.6,
+  "poop": 0.8,
+  "dateAndTime": "2016-04-16T10:05:22.000Z"
+}, {
+  "date": "4/16/16",
+  "time": "12:03:26",
+  "feeding": 67,
+  "pee": 0.3,
+  "poop": 1,
+  "dateAndTime": "2016-04-16T12:03:26.000Z"
+}, {
+  "date": "4/16/16",
+  "time": "16:47:54",
+  "feeding": 55,
+  "pee": 0.3,
+  "poop": 0.9,
+  "dateAndTime": "2016-04-16T16:47:54.000Z"
+}, {
+  "date": "4/16/16",
+  "time": "20:13:31",
+  "feeding": 90,
+  "pee": 0.7,
+  "poop": 0.9,
+  "dateAndTime": "2016-04-16T20:13:31.000Z"
+}, {
+  "date": "4/17/16",
+  "time": "02:50:33",
+  "feeding": 61,
+  "pee": 0.9,
+  "poop": 0.5,
+  "dateAndTime": "2016-04-17T02:50:33.000Z"
+}, {
+  "date": "4/17/16",
+  "time": "04:49:51",
+  "feeding": 67,
+  "pee": 0.9,
+  "poop": 0.7,
+  "dateAndTime": "2016-04-17T04:49:51.000Z"
+}, {
+  "date": "4/17/16",
+  "time": "07:52:42",
+  "feeding": 72,
+  "pee": 0.8,
+  "poop": 0.4,
+  "dateAndTime": "2016-04-17T07:52:42.000Z"
+}, {
+  "date": "4/17/16",
+  "time": "10:29:23",
+  "feeding": 55,
+  "pee": 0.9,
+  "poop": 0.6,
+  "dateAndTime": "2016-04-17T10:29:23.000Z"
+}, {
+  "date": "4/17/16",
+  "time": "13:42:14",
+  "feeding": 57,
+  "pee": 0.2,
+  "poop": 0.3,
+  "dateAndTime": "2016-04-17T13:42:14.000Z"
+}, {
+  "date": "4/17/16",
+  "time": "15:53:01",
+  "feeding": 69,
+  "pee": 0,
+  "poop": 0.1,
+  "dateAndTime": "2016-04-17T15:53:01.000Z"
+}, {
+  "date": "4/17/16",
+  "time": "21:14:42",
+  "feeding": 70,
   "pee": 0.4,
-  "poop": 0.5
+  "poop": 0.5,
+  "dateAndTime": "2016-04-17T21:14:42.000Z"
 }, {
-  "date": "6/14/16",
-  "time": "13:14:16",
-  "dateAndTime": "6/14/16 13:14",
-  "feeding": 60,
-  "pee": 0.5,
-  "poop": 0.8
+  "date": "4/18/16",
+  "time": "02:47:45",
+  "feeding": 67,
+  "pee": 0.8,
+  "poop": 0.6,
+  "dateAndTime": "2016-04-18T02:47:45.000Z"
 }, {
-  "date": "6/14/16",
-  "time": "18:35:05",
-  "dateAndTime": "6/14/16 18:35",
+  "date": "4/18/16",
+  "time": "04:54:52",
   "feeding": 67,
   "pee": 0.1,
-  "poop": 0.9
+  "poop": 0.7,
+  "dateAndTime": "2016-04-18T04:54:52.000Z"
 }, {
-  "date": "6/14/16",
-  "time": "22:29:44",
-  "dateAndTime": "6/14/16 22:29",
-  "feeding": 63,
+  "date": "4/18/16",
+  "time": "06:34:29",
+  "feeding": 69,
+  "pee": 0.5,
+  "poop": 0.1,
+  "dateAndTime": "2016-04-18T06:34:29.000Z"
+}, {
+  "date": "4/18/16",
+  "time": "10:55:24",
+  "feeding": 72,
+  "pee": 1,
+  "poop": 0.1,
+  "dateAndTime": "2016-04-18T10:55:24.000Z"
+}, {
+  "date": "4/18/16",
+  "time": "13:06:50",
+  "feeding": 69,
+  "pee": 0.1,
+  "poop": 0.7,
+  "dateAndTime": "2016-04-18T13:06:50.000Z"
+}, {
+  "date": "4/18/16",
+  "time": "15:16:17",
+  "feeding": 90,
+  "pee": 0.5,
+  "poop": 0.6,
+  "dateAndTime": "2016-04-18T15:16:17.000Z"
+}, {
+  "date": "4/18/16",
+  "time": "19:15:45",
+  "feeding": 75,
+  "pee": 0.2,
+  "poop": 0.2,
+  "dateAndTime": "2016-04-18T19:15:45.000Z"
+}, {
+  "date": "4/19/16",
+  "time": "00:47:40",
+  "feeding": 88,
+  "pee": 1,
+  "poop": 0.2,
+  "dateAndTime": "2016-04-19T00:47:40.000Z"
+}, {
+  "date": "4/19/16",
+  "time": "03:49:50",
+  "feeding": 70,
   "pee": 0.7,
-  "poop": 0.6
+  "poop": 0.1,
+  "dateAndTime": "2016-04-19T03:49:50.000Z"
 }, {
-  "date": "6/15/16",
-  "time": "1:39:36",
-  "dateAndTime": "6/15/16 1:39",
-  "feeding": 71,
-  "pee": 0.4,
-  "poop": 0.2
+  "date": "4/19/16",
+  "time": "06:24:48",
+  "feeding": 57,
+  "pee": 0.7,
+  "poop": 0.7,
+  "dateAndTime": "2016-04-19T06:24:48.000Z"
 }, {
-  "date": "6/15/16",
-  "time": "5:01:01",
-  "dateAndTime": "6/15/16 5:01",
-  "feeding": 81,
-  "pee": 0.9,
-  "poop": 0.3
-}, {
-  "date": "6/15/16",
-  "time": "8:30:58",
-  "dateAndTime": "6/15/16 8:30",
-  "feeding": 53,
-  "pee": 0.9,
-  "poop": 0.4
-}, {
-  "date": "6/15/16",
-  "time": "10:10:02",
-  "dateAndTime": "6/15/16 10:10",
-  "feeding": 76,
-  "pee": 0.6,
-  "poop": 0.6
-}, {
-  "date": "6/15/16",
-  "time": "12:40:45",
-  "dateAndTime": "6/15/16 12:40",
-  "feeding": 85,
-  "pee": 0.8,
-  "poop": 0
-}, {
-  "date": "6/15/16",
-  "time": "16:45:12",
-  "dateAndTime": "6/15/16 16:45",
-  "feeding": 68,
+  "date": "4/19/16",
+  "time": "10:22:30",
+  "feeding": 60,
   "pee": 0.3,
-  "poop": 0.4
+  "poop": 0.8,
+  "dateAndTime": "2016-04-19T10:22:30.000Z"
 }, {
-  "date": "6/15/16",
-  "time": "23:35:35",
-  "dateAndTime": "6/15/16 23:35",
-  "feeding": 76,
-  "pee": 0.4,
-  "poop": 0.4
+  "date": "4/19/16",
+  "time": "14:08:01",
+  "feeding": 75,
+  "pee": 0.9,
+  "poop": 0.8,
+  "dateAndTime": "2016-04-19T14:08:01.000Z"
 }, {
-  "date": "6/16/16",
-  "time": "2:05:29",
-  "dateAndTime": "6/16/16 2:05",
+  "date": "4/19/16",
+  "time": "16:55:47",
+  "feeding": 90,
+  "pee": 0.6,
+  "poop": 0.1,
+  "dateAndTime": "2016-04-19T16:55:47.000Z"
+}, {
+  "date": "4/19/16",
+  "time": "21:12:40",
+  "feeding": 65,
+  "pee": 0.3,
+  "poop": 1,
+  "dateAndTime": "2016-04-19T21:12:40.000Z"
+}, {
+  "date": "4/20/16",
+  "time": "00:28:13",
+  "feeding": 73,
+  "pee": 0.1,
+  "poop": 0.5,
+  "dateAndTime": "2016-04-20T00:28:13.000Z"
+}, {
+  "date": "4/20/16",
+  "time": "03:17:59",
+  "feeding": 67,
+  "pee": 0.5,
+  "poop": 0.1,
+  "dateAndTime": "2016-04-20T03:17:59.000Z"
+}, {
+  "date": "4/20/16",
+  "time": "07:41:54",
   "feeding": 81,
   "pee": 0.2,
-  "poop": 0.4
+  "poop": 0.7,
+  "dateAndTime": "2016-04-20T07:41:54.000Z"
 }, {
-  "date": "6/16/16",
-  "time": "5:45:28",
-  "dateAndTime": "6/16/16 5:45",
-  "feeding": 79,
-  "pee": 0.4,
-  "poop": 0.1
-}, {
-  "date": "6/16/16",
-  "time": "8:48:49",
-  "dateAndTime": "6/16/16 8:48",
-  "feeding": 81,
-  "pee": 0,
-  "poop": 0.6
-}, {
-  "date": "6/16/16",
-  "time": "10:24:20",
-  "dateAndTime": "6/16/16 10:24",
+  "date": "4/20/16",
+  "time": "10:11:43",
   "feeding": 70,
-  "pee": 0.9,
-  "poop": 0.2
+  "pee": 0.5,
+  "poop": 0.6,
+  "dateAndTime": "2016-04-20T10:11:43.000Z"
 }, {
-  "date": "6/16/16",
-  "time": "14:46:39",
-  "dateAndTime": "6/16/16 14:46",
-  "feeding": 65,
-  "pee": 0.8,
-  "poop": 0.5
+  "date": "4/20/16",
+  "time": "12:58:28",
+  "feeding": 51,
+  "pee": 0.6,
+  "poop": 0.8,
+  "dateAndTime": "2016-04-20T12:58:28.000Z"
 }, {
-  "date": "6/16/16",
-  "time": "15:43:13",
-  "dateAndTime": "6/16/16 15:43",
-  "feeding": 80,
-  "pee": 1,
-  "poop": 0.2
-}, {
-  "date": "6/16/16",
-  "time": "20:40:35",
-  "dateAndTime": "6/16/16 20:40",
-  "feeding": 65,
-  "pee": 0.4,
-  "poop": 0.1
-}, {
-  "date": "6/17/16",
-  "time": "1:35:42",
-  "dateAndTime": "6/17/16 1:35",
-  "feeding": 63,
-  "pee": 0.1,
-  "poop": 0.5
-}, {
-  "date": "6/17/16",
-  "time": "3:38:39",
-  "dateAndTime": "6/17/16 3:38",
+  "date": "4/20/16",
+  "time": "18:35:59",
   "feeding": 85,
   "pee": 0.1,
-  "poop": 0.3
+  "poop": 0.8,
+  "dateAndTime": "2016-04-20T18:35:59.000Z"
 }, {
-  "date": "6/17/16",
-  "time": "7:23:21",
-  "dateAndTime": "6/17/16 7:23",
-  "feeding": 88,
-  "pee": 0.1,
-  "poop": 0.4
+  "date": "4/20/16",
+  "time": "19:41:18",
+  "feeding": 63,
+  "pee": 0.7,
+  "poop": 0.2,
+  "dateAndTime": "2016-04-20T19:41:18.000Z"
 }, {
-  "date": "6/17/16",
-  "time": "10:34:23",
-  "dateAndTime": "6/17/16 10:34",
-  "feeding": 81,
+  "date": "4/21/16",
+  "time": "02:02:36",
+  "feeding": 87,
+  "pee": 0.7,
+  "poop": 0.6,
+  "dateAndTime": "2016-04-21T02:02:36.000Z"
+}, {
+  "date": "4/21/16",
+  "time": "04:53:42",
+  "feeding": 61,
   "pee": 0.4,
-  "poop": 0.2
+  "poop": 0.9,
+  "dateAndTime": "2016-04-21T04:53:42.000Z"
 }, {
-  "date": "6/17/16",
+  "date": "4/21/16",
+  "time": "06:12:54",
+  "feeding": 89,
+  "pee": 0.2,
+  "poop": 0.8,
+  "dateAndTime": "2016-04-21T06:12:54.000Z"
+}, {
+  "date": "4/21/16",
+  "time": "10:25:30",
+  "feeding": 88,
+  "pee": 1,
+  "poop": 0.9,
+  "dateAndTime": "2016-04-21T10:25:30.000Z"
+}, {
+  "date": "4/21/16",
+  "time": "14:30:11",
+  "feeding": 85,
+  "pee": 0.1,
+  "poop": 0.1,
+  "dateAndTime": "2016-04-21T14:30:11.000Z"
+}, {
+  "date": "4/21/16",
+  "time": "15:06:46",
+  "feeding": 64,
+  "pee": 0.2,
+  "poop": 0.3,
+  "dateAndTime": "2016-04-21T15:06:46.000Z"
+}, {
+  "date": "4/21/16",
+  "time": "22:54:15",
+  "feeding": 74,
+  "pee": 0.4,
+  "poop": 0.3,
+  "dateAndTime": "2016-04-21T22:54:15.000Z"
+}, {
+  "date": "4/22/16",
+  "time": "01:56:40",
+  "feeding": 84,
+  "pee": 0.7,
+  "poop": 0.2,
+  "dateAndTime": "2016-04-22T01:56:40.000Z"
+}, {
+  "date": "4/22/16",
+  "time": "03:02:00",
+  "feeding": 80,
+  "pee": 0.8,
+  "poop": 0.9,
+  "dateAndTime": "2016-04-22T03:02:00.000Z"
+}, {
+  "date": "4/22/16",
+  "time": "08:05:18",
+  "feeding": 52,
+  "pee": 0.8,
+  "poop": 0.7,
+  "dateAndTime": "2016-04-22T08:05:18.000Z"
+}, {
+  "date": "4/22/16",
+  "time": "09:16:51",
+  "feeding": 55,
+  "pee": 0.6,
+  "poop": 0.4,
+  "dateAndTime": "2016-04-22T09:16:51.000Z"
+}, {
+  "date": "4/22/16",
+  "time": "12:53:56",
+  "feeding": 57,
+  "pee": 0,
+  "poop": 0.6,
+  "dateAndTime": "2016-04-22T12:53:56.000Z"
+}, {
+  "date": "4/22/16",
+  "time": "15:28:25",
+  "feeding": 77,
+  "pee": 0.7,
+  "poop": 0.2,
+  "dateAndTime": "2016-04-22T15:28:25.000Z"
+}, {
+  "date": "4/22/16",
+  "time": "22:36:35",
+  "feeding": 82,
+  "pee": 0.5,
+  "poop": 0.1,
+  "dateAndTime": "2016-04-22T22:36:35.000Z"
+}, {
+  "date": "4/23/16",
+  "time": "01:48:58",
+  "feeding": 67,
+  "pee": 0.4,
+  "poop": 0.7,
+  "dateAndTime": "2016-04-23T01:48:58.000Z"
+}, {
+  "date": "4/23/16",
+  "time": "03:41:08",
+  "feeding": 61,
+  "pee": 0.2,
+  "poop": 0.7,
+  "dateAndTime": "2016-04-23T03:41:08.000Z"
+}, {
+  "date": "4/23/16",
+  "time": "07:35:00",
+  "feeding": 77,
+  "pee": 0,
+  "poop": 0.4,
+  "dateAndTime": "2016-04-23T07:35:00.000Z"
+}, {
+  "date": "4/23/16",
+  "time": "09:01:43",
+  "feeding": 80,
+  "pee": 0.8,
+  "poop": 0.6,
+  "dateAndTime": "2016-04-23T09:01:43.000Z"
+}, {
+  "date": "4/23/16",
+  "time": "12:55:00",
+  "feeding": 66,
+  "pee": 0.3,
+  "poop": 0.3,
+  "dateAndTime": "2016-04-23T12:55:00.000Z"
+}, {
+  "date": "4/23/16",
+  "time": "17:09:33",
+  "feeding": 52,
+  "pee": 1,
+  "poop": 0.4,
+  "dateAndTime": "2016-04-23T17:09:33.000Z"
+}, {
+  "date": "4/23/16",
+  "time": "23:04:35",
+  "feeding": 84,
+  "pee": 0.2,
+  "poop": 0.5,
+  "dateAndTime": "2016-04-23T23:04:35.000Z"
+}, {
+  "date": "4/24/16",
+  "time": "01:53:27",
+  "feeding": 90,
+  "pee": 0.6,
+  "poop": 0.6,
+  "dateAndTime": "2016-04-24T01:53:27.000Z"
+}, {
+  "date": "4/24/16",
+  "time": "04:05:01",
+  "feeding": 55,
+  "pee": 0.9,
+  "poop": 0.1,
+  "dateAndTime": "2016-04-24T04:05:01.000Z"
+}, {
+  "date": "4/24/16",
+  "time": "08:27:18",
+  "feeding": 78,
+  "pee": 0.5,
+  "poop": 0.1,
+  "dateAndTime": "2016-04-24T08:27:18.000Z"
+}, {
+  "date": "4/24/16",
+  "time": "10:21:55",
+  "feeding": 80,
+  "pee": 0.8,
+  "poop": 0.9,
+  "dateAndTime": "2016-04-24T10:21:55.000Z"
+}, {
+  "date": "4/24/16",
+  "time": "12:19:17",
+  "feeding": 56,
+  "pee": 0.7,
+  "poop": 0.5,
+  "dateAndTime": "2016-04-24T12:19:17.000Z"
+}, {
+  "date": "4/24/16",
+  "time": "17:05:07",
+  "feeding": 57,
+  "pee": 0.4,
+  "poop": 0.4,
+  "dateAndTime": "2016-04-24T17:05:07.000Z"
+}, {
+  "date": "4/24/16",
+  "time": "22:01:59",
+  "feeding": 57,
+  "pee": 0.4,
+  "poop": 0.8,
+  "dateAndTime": "2016-04-24T22:01:59.000Z"
+}, {
+  "date": "4/25/16",
+  "time": "00:33:32",
+  "feeding": 59,
+  "pee": 0.9,
+  "poop": 1,
+  "dateAndTime": "2016-04-25T00:33:32.000Z"
+}, {
+  "date": "4/25/16",
+  "time": "04:49:32",
+  "feeding": 87,
+  "pee": 0.4,
+  "poop": 1,
+  "dateAndTime": "2016-04-25T04:49:32.000Z"
+}, {
+  "date": "4/25/16",
+  "time": "08:23:17",
+  "feeding": 54,
+  "pee": 0.8,
+  "poop": 0.7,
+  "dateAndTime": "2016-04-25T08:23:17.000Z"
+}, {
+  "date": "4/25/16",
+  "time": "09:34:11",
+  "feeding": 83,
+  "pee": 0.6,
+  "poop": 0.7,
+  "dateAndTime": "2016-04-25T09:34:11.000Z"
+}, {
+  "date": "4/25/16",
+  "time": "13:04:33",
+  "feeding": 62,
+  "pee": 0.3,
+  "poop": 0.2,
+  "dateAndTime": "2016-04-25T13:04:33.000Z"
+}, {
+  "date": "4/25/16",
+  "time": "18:14:44",
+  "feeding": 77,
+  "pee": 1,
+  "poop": 0,
+  "dateAndTime": "2016-04-25T18:14:44.000Z"
+}, {
+  "date": "4/25/16",
+  "time": "23:35:08",
+  "feeding": 62,
+  "pee": 0.9,
+  "poop": 0.1,
+  "dateAndTime": "2016-04-25T23:35:08.000Z"
+}, {
+  "date": "4/26/16",
+  "time": "02:35:14",
+  "feeding": 58,
+  "pee": 0.8,
+  "poop": 1,
+  "dateAndTime": "2016-04-26T02:35:14.000Z"
+}, {
+  "date": "4/26/16",
+  "time": "04:44:27",
+  "feeding": 55,
+  "pee": 0.7,
+  "poop": 0.8,
+  "dateAndTime": "2016-04-26T04:44:27.000Z"
+}, {
+  "date": "4/26/16",
+  "time": "06:07:46",
+  "feeding": 81,
+  "pee": 1,
+  "poop": 0.3,
+  "dateAndTime": "2016-04-26T06:07:46.000Z"
+}, {
+  "date": "4/26/16",
+  "time": "10:13:23",
+  "feeding": 82,
+  "pee": 0.9,
+  "poop": 0.1,
+  "dateAndTime": "2016-04-26T10:13:23.000Z"
+}, {
+  "date": "4/26/16",
+  "time": "12:06:52",
+  "feeding": 53,
+  "pee": 1,
+  "poop": 0.7,
+  "dateAndTime": "2016-04-26T12:06:52.000Z"
+}, {
+  "date": "4/26/16",
+  "time": "17:41:02",
+  "feeding": 65,
+  "pee": 0.3,
+  "poop": 0.1,
+  "dateAndTime": "2016-04-26T17:41:02.000Z"
+}, {
+  "date": "4/26/16",
+  "time": "23:31:17",
+  "feeding": 60,
+  "pee": 0.6,
+  "poop": 0.6,
+  "dateAndTime": "2016-04-26T23:31:17.000Z"
+}, {
+  "date": "4/27/16",
+  "time": "00:09:53",
+  "feeding": 70,
+  "pee": 0.9,
+  "poop": 0.6,
+  "dateAndTime": "2016-04-27T00:09:53.000Z"
+}, {
+  "date": "4/27/16",
+  "time": "05:01:42",
+  "feeding": 85,
+  "pee": 0.2,
+  "poop": 0.1,
+  "dateAndTime": "2016-04-27T05:01:42.000Z"
+}, {
+  "date": "4/27/16",
+  "time": "07:11:34",
+  "feeding": 74,
+  "pee": 0.6,
+  "poop": 0.1,
+  "dateAndTime": "2016-04-27T07:11:34.000Z"
+}, {
+  "date": "4/27/16",
+  "time": "09:08:53",
+  "feeding": 63,
+  "pee": 0.9,
+  "poop": 0.6,
+  "dateAndTime": "2016-04-27T09:08:53.000Z"
+}, {
+  "date": "4/27/16",
+  "time": "12:33:08",
+  "feeding": 88,
+  "pee": 0.3,
+  "poop": 0.1,
+  "dateAndTime": "2016-04-27T12:33:08.000Z"
+}, {
+  "date": "4/27/16",
+  "time": "17:42:17",
+  "feeding": 82,
+  "pee": 1,
+  "poop": 0.6,
+  "dateAndTime": "2016-04-27T17:42:17.000Z"
+}, {
+  "date": "4/27/16",
+  "time": "20:23:47",
+  "feeding": 60,
+  "pee": 0.2,
+  "poop": 0.8,
+  "dateAndTime": "2016-04-27T20:23:47.000Z"
+}, {
+  "date": "4/28/16",
+  "time": "02:10:08",
+  "feeding": 79,
+  "pee": 0.8,
+  "poop": 1,
+  "dateAndTime": "2016-04-28T02:10:08.000Z"
+}, {
+  "date": "4/28/16",
+  "time": "04:50:03",
+  "feeding": 76,
+  "pee": 0.5,
+  "poop": 0.8,
+  "dateAndTime": "2016-04-28T04:50:03.000Z"
+}, {
+  "date": "4/28/16",
+  "time": "06:16:37",
+  "feeding": 83,
+  "pee": 0.8,
+  "poop": 0.8,
+  "dateAndTime": "2016-04-28T06:16:37.000Z"
+}, {
+  "date": "4/28/16",
+  "time": "10:57:08",
+  "feeding": 57,
+  "pee": 0.4,
+  "poop": 0.3,
+  "dateAndTime": "2016-04-28T10:57:08.000Z"
+}, {
+  "date": "4/28/16",
+  "time": "12:05:08",
+  "feeding": 69,
+  "pee": 0,
+  "poop": 0.5,
+  "dateAndTime": "2016-04-28T12:05:08.000Z"
+}, {
+  "date": "4/28/16",
+  "time": "17:38:24",
+  "feeding": 89,
+  "pee": 0,
+  "poop": 0.9,
+  "dateAndTime": "2016-04-28T17:38:24.000Z"
+}, {
+  "date": "4/28/16",
+  "time": "23:40:41",
+  "feeding": 71,
+  "pee": 0.6,
+  "poop": 0.3,
+  "dateAndTime": "2016-04-28T23:40:41.000Z"
+}, {
+  "date": "4/29/16",
+  "time": "00:14:46",
+  "feeding": 65,
+  "pee": 0.8,
+  "poop": 0.8,
+  "dateAndTime": "2016-04-29T00:14:46.000Z"
+}, {
+  "date": "4/29/16",
+  "time": "05:44:23",
+  "feeding": 57,
+  "pee": 0.7,
+  "poop": 0.3,
+  "dateAndTime": "2016-04-29T05:44:23.000Z"
+}, {
+  "date": "4/29/16",
+  "time": "07:33:16",
+  "feeding": 65,
+  "pee": 0.8,
+  "poop": 0.3,
+  "dateAndTime": "2016-04-29T07:33:16.000Z"
+}, {
+  "date": "4/29/16",
+  "time": "09:23:13",
+  "feeding": 50,
+  "pee": 0.8,
+  "poop": 0.1,
+  "dateAndTime": "2016-04-29T09:23:13.000Z"
+}, {
+  "date": "4/29/16",
+  "time": "14:47:44",
+  "feeding": 82,
+  "pee": 0,
+  "poop": 1,
+  "dateAndTime": "2016-04-29T14:47:44.000Z"
+}, {
+  "date": "4/29/16",
+  "time": "18:20:01",
+  "feeding": 75,
+  "pee": 0.6,
+  "poop": 0.8,
+  "dateAndTime": "2016-04-29T18:20:01.000Z"
+}, {
+  "date": "4/29/16",
+  "time": "20:13:55",
+  "feeding": 51,
+  "pee": 0.9,
+  "poop": 0.6,
+  "dateAndTime": "2016-04-29T20:13:55.000Z"
+}, {
+  "date": "4/30/16",
+  "time": "00:57:48",
+  "feeding": 66,
+  "pee": 0.3,
+  "poop": 0.9,
+  "dateAndTime": "2016-04-30T00:57:48.000Z"
+}, {
+  "date": "4/30/16",
+  "time": "05:20:53",
+  "feeding": 51,
+  "pee": 1,
+  "poop": 0.2,
+  "dateAndTime": "2016-04-30T05:20:53.000Z"
+}, {
+  "date": "4/30/16",
+  "time": "08:08:17",
+  "feeding": 56,
+  "pee": 0.5,
+  "poop": 0.5,
+  "dateAndTime": "2016-04-30T08:08:17.000Z"
+}, {
+  "date": "4/30/16",
+  "time": "11:57:15",
+  "feeding": 89,
+  "pee": 0.4,
+  "poop": 0.5,
+  "dateAndTime": "2016-04-30T11:57:15.000Z"
+}, {
+  "date": "4/30/16",
+  "time": "14:43:34",
+  "feeding": 65,
+  "pee": 0.6,
+  "poop": 0.3,
+  "dateAndTime": "2016-04-30T14:43:34.000Z"
+}, {
+  "date": "4/30/16",
+  "time": "17:15:50",
+  "feeding": 90,
+  "pee": 0.3,
+  "poop": 0.5,
+  "dateAndTime": "2016-04-30T17:15:50.000Z"
+}, {
+  "date": "4/30/16",
+  "time": "22:45:40",
+  "feeding": 73,
+  "pee": 0.9,
+  "poop": 0.1,
+  "dateAndTime": "2016-04-30T22:45:40.000Z"
+}, {
+  "date": "5/1/16",
+  "time": "00:42:51",
+  "feeding": 81,
+  "pee": 0.8,
+  "poop": 0.9,
+  "dateAndTime": "2016-05-01T00:42:51.000Z"
+}, {
+  "date": "5/1/16",
+  "time": "04:10:00",
+  "feeding": 51,
+  "pee": 0.8,
+  "poop": 0.4,
+  "dateAndTime": "2016-05-01T04:10:00.000Z"
+}, {
+  "date": "5/1/16",
+  "time": "08:55:45",
+  "feeding": 59,
+  "pee": 0,
+  "poop": 0.5,
+  "dateAndTime": "2016-05-01T08:55:45.000Z"
+}, {
+  "date": "5/1/16",
+  "time": "09:00:02",
+  "feeding": 70,
+  "pee": 0,
+  "poop": 0.9,
+  "dateAndTime": "2016-05-01T09:00:02.000Z"
+}, {
+  "date": "5/1/16",
+  "time": "13:09:06",
+  "feeding": 55,
+  "pee": 0.2,
+  "poop": 1,
+  "dateAndTime": "2016-05-01T13:09:06.000Z"
+}, {
+  "date": "5/1/16",
+  "time": "15:57:44",
+  "feeding": 70,
+  "pee": 0.1,
+  "poop": 0.1,
+  "dateAndTime": "2016-05-01T15:57:44.000Z"
+}, {
+  "date": "5/1/16",
+  "time": "22:21:52",
+  "feeding": 56,
+  "pee": 0,
+  "poop": 0.5,
+  "dateAndTime": "2016-05-01T22:21:52.000Z"
+}, {
+  "date": "5/2/16",
+  "time": "00:31:10",
+  "feeding": 74,
+  "pee": 0.1,
+  "poop": 0.4,
+  "dateAndTime": "2016-05-02T00:31:10.000Z"
+}, {
+  "date": "5/2/16",
+  "time": "04:01:58",
+  "feeding": 71,
+  "pee": 0.5,
+  "poop": 0.6,
+  "dateAndTime": "2016-05-02T04:01:58.000Z"
+}, {
+  "date": "5/2/16",
+  "time": "08:25:44",
+  "feeding": 79,
+  "pee": 0.7,
+  "poop": 0.9,
+  "dateAndTime": "2016-05-02T08:25:44.000Z"
+}, {
+  "date": "5/2/16",
+  "time": "11:00:52",
+  "feeding": 58,
+  "pee": 0.1,
+  "poop": 0.4,
+  "dateAndTime": "2016-05-02T11:00:52.000Z"
+}, {
+  "date": "5/2/16",
+  "time": "12:42:32",
+  "feeding": 76,
+  "pee": 0.8,
+  "poop": 0.1,
+  "dateAndTime": "2016-05-02T12:42:32.000Z"
+}, {
+  "date": "5/2/16",
+  "time": "16:42:23",
+  "feeding": 84,
+  "pee": 0.2,
+  "poop": 0.7,
+  "dateAndTime": "2016-05-02T16:42:23.000Z"
+}, {
+  "date": "5/2/16",
+  "time": "23:55:08",
+  "feeding": 80,
+  "pee": 0.4,
+  "poop": 1,
+  "dateAndTime": "2016-05-02T23:55:08.000Z"
+}, {
+  "date": "5/3/16",
+  "time": "02:13:12",
+  "feeding": 63,
+  "pee": 0.4,
+  "poop": 1,
+  "dateAndTime": "2016-05-03T02:13:12.000Z"
+}, {
+  "date": "5/3/16",
+  "time": "04:24:19",
+  "feeding": 83,
+  "pee": 0.7,
+  "poop": 0.1,
+  "dateAndTime": "2016-05-03T04:24:19.000Z"
+}, {
+  "date": "5/3/16",
+  "time": "07:48:06",
+  "feeding": 72,
+  "pee": 0.1,
+  "poop": 0.7,
+  "dateAndTime": "2016-05-03T07:48:06.000Z"
+}, {
+  "date": "5/3/16",
+  "time": "10:25:02",
+  "feeding": 83,
+  "pee": 0.3,
+  "poop": 0.7,
+  "dateAndTime": "2016-05-03T10:25:02.000Z"
+}, {
+  "date": "5/3/16",
+  "time": "14:04:16",
+  "feeding": 59,
+  "pee": 0.4,
+  "poop": 0.6,
+  "dateAndTime": "2016-05-03T14:04:16.000Z"
+}, {
+  "date": "5/3/16",
+  "time": "15:12:24",
+  "feeding": 50,
+  "pee": 0.4,
+  "poop": 0.8,
+  "dateAndTime": "2016-05-03T15:12:24.000Z"
+}, {
+  "date": "5/3/16",
+  "time": "21:57:00",
+  "feeding": 58,
+  "pee": 0.9,
+  "poop": 0.2,
+  "dateAndTime": "2016-05-03T21:57:00.000Z"
+}, {
+  "date": "5/4/16",
+  "time": "00:11:46",
+  "feeding": 82,
+  "pee": 0.6,
+  "poop": 0.8,
+  "dateAndTime": "2016-05-04T00:11:46.000Z"
+}, {
+  "date": "5/4/16",
+  "time": "04:53:31",
+  "feeding": 56,
+  "pee": 0.4,
+  "poop": 0,
+  "dateAndTime": "2016-05-04T04:53:31.000Z"
+}, {
+  "date": "5/4/16",
+  "time": "07:20:04",
+  "feeding": 76,
+  "pee": 0.7,
+  "poop": 0.9,
+  "dateAndTime": "2016-05-04T07:20:04.000Z"
+}, {
+  "date": "5/4/16",
+  "time": "10:00:19",
+  "feeding": 57,
+  "pee": 0.2,
+  "poop": 0.7,
+  "dateAndTime": "2016-05-04T10:00:19.000Z"
+}, {
+  "date": "5/4/16",
+  "time": "14:31:58",
+  "feeding": 63,
+  "pee": 0.3,
+  "poop": 0.9,
+  "dateAndTime": "2016-05-04T14:31:58.000Z"
+}, {
+  "date": "5/4/16",
+  "time": "16:19:33",
+  "feeding": 61,
+  "pee": 0.4,
+  "poop": 0.9,
+  "dateAndTime": "2016-05-04T16:19:33.000Z"
+}, {
+  "date": "5/4/16",
+  "time": "21:52:56",
+  "feeding": 61,
+  "pee": 0.1,
+  "poop": 0.2,
+  "dateAndTime": "2016-05-04T21:52:56.000Z"
+}, {
+  "date": "5/5/16",
+  "time": "02:11:48",
+  "feeding": 83,
+  "pee": 0.1,
+  "poop": 0.4,
+  "dateAndTime": "2016-05-05T02:11:48.000Z"
+}, {
+  "date": "5/5/16",
+  "time": "04:12:08",
+  "feeding": 73,
+  "pee": 0.5,
+  "poop": 0.6,
+  "dateAndTime": "2016-05-05T04:12:08.000Z"
+}, {
+  "date": "5/5/16",
+  "time": "07:14:13",
+  "feeding": 53,
+  "pee": 0.8,
+  "poop": 0.3,
+  "dateAndTime": "2016-05-05T07:14:13.000Z"
+}, {
+  "date": "5/5/16",
+  "time": "09:57:34",
+  "feeding": 69,
+  "pee": 0.7,
+  "poop": 0.2,
+  "dateAndTime": "2016-05-05T09:57:34.000Z"
+}, {
+  "date": "5/5/16",
+  "time": "13:59:38",
+  "feeding": 65,
+  "pee": 0,
+  "poop": 0.2,
+  "dateAndTime": "2016-05-05T13:59:38.000Z"
+}, {
+  "date": "5/5/16",
+  "time": "17:38:51",
+  "feeding": 58,
+  "pee": 0.3,
+  "poop": 0,
+  "dateAndTime": "2016-05-05T17:38:51.000Z"
+}, {
+  "date": "5/5/16",
+  "time": "20:56:28",
+  "feeding": 80,
+  "pee": 0,
+  "poop": 0.1,
+  "dateAndTime": "2016-05-05T20:56:28.000Z"
+}, {
+  "date": "5/6/16",
+  "time": "02:49:53",
+  "feeding": 57,
+  "pee": 0.3,
+  "poop": 0.1,
+  "dateAndTime": "2016-05-06T02:49:53.000Z"
+}, {
+  "date": "5/6/16",
+  "time": "05:45:49",
+  "feeding": 60,
+  "pee": 0.8,
+  "poop": 0.6,
+  "dateAndTime": "2016-05-06T05:45:49.000Z"
+}, {
+  "date": "5/6/16",
+  "time": "07:23:43",
+  "feeding": 70,
+  "pee": 0.8,
+  "poop": 0.9,
+  "dateAndTime": "2016-05-06T07:23:43.000Z"
+}, {
+  "date": "5/6/16",
+  "time": "10:22:20",
+  "feeding": 73,
+  "pee": 0.1,
+  "poop": 0.9,
+  "dateAndTime": "2016-05-06T10:22:20.000Z"
+}, {
+  "date": "5/6/16",
+  "time": "13:41:10",
+  "feeding": 84,
+  "pee": 0.6,
+  "poop": 0.9,
+  "dateAndTime": "2016-05-06T13:41:10.000Z"
+}, {
+  "date": "5/6/16",
+  "time": "15:47:03",
+  "feeding": 88,
+  "pee": 0.3,
+  "poop": 0.6,
+  "dateAndTime": "2016-05-06T15:47:03.000Z"
+}, {
+  "date": "5/6/16",
+  "time": "20:37:46",
+  "feeding": 79,
+  "pee": 0.8,
+  "poop": 0,
+  "dateAndTime": "2016-05-06T20:37:46.000Z"
+}, {
+  "date": "5/7/16",
+  "time": "00:12:41",
+  "feeding": 81,
+  "pee": 0.3,
+  "poop": 0.1,
+  "dateAndTime": "2016-05-07T00:12:41.000Z"
+}, {
+  "date": "5/7/16",
+  "time": "04:54:33",
+  "feeding": 54,
+  "pee": 0.1,
+  "poop": 0.6,
+  "dateAndTime": "2016-05-07T04:54:33.000Z"
+}, {
+  "date": "5/7/16",
+  "time": "06:48:55",
+  "feeding": 67,
+  "pee": 0.3,
+  "poop": 0.9,
+  "dateAndTime": "2016-05-07T06:48:55.000Z"
+}, {
+  "date": "5/7/16",
+  "time": "09:58:40",
+  "feeding": 70,
+  "pee": 0.7,
+  "poop": 1,
+  "dateAndTime": "2016-05-07T09:58:40.000Z"
+}, {
+  "date": "5/7/16",
+  "time": "13:18:28",
+  "feeding": 52,
+  "pee": 0.9,
+  "poop": 0.4,
+  "dateAndTime": "2016-05-07T13:18:28.000Z"
+}, {
+  "date": "5/7/16",
+  "time": "17:58:18",
+  "feeding": 78,
+  "pee": 0.8,
+  "poop": 0.1,
+  "dateAndTime": "2016-05-07T17:58:18.000Z"
+}, {
+  "date": "5/7/16",
+  "time": "20:26:17",
+  "feeding": 70,
+  "pee": 0.1,
+  "poop": 0,
+  "dateAndTime": "2016-05-07T20:26:17.000Z"
+}, {
+  "date": "5/8/16",
+  "time": "01:25:19",
+  "feeding": 75,
+  "pee": 0.1,
+  "poop": 0.9,
+  "dateAndTime": "2016-05-08T01:25:19.000Z"
+}, {
+  "date": "5/8/16",
+  "time": "05:01:02",
+  "feeding": 54,
+  "pee": 0.7,
+  "poop": 0.7,
+  "dateAndTime": "2016-05-08T05:01:02.000Z"
+}, {
+  "date": "5/8/16",
+  "time": "07:41:29",
+  "feeding": 50,
+  "pee": 0.3,
+  "poop": 0.8,
+  "dateAndTime": "2016-05-08T07:41:29.000Z"
+}, {
+  "date": "5/8/16",
+  "time": "09:35:44",
+  "feeding": 63,
+  "pee": 0.4,
+  "poop": 0.7,
+  "dateAndTime": "2016-05-08T09:35:44.000Z"
+}, {
+  "date": "5/8/16",
+  "time": "14:52:15",
+  "feeding": 79,
+  "pee": 1,
+  "poop": 0.2,
+  "dateAndTime": "2016-05-08T14:52:15.000Z"
+}, {
+  "date": "5/8/16",
+  "time": "15:27:05",
+  "feeding": 85,
+  "pee": 0.8,
+  "poop": 0.2,
+  "dateAndTime": "2016-05-08T15:27:05.000Z"
+}, {
+  "date": "5/8/16",
+  "time": "20:08:29",
+  "feeding": 74,
+  "pee": 0,
+  "poop": 1,
+  "dateAndTime": "2016-05-08T20:08:29.000Z"
+}, {
+  "date": "5/9/16",
+  "time": "01:54:23",
+  "feeding": 82,
+  "pee": 0.4,
+  "poop": 0.4,
+  "dateAndTime": "2016-05-09T01:54:23.000Z"
+}, {
+  "date": "5/9/16",
+  "time": "04:00:26",
+  "feeding": 51,
+  "pee": 0.5,
+  "poop": 0.6,
+  "dateAndTime": "2016-05-09T04:00:26.000Z"
+}, {
+  "date": "5/9/16",
+  "time": "06:29:00",
+  "feeding": 55,
+  "pee": 0.5,
+  "poop": 0.8,
+  "dateAndTime": "2016-05-09T06:29:00.000Z"
+}, {
+  "date": "5/9/16",
+  "time": "10:12:49",
+  "feeding": 83,
+  "pee": 0.9,
+  "poop": 1,
+  "dateAndTime": "2016-05-09T10:12:49.000Z"
+}, {
+  "date": "5/9/16",
+  "time": "13:57:26",
+  "feeding": 53,
+  "pee": 0.9,
+  "poop": 0.3,
+  "dateAndTime": "2016-05-09T13:57:26.000Z"
+}, {
+  "date": "5/9/16",
+  "time": "18:11:29",
+  "feeding": 69,
+  "pee": 0.3,
+  "poop": 0.6,
+  "dateAndTime": "2016-05-09T18:11:29.000Z"
+}, {
+  "date": "5/9/16",
+  "time": "21:52:14",
+  "feeding": 89,
+  "pee": 0.8,
+  "poop": 0.3,
+  "dateAndTime": "2016-05-09T21:52:14.000Z"
+}, {
+  "date": "5/10/16",
+  "time": "00:30:15",
+  "feeding": 60,
+  "pee": 0.6,
+  "poop": 0.6,
+  "dateAndTime": "2016-05-10T00:30:15.000Z"
+}, {
+  "date": "5/10/16",
+  "time": "04:17:44",
+  "feeding": 68,
+  "pee": 0.2,
+  "poop": 0.9,
+  "dateAndTime": "2016-05-10T04:17:44.000Z"
+}, {
+  "date": "5/10/16",
+  "time": "06:53:00",
+  "feeding": 72,
+  "pee": 0.9,
+  "poop": 0.8,
+  "dateAndTime": "2016-05-10T06:53:00.000Z"
+}, {
+  "date": "5/10/16",
+  "time": "09:11:40",
+  "feeding": 57,
+  "pee": 0.5,
+  "poop": 0.6,
+  "dateAndTime": "2016-05-10T09:11:40.000Z"
+}, {
+  "date": "5/10/16",
+  "time": "13:19:24",
+  "feeding": 57,
+  "pee": 0.4,
+  "poop": 0.1,
+  "dateAndTime": "2016-05-10T13:19:24.000Z"
+}, {
+  "date": "5/10/16",
+  "time": "16:01:32",
+  "feeding": 54,
+  "pee": 0.1,
+  "poop": 0.7,
+  "dateAndTime": "2016-05-10T16:01:32.000Z"
+}, {
+  "date": "5/10/16",
+  "time": "19:28:18",
+  "feeding": 88,
+  "pee": 0.3,
+  "poop": 0.2,
+  "dateAndTime": "2016-05-10T19:28:18.000Z"
+}, {
+  "date": "5/11/16",
+  "time": "02:28:30",
+  "feeding": 63,
+  "pee": 0.6,
+  "poop": 0.6,
+  "dateAndTime": "2016-05-11T02:28:30.000Z"
+}, {
+  "date": "5/11/16",
+  "time": "04:16:12",
+  "feeding": 55,
+  "pee": 0.3,
+  "poop": 0.2,
+  "dateAndTime": "2016-05-11T04:16:12.000Z"
+}, {
+  "date": "5/11/16",
+  "time": "08:09:32",
+  "feeding": 81,
+  "pee": 1,
+  "poop": 0.3,
+  "dateAndTime": "2016-05-11T08:09:32.000Z"
+}, {
+  "date": "5/11/16",
+  "time": "09:08:47",
+  "feeding": 66,
+  "pee": 1,
+  "poop": 0.8,
+  "dateAndTime": "2016-05-11T09:08:47.000Z"
+}, {
+  "date": "5/11/16",
+  "time": "12:35:58",
+  "feeding": 78,
+  "pee": 0.9,
+  "poop": 0.7,
+  "dateAndTime": "2016-05-11T12:35:58.000Z"
+}, {
+  "date": "5/11/16",
+  "time": "17:19:11",
+  "feeding": 74,
+  "pee": 0.3,
+  "poop": 0.6,
+  "dateAndTime": "2016-05-11T17:19:11.000Z"
+}, {
+  "date": "5/11/16",
+  "time": "22:10:18",
+  "feeding": 87,
+  "pee": 0.9,
+  "poop": 0.3,
+  "dateAndTime": "2016-05-11T22:10:18.000Z"
+}, {
+  "date": "5/12/16",
+  "time": "00:43:01",
+  "feeding": 58,
+  "pee": 0.6,
+  "poop": 0.3,
+  "dateAndTime": "2016-05-12T00:43:01.000Z"
+}, {
+  "date": "5/12/16",
+  "time": "05:01:25",
+  "feeding": 84,
+  "pee": 0.8,
+  "poop": 0.6,
+  "dateAndTime": "2016-05-12T05:01:25.000Z"
+}, {
+  "date": "5/12/16",
+  "time": "07:38:17",
+  "feeding": 54,
+  "pee": 0.7,
+  "poop": 0.4,
+  "dateAndTime": "2016-05-12T07:38:17.000Z"
+}, {
+  "date": "5/12/16",
+  "time": "09:21:25",
+  "feeding": 62,
+  "pee": 0.6,
+  "poop": 0.8,
+  "dateAndTime": "2016-05-12T09:21:25.000Z"
+}, {
+  "date": "5/12/16",
+  "time": "12:12:22",
+  "feeding": 78,
+  "pee": 0.1,
+  "poop": 0.8,
+  "dateAndTime": "2016-05-12T12:12:22.000Z"
+}, {
+  "date": "5/12/16",
+  "time": "15:58:42",
+  "feeding": 63,
+  "pee": 0.8,
+  "poop": 0.3,
+  "dateAndTime": "2016-05-12T15:58:42.000Z"
+}, {
+  "date": "5/12/16",
+  "time": "22:41:31",
+  "feeding": 80,
+  "pee": 0.1,
+  "poop": 0.5,
+  "dateAndTime": "2016-05-12T22:41:31.000Z"
+}, {
+  "date": "5/13/16",
+  "time": "01:02:02",
+  "feeding": 75,
+  "pee": 0.9,
+  "poop": 0.3,
+  "dateAndTime": "2016-05-13T01:02:02.000Z"
+}, {
+  "date": "5/13/16",
+  "time": "04:16:26",
+  "feeding": 76,
+  "pee": 1,
+  "poop": 0.8,
+  "dateAndTime": "2016-05-13T04:16:26.000Z"
+}, {
+  "date": "5/13/16",
+  "time": "08:34:31",
+  "feeding": 63,
+  "pee": 0.3,
+  "poop": 0.8,
+  "dateAndTime": "2016-05-13T08:34:31.000Z"
+}, {
+  "date": "5/13/16",
+  "time": "10:35:43",
+  "feeding": 74,
+  "pee": 0.4,
+  "poop": 0.4,
+  "dateAndTime": "2016-05-13T10:35:43.000Z"
+}, {
+  "date": "5/13/16",
+  "time": "12:17:55",
+  "feeding": 58,
+  "pee": 0.7,
+  "poop": 0.7,
+  "dateAndTime": "2016-05-13T12:17:55.000Z"
+}, {
+  "date": "5/13/16",
+  "time": "18:58:19",
+  "feeding": 82,
+  "pee": 0.6,
+  "poop": 0.9,
+  "dateAndTime": "2016-05-13T18:58:19.000Z"
+}, {
+  "date": "5/13/16",
+  "time": "19:36:52",
+  "feeding": 71,
+  "pee": 0.6,
+  "poop": 0.5,
+  "dateAndTime": "2016-05-13T19:36:52.000Z"
+}, {
+  "date": "5/14/16",
+  "time": "00:39:13",
+  "feeding": 57,
+  "pee": 0.5,
+  "poop": 0.3,
+  "dateAndTime": "2016-05-14T00:39:13.000Z"
+}, {
+  "date": "5/14/16",
+  "time": "03:22:32",
+  "feeding": 71,
+  "pee": 0.9,
+  "poop": 0.9,
+  "dateAndTime": "2016-05-14T03:22:32.000Z"
+}, {
+  "date": "5/14/16",
+  "time": "07:13:37",
+  "feeding": 67,
+  "pee": 0.5,
+  "poop": 0.5,
+  "dateAndTime": "2016-05-14T07:13:37.000Z"
+}, {
+  "date": "5/14/16",
+  "time": "11:59:46",
+  "feeding": 56,
+  "pee": 0.4,
+  "poop": 0.6,
+  "dateAndTime": "2016-05-14T11:59:46.000Z"
+}, {
+  "date": "5/14/16",
+  "time": "14:14:05",
+  "feeding": 62,
+  "pee": 0.7,
+  "poop": 0,
+  "dateAndTime": "2016-05-14T14:14:05.000Z"
+}, {
+  "date": "5/14/16",
+  "time": "17:47:00",
+  "feeding": 70,
+  "pee": 0.9,
+  "poop": 0.9,
+  "dateAndTime": "2016-05-14T17:47:00.000Z"
+}, {
+  "date": "5/14/16",
+  "time": "19:10:21",
+  "feeding": 85,
+  "pee": 0.6,
+  "poop": 0.5,
+  "dateAndTime": "2016-05-14T19:10:21.000Z"
+}, {
+  "date": "5/15/16",
+  "time": "00:37:20",
+  "feeding": 87,
+  "pee": 0.3,
+  "poop": 0.1,
+  "dateAndTime": "2016-05-15T00:37:20.000Z"
+}, {
+  "date": "5/15/16",
+  "time": "04:32:26",
+  "feeding": 63,
+  "pee": 0.1,
+  "poop": 0.5,
+  "dateAndTime": "2016-05-15T04:32:26.000Z"
+}, {
+  "date": "5/15/16",
+  "time": "06:08:19",
+  "feeding": 72,
+  "pee": 0.1,
+  "poop": 0.1,
+  "dateAndTime": "2016-05-15T06:08:19.000Z"
+}, {
+  "date": "5/15/16",
+  "time": "11:01:19",
+  "feeding": 81,
+  "pee": 1,
+  "poop": 0.7,
+  "dateAndTime": "2016-05-15T11:01:19.000Z"
+}, {
+  "date": "5/15/16",
+  "time": "12:39:49",
+  "feeding": 73,
+  "pee": 1,
+  "poop": 0.6,
+  "dateAndTime": "2016-05-15T12:39:49.000Z"
+}, {
+  "date": "5/15/16",
+  "time": "15:51:12",
+  "feeding": 54,
+  "pee": 0.5,
+  "poop": 0.2,
+  "dateAndTime": "2016-05-15T15:51:12.000Z"
+}, {
+  "date": "5/15/16",
+  "time": "22:43:23",
+  "feeding": 82,
+  "pee": 0.7,
+  "poop": 0.5,
+  "dateAndTime": "2016-05-15T22:43:23.000Z"
+}, {
+  "date": "5/16/16",
+  "time": "00:37:04",
+  "feeding": 59,
+  "pee": 0.4,
+  "poop": 0.4,
+  "dateAndTime": "2016-05-16T00:37:04.000Z"
+}, {
+  "date": "5/16/16",
+  "time": "05:56:41",
+  "feeding": 57,
+  "pee": 0,
+  "poop": 0.6,
+  "dateAndTime": "2016-05-16T05:56:41.000Z"
+}, {
+  "date": "5/16/16",
+  "time": "06:38:54",
+  "feeding": 71,
+  "pee": 0.1,
+  "poop": 0,
+  "dateAndTime": "2016-05-16T06:38:54.000Z"
+}, {
+  "date": "5/16/16",
+  "time": "11:20:39",
+  "feeding": 66,
+  "pee": 0.7,
+  "poop": 0.5,
+  "dateAndTime": "2016-05-16T11:20:39.000Z"
+}, {
+  "date": "5/16/16",
+  "time": "14:01:20",
+  "feeding": 80,
+  "pee": 0.9,
+  "poop": 0.2,
+  "dateAndTime": "2016-05-16T14:01:20.000Z"
+}, {
+  "date": "5/16/16",
+  "time": "17:59:26",
+  "feeding": 78,
+  "pee": 0.7,
+  "poop": 0.7,
+  "dateAndTime": "2016-05-16T17:59:26.000Z"
+}, {
+  "date": "5/16/16",
+  "time": "19:40:42",
+  "feeding": 57,
+  "pee": 0.5,
+  "poop": 0.9,
+  "dateAndTime": "2016-05-16T19:40:42.000Z"
+}, {
+  "date": "5/17/16",
+  "time": "01:18:08",
+  "feeding": 66,
+  "pee": 0.9,
+  "poop": 0.5,
+  "dateAndTime": "2016-05-17T01:18:08.000Z"
+}, {
+  "date": "5/17/16",
+  "time": "05:15:28",
+  "feeding": 87,
+  "pee": 0.5,
+  "poop": 0,
+  "dateAndTime": "2016-05-17T05:15:28.000Z"
+}, {
+  "date": "5/17/16",
+  "time": "07:36:09",
+  "feeding": 69,
+  "pee": 0.3,
+  "poop": 0.7,
+  "dateAndTime": "2016-05-17T07:36:09.000Z"
+}, {
+  "date": "5/17/16",
+  "time": "10:38:56",
+  "feeding": 90,
+  "pee": 0.8,
+  "poop": 0.8,
+  "dateAndTime": "2016-05-17T10:38:56.000Z"
+}, {
+  "date": "5/17/16",
+  "time": "14:42:09",
+  "feeding": 62,
+  "pee": 0.7,
+  "poop": 1,
+  "dateAndTime": "2016-05-17T14:42:09.000Z"
+}, {
+  "date": "5/17/16",
+  "time": "18:24:10",
+  "feeding": 55,
+  "pee": 0.2,
+  "poop": 0.5,
+  "dateAndTime": "2016-05-17T18:24:10.000Z"
+}, {
+  "date": "5/17/16",
+  "time": "23:31:27",
+  "feeding": 80,
+  "pee": 0.6,
+  "poop": 0.2,
+  "dateAndTime": "2016-05-17T23:31:27.000Z"
+}, {
+  "date": "5/18/16",
+  "time": "00:50:46",
+  "feeding": 87,
+  "pee": 0.8,
+  "poop": 0.8,
+  "dateAndTime": "2016-05-18T00:50:46.000Z"
+}, {
+  "date": "5/18/16",
+  "time": "03:09:56",
+  "feeding": 88,
+  "pee": 0.6,
+  "poop": 0,
+  "dateAndTime": "2016-05-18T03:09:56.000Z"
+}, {
+  "date": "5/18/16",
+  "time": "07:44:39",
+  "feeding": 81,
+  "pee": 0.5,
+  "poop": 0.1,
+  "dateAndTime": "2016-05-18T07:44:39.000Z"
+}, {
+  "date": "5/18/16",
+  "time": "09:40:11",
+  "feeding": 58,
+  "pee": 0.1,
+  "poop": 0.3,
+  "dateAndTime": "2016-05-18T09:40:11.000Z"
+}, {
+  "date": "5/18/16",
+  "time": "13:27:02",
+  "feeding": 84,
+  "pee": 0.9,
+  "poop": 0.9,
+  "dateAndTime": "2016-05-18T13:27:02.000Z"
+}, {
+  "date": "5/18/16",
+  "time": "15:05:32",
+  "feeding": 55,
+  "pee": 0.6,
+  "poop": 0.9,
+  "dateAndTime": "2016-05-18T15:05:32.000Z"
+}, {
+  "date": "5/18/16",
+  "time": "20:31:50",
+  "feeding": 66,
+  "pee": 0.2,
+  "poop": 0.8,
+  "dateAndTime": "2016-05-18T20:31:50.000Z"
+}, {
+  "date": "5/19/16",
+  "time": "02:09:04",
+  "feeding": 87,
+  "pee": 0.2,
+  "poop": 0.8,
+  "dateAndTime": "2016-05-19T02:09:04.000Z"
+}, {
+  "date": "5/19/16",
+  "time": "03:29:37",
+  "feeding": 75,
+  "pee": 0.3,
+  "poop": 0.8,
+  "dateAndTime": "2016-05-19T03:29:37.000Z"
+}, {
+  "date": "5/19/16",
+  "time": "06:48:14",
+  "feeding": 64,
+  "pee": 0.9,
+  "poop": 0.3,
+  "dateAndTime": "2016-05-19T06:48:14.000Z"
+}, {
+  "date": "5/19/16",
+  "time": "11:11:13",
+  "feeding": 68,
+  "pee": 0.3,
+  "poop": 1,
+  "dateAndTime": "2016-05-19T11:11:13.000Z"
+}, {
+  "date": "5/19/16",
   "time": "13:03:10",
-  "dateAndTime": "6/17/16 13:03",
-  "feeding": 71,
-  "pee": 0.2,
-  "poop": 0.7
+  "feeding": 51,
+  "pee": 0.3,
+  "poop": 0.4,
+  "dateAndTime": "2016-05-19T13:03:10.000Z"
 }, {
-  "date": "6/17/16",
-  "time": "17:56:28",
-  "dateAndTime": "6/17/16 17:56",
-  "feeding": 73,
-  "pee": 0.6,
-  "poop": 1
-}, {
-  "date": "6/17/16",
-  "time": "19:15:55",
-  "dateAndTime": "6/17/16 19:15",
-  "feeding": 72,
-  "pee": 0,
-  "poop": 0.9
-}, {
-  "date": "6/18/16",
-  "time": "1:59:25",
-  "dateAndTime": "6/18/16 1:59",
-  "feeding": 58,
-  "pee": 0,
-  "poop": 0.1
-}, {
-  "date": "6/18/16",
-  "time": "4:38:53",
-  "dateAndTime": "6/18/16 4:38",
-  "feeding": 58,
-  "pee": 1,
-  "poop": 0.4
-}, {
-  "date": "6/18/16",
-  "time": "7:53:33",
-  "dateAndTime": "6/18/16 7:53",
-  "feeding": 74,
-  "pee": 0.2,
-  "poop": 0.7
-}, {
-  "date": "6/18/16",
-  "time": "11:54:04",
-  "dateAndTime": "6/18/16 11:54",
-  "feeding": 56,
-  "pee": 0.1,
-  "poop": 0.7
-}, {
-  "date": "6/18/16",
-  "time": "14:39:18",
-  "dateAndTime": "6/18/16 14:39",
-  "feeding": 88,
-  "pee": 0.6,
-  "poop": 0.1
-}, {
-  "date": "6/18/16",
-  "time": "16:43:28",
-  "dateAndTime": "6/18/16 16:43",
-  "feeding": 74,
-  "pee": 0.1,
-  "poop": 0.9
-}, {
-  "date": "6/18/16",
-  "time": "22:07:43",
-  "dateAndTime": "6/18/16 22:07",
-  "feeding": 82,
+  "date": "5/19/16",
+  "time": "15:27:00",
+  "feeding": 79,
   "pee": 0.5,
-  "poop": 0.5
+  "poop": 0.3,
+  "dateAndTime": "2016-05-19T15:27:00.000Z"
 }, {
-  "date": "6/19/16",
-  "time": "2:04:21",
-  "dateAndTime": "6/19/16 2:04",
-  "feeding": 64,
-  "pee": 0.1,
-  "poop": 0.6
-}, {
-  "date": "6/19/16",
-  "time": "4:18:50",
-  "dateAndTime": "6/19/16 4:18",
-  "feeding": 83,
-  "pee": 0.4,
-  "poop": 0.8
-}, {
-  "date": "6/19/16",
-  "time": "6:27:20",
-  "dateAndTime": "6/19/16 6:27",
-  "feeding": 54,
-  "pee": 0.5,
-  "poop": 0.7
-}, {
-  "date": "6/19/16",
-  "time": "9:38:06",
-  "dateAndTime": "6/19/16 9:38",
-  "feeding": 71,
-  "pee": 0.9,
-  "poop": 0.2
-}, {
-  "date": "6/19/16",
-  "time": "12:31:22",
-  "dateAndTime": "6/19/16 12:31",
-  "feeding": 76,
-  "pee": 1,
-  "poop": 0.5
-}, {
-  "date": "6/19/16",
-  "time": "15:58:16",
-  "dateAndTime": "6/19/16 15:58",
+  "date": "5/19/16",
+  "time": "21:42:42",
   "feeding": 59,
-  "pee": 1,
-  "poop": 0.6
-}, {
-  "date": "6/19/16",
-  "time": "23:30:43",
-  "dateAndTime": "6/19/16 23:30",
-  "feeding": 78,
-  "pee": 0.5,
-  "poop": 0.5
-}, {
-  "date": "6/20/16",
-  "time": "2:16:18",
-  "dateAndTime": "6/20/16 2:16",
-  "feeding": 85,
-  "pee": 0.8,
-  "poop": 0.7
-}, {
-  "date": "6/20/16",
-  "time": "3:43:10",
-  "dateAndTime": "6/20/16 3:43",
-  "feeding": 84,
-  "pee": 1,
-  "poop": 0.7
-}, {
-  "date": "6/20/16",
-  "time": "8:12:42",
-  "dateAndTime": "6/20/16 8:12",
-  "feeding": 54,
-  "pee": 0,
-  "poop": 0.6
-}, {
-  "date": "6/20/16",
-  "time": "11:08:38",
-  "dateAndTime": "6/20/16 11:08",
-  "feeding": 71,
-  "pee": 0.9,
-  "poop": 1
-}, {
-  "date": "6/20/16",
-  "time": "13:54:43",
-  "dateAndTime": "6/20/16 13:54",
-  "feeding": 82,
-  "pee": 0.9,
-  "poop": 0.3
-}, {
-  "date": "6/20/16",
-  "time": "17:07:09",
-  "dateAndTime": "6/20/16 17:07",
-  "feeding": 84,
-  "pee": 0.7,
-  "poop": 0.5
-}, {
-  "date": "6/20/16",
-  "time": "19:53:12",
-  "dateAndTime": "6/20/16 19:53",
-  "feeding": 66,
-  "pee": 0.8,
-  "poop": 0.4
-}, {
-  "date": "6/21/16",
-  "time": "0:43:32",
-  "dateAndTime": "6/21/16 0:43",
-  "feeding": 57,
   "pee": 0.4,
-  "poop": 0.9
+  "poop": 0.8,
+  "dateAndTime": "2016-05-19T21:42:42.000Z"
 }, {
-  "date": "6/21/16",
-  "time": "3:00:17",
-  "dateAndTime": "6/21/16 3:00",
-  "feeding": 90,
-  "pee": 0.4,
-  "poop": 0.3
-}, {
-  "date": "6/21/16",
-  "time": "7:30:52",
-  "dateAndTime": "6/21/16 7:30",
-  "feeding": 70,
-  "pee": 0.2,
-  "poop": 0.6
-}, {
-  "date": "6/21/16",
-  "time": "10:11:52",
-  "dateAndTime": "6/21/16 10:11",
-  "feeding": 81,
-  "pee": 0.4,
-  "poop": 0.2
-}, {
-  "date": "6/21/16",
-  "time": "14:26:10",
-  "dateAndTime": "6/21/16 14:26",
-  "feeding": 67,
-  "pee": 0.4,
-  "poop": 0.6
-}, {
-  "date": "6/21/16",
-  "time": "17:25:19",
-  "dateAndTime": "6/21/16 17:25",
+  "date": "5/20/16",
+  "time": "02:33:03",
   "feeding": 55,
-  "pee": 0.7,
-  "poop": 0.3
-}, {
-  "date": "6/21/16",
-  "time": "19:31:45",
-  "dateAndTime": "6/21/16 19:31",
-  "feeding": 60,
   "pee": 0.5,
-  "poop": 0.7
+  "poop": 0.8,
+  "dateAndTime": "2016-05-20T02:33:03.000Z"
 }, {
-  "date": "6/22/16",
-  "time": "0:29:32",
-  "dateAndTime": "6/22/16 0:29",
-  "feeding": 65,
-  "pee": 0.9,
-  "poop": 0.9
-}, {
-  "date": "6/22/16",
-  "time": "3:44:56",
-  "dateAndTime": "6/22/16 3:44",
-  "feeding": 57,
-  "pee": 0.7,
-  "poop": 0.1
-}, {
-  "date": "6/22/16",
-  "time": "6:07:36",
-  "dateAndTime": "6/22/16 6:07",
-  "feeding": 55,
-  "pee": 0.6,
-  "poop": 0.2
-}, {
-  "date": "6/22/16",
-  "time": "10:58:02",
-  "dateAndTime": "6/22/16 10:58",
-  "feeding": 53,
-  "pee": 0.6,
-  "poop": 0.8
-}, {
-  "date": "6/22/16",
-  "time": "13:20:57",
-  "dateAndTime": "6/22/16 13:20",
-  "feeding": 57,
-  "pee": 0.5,
-  "poop": 0.6
-}, {
-  "date": "6/22/16",
-  "time": "16:24:10",
-  "dateAndTime": "6/22/16 16:24",
-  "feeding": 68,
-  "pee": 0.3,
-  "poop": 0.2
-}, {
-  "date": "6/22/16",
-  "time": "22:37:10",
-  "dateAndTime": "6/22/16 22:37",
-  "feeding": 67,
-  "pee": 0.5,
-  "poop": 1
-}, {
-  "date": "6/23/16",
-  "time": "1:50:25",
-  "dateAndTime": "6/23/16 1:50",
-  "feeding": 76,
-  "pee": 0.1,
-  "poop": 0.6
-}, {
-  "date": "6/23/16",
-  "time": "4:14:41",
-  "dateAndTime": "6/23/16 4:14",
-  "feeding": 88,
-  "pee": 0.4,
-  "poop": 0.5
-}, {
-  "date": "6/23/16",
-  "time": "7:17:48",
-  "dateAndTime": "6/23/16 7:17",
-  "feeding": 51,
-  "pee": 0.1,
-  "poop": 0.7
-}, {
-  "date": "6/23/16",
-  "time": "10:04:06",
-  "dateAndTime": "6/23/16 10:04",
-  "feeding": 86,
-  "pee": 0.7,
-  "poop": 0
-}, {
-  "date": "6/23/16",
-  "time": "14:57:49",
-  "dateAndTime": "6/23/16 14:57",
-  "feeding": 56,
-  "pee": 0.4,
-  "poop": 0.8
-}, {
-  "date": "6/23/16",
-  "time": "18:08:48",
-  "dateAndTime": "6/23/16 18:08",
-  "feeding": 64,
-  "pee": 0.7,
-  "poop": 0.8
-}, {
-  "date": "6/23/16",
-  "time": "23:32:14",
-  "dateAndTime": "6/23/16 23:32",
-  "feeding": 85,
-  "pee": 0.2,
-  "poop": 0.3
-}, {
-  "date": "6/24/16",
-  "time": "0:57:29",
-  "dateAndTime": "6/24/16 0:57",
-  "feeding": 57,
-  "pee": 0.7,
-  "poop": 0
-}, {
-  "date": "6/24/16",
-  "time": "4:42:16",
-  "dateAndTime": "6/24/16 4:42",
-  "feeding": 90,
-  "pee": 0.4,
-  "poop": 0.8
-}, {
-  "date": "6/24/16",
-  "time": "8:03:30",
-  "dateAndTime": "6/24/16 8:03",
-  "feeding": 81,
-  "pee": 0.7,
-  "poop": 0.7
-}, {
-  "date": "6/24/16",
-  "time": "10:07:15",
-  "dateAndTime": "6/24/16 10:07",
-  "feeding": 73,
-  "pee": 0.1,
-  "poop": 0.4
-}, {
-  "date": "6/24/16",
-  "time": "13:15:01",
-  "dateAndTime": "6/24/16 13:15",
-  "feeding": 51,
-  "pee": 0.4,
-  "poop": 0.9
-}, {
-  "date": "6/24/16",
-  "time": "16:07:58",
-  "dateAndTime": "6/24/16 16:07",
-  "feeding": 68,
-  "pee": 0.5,
-  "poop": 0.6
-}, {
-  "date": "6/24/16",
-  "time": "19:51:31",
-  "dateAndTime": "6/24/16 19:51",
-  "feeding": 50,
-  "pee": 0.6,
-  "poop": 0.1
-}, {
-  "date": "6/25/16",
-  "time": "0:32:48",
-  "dateAndTime": "6/25/16 0:32",
-  "feeding": 62,
-  "pee": 0.9,
-  "poop": 0.9
-}, {
-  "date": "6/25/16",
-  "time": "3:10:12",
-  "dateAndTime": "6/25/16 3:10",
-  "feeding": 69,
-  "pee": 0.3,
-  "poop": 0.1
-}, {
-  "date": "6/25/16",
-  "time": "8:17:49",
-  "dateAndTime": "6/25/16 8:17",
-  "feeding": 51,
-  "pee": 0.2,
-  "poop": 0
-}, {
-  "date": "6/25/16",
-  "time": "9:58:01",
-  "dateAndTime": "6/25/16 9:58",
-  "feeding": 85,
-  "pee": 0.2,
-  "poop": 0.5
-}, {
-  "date": "6/25/16",
-  "time": "14:36:46",
-  "dateAndTime": "6/25/16 14:36",
-  "feeding": 65,
-  "pee": 0.6,
-  "poop": 0.3
-}, {
-  "date": "6/25/16",
-  "time": "15:10:14",
-  "dateAndTime": "6/25/16 15:10",
-  "feeding": 59,
-  "pee": 0.3,
-  "poop": 0.9
-}, {
-  "date": "6/25/16",
-  "time": "20:11:45",
-  "dateAndTime": "6/25/16 20:11",
+  "date": "5/20/16",
+  "time": "04:07:41",
   "feeding": 89,
-  "pee": 0,
-  "poop": 0.2
+  "pee": 0.2,
+  "poop": 0.9,
+  "dateAndTime": "2016-05-20T04:07:41.000Z"
 }, {
-  "date": "6/26/16",
-  "time": "1:52:34",
-  "dateAndTime": "6/26/16 1:52",
-  "feeding": 56,
-  "pee": 0.4,
-  "poop": 0.6
-}, {
-  "date": "6/26/16",
-  "time": "5:37:32",
-  "dateAndTime": "6/26/16 5:37",
-  "feeding": 77,
-  "pee": 0.7,
-  "poop": 0.8
-}, {
-  "date": "6/26/16",
-  "time": "6:32:57",
-  "dateAndTime": "6/26/16 6:32",
-  "feeding": 58,
+  "date": "5/20/16",
+  "time": "07:06:54",
+  "feeding": 79,
   "pee": 0.1,
-  "poop": 0.7
+  "poop": 0.8,
+  "dateAndTime": "2016-05-20T07:06:54.000Z"
 }, {
-  "date": "6/26/16",
-  "time": "11:14:39",
-  "dateAndTime": "6/26/16 11:14",
-  "feeding": 78,
-  "pee": 0.8,
-  "poop": 1
+  "date": "5/20/16",
+  "time": "10:28:03",
+  "feeding": 59,
+  "pee": 0.9,
+  "poop": 0.9,
+  "dateAndTime": "2016-05-20T10:28:03.000Z"
 }, {
-  "date": "6/25/16",
-  "time": "14:11:49",
-  "dateAndTime": "6/25/16 14:11",
+  "date": "5/20/16",
+  "time": "12:24:02",
+  "feeding": 69,
+  "pee": 0.5,
+  "poop": 0.7,
+  "dateAndTime": "2016-05-20T12:24:02.000Z"
+}, {
+  "date": "5/20/16",
+  "time": "17:07:35",
   "feeding": 54,
-  "pee": 0.7,
-  "poop": 0.4
+  "pee": 0.8,
+  "poop": 0.4,
+  "dateAndTime": "2016-05-20T17:07:35.000Z"
 }, {
-  "date": "6/25/16",
-  "time": "18:54:15",
-  "dateAndTime": "6/25/16 18:54",
+  "date": "5/20/16",
+  "time": "22:16:22",
+  "feeding": 78,
+  "pee": 0.7,
+  "poop": 0,
+  "dateAndTime": "2016-05-20T22:16:22.000Z"
+}, {
+  "date": "5/21/16",
+  "time": "02:30:34",
+  "feeding": 85,
+  "pee": 0.4,
+  "poop": 0.1,
+  "dateAndTime": "2016-05-21T02:30:34.000Z"
+}, {
+  "date": "5/21/16",
+  "time": "04:16:25",
+  "feeding": 83,
+  "pee": 0.3,
+  "poop": 0.3,
+  "dateAndTime": "2016-05-21T04:16:25.000Z"
+}, {
+  "date": "5/21/16",
+  "time": "06:10:58",
+  "feeding": 71,
+  "pee": 0.8,
+  "poop": 0.3,
+  "dateAndTime": "2016-05-21T06:10:58.000Z"
+}, {
+  "date": "5/21/16",
+  "time": "11:42:30",
+  "feeding": 86,
+  "pee": 1,
+  "poop": 0.4,
+  "dateAndTime": "2016-05-21T11:42:30.000Z"
+}, {
+  "date": "5/21/16",
+  "time": "12:14:42",
+  "feeding": 53,
+  "pee": 0.9,
+  "poop": 0.1,
+  "dateAndTime": "2016-05-21T12:14:42.000Z"
+}, {
+  "date": "5/21/16",
+  "time": "18:48:07",
+  "feeding": 82,
+  "pee": 0.2,
+  "poop": 0.2,
+  "dateAndTime": "2016-05-21T18:48:07.000Z"
+}, {
+  "date": "5/21/16",
+  "time": "19:27:25",
+  "feeding": 52,
+  "pee": 1,
+  "poop": 0.5,
+  "dateAndTime": "2016-05-21T19:27:25.000Z"
+}, {
+  "date": "5/22/16",
+  "time": "01:30:46",
+  "feeding": 87,
+  "pee": 0.2,
+  "poop": 0.8,
+  "dateAndTime": "2016-05-22T01:30:46.000Z"
+}, {
+  "date": "5/22/16",
+  "time": "05:49:20",
+  "feeding": 85,
+  "pee": 0.8,
+  "poop": 0.9,
+  "dateAndTime": "2016-05-22T05:49:20.000Z"
+}, {
+  "date": "5/22/16",
+  "time": "07:19:02",
+  "feeding": 89,
+  "pee": 0.6,
+  "poop": 1,
+  "dateAndTime": "2016-05-22T07:19:02.000Z"
+}, {
+  "date": "5/22/16",
+  "time": "11:21:24",
+  "feeding": 78,
+  "pee": 0.4,
+  "poop": 0.1,
+  "dateAndTime": "2016-05-22T11:21:24.000Z"
+}, {
+  "date": "5/22/16",
+  "time": "14:06:01",
+  "feeding": 55,
+  "pee": 0.8,
+  "poop": 0.4,
+  "dateAndTime": "2016-05-22T14:06:01.000Z"
+}, {
+  "date": "5/22/16",
+  "time": "18:35:24",
+  "feeding": 61,
+  "pee": 0.3,
+  "poop": 0.7,
+  "dateAndTime": "2016-05-22T18:35:24.000Z"
+}, {
+  "date": "5/22/16",
+  "time": "23:58:25",
+  "feeding": 79,
+  "pee": 0.1,
+  "poop": 0.8,
+  "dateAndTime": "2016-05-22T23:58:25.000Z"
+}, {
+  "date": "5/23/16",
+  "time": "00:45:45",
+  "feeding": 77,
+  "pee": 0,
+  "poop": 0.5,
+  "dateAndTime": "2016-05-23T00:45:45.000Z"
+}, {
+  "date": "5/23/16",
+  "time": "05:54:27",
+  "feeding": 59,
+  "pee": 0.4,
+  "poop": 0.1,
+  "dateAndTime": "2016-05-23T05:54:27.000Z"
+}, {
+  "date": "5/23/16",
+  "time": "07:09:26",
+  "feeding": 81,
+  "pee": 0.2,
+  "poop": 0.2,
+  "dateAndTime": "2016-05-23T07:09:26.000Z"
+}, {
+  "date": "5/23/16",
+  "time": "11:38:55",
+  "feeding": 52,
+  "pee": 0,
+  "poop": 0.4,
+  "dateAndTime": "2016-05-23T11:38:55.000Z"
+}, {
+  "date": "5/23/16",
+  "time": "14:58:36",
+  "feeding": 67,
+  "pee": 0.8,
+  "poop": 0.9,
+  "dateAndTime": "2016-05-23T14:58:36.000Z"
+}, {
+  "date": "5/23/16",
+  "time": "18:45:21",
+  "feeding": 56,
+  "pee": 0.2,
+  "poop": 0.6,
+  "dateAndTime": "2016-05-23T18:45:21.000Z"
+}, {
+  "date": "5/23/16",
+  "time": "22:40:15",
+  "feeding": 63,
+  "pee": 0.2,
+  "poop": 0.4,
+  "dateAndTime": "2016-05-23T22:40:15.000Z"
+}, {
+  "date": "5/24/16",
+  "time": "02:11:10",
+  "feeding": 64,
+  "pee": 0.1,
+  "poop": 0.1,
+  "dateAndTime": "2016-05-24T02:11:10.000Z"
+}, {
+  "date": "5/24/16",
+  "time": "05:21:47",
+  "feeding": 71,
+  "pee": 0.6,
+  "poop": 1,
+  "dateAndTime": "2016-05-24T05:21:47.000Z"
+}, {
+  "date": "5/24/16",
+  "time": "08:43:44",
+  "feeding": 63,
+  "pee": 0.5,
+  "poop": 0.1,
+  "dateAndTime": "2016-05-24T08:43:44.000Z"
+}, {
+  "date": "5/24/16",
+  "time": "10:09:00",
+  "feeding": 72,
+  "pee": 0.6,
+  "poop": 1,
+  "dateAndTime": "2016-05-24T10:09:00.000Z"
+}, {
+  "date": "5/24/16",
+  "time": "12:37:14",
+  "feeding": 71,
+  "pee": 0.6,
+  "poop": 0.3,
+  "dateAndTime": "2016-05-24T12:37:14.000Z"
+}, {
+  "date": "5/24/16",
+  "time": "15:14:58",
+  "feeding": 60,
+  "pee": 0.3,
+  "poop": 0.8,
+  "dateAndTime": "2016-05-24T15:14:58.000Z"
+}, {
+  "date": "5/24/16",
+  "time": "23:20:21",
+  "feeding": 82,
+  "pee": 0.4,
+  "poop": 0.3,
+  "dateAndTime": "2016-05-24T23:20:21.000Z"
+}, {
+  "date": "5/25/16",
+  "time": "01:33:24",
+  "feeding": 66,
+  "pee": 0.2,
+  "poop": 0.4,
+  "dateAndTime": "2016-05-25T01:33:24.000Z"
+}, {
+  "date": "5/25/16",
+  "time": "03:30:11",
+  "feeding": 51,
+  "pee": 0.1,
+  "poop": 0.5,
+  "dateAndTime": "2016-05-25T03:30:11.000Z"
+}, {
+  "date": "5/25/16",
+  "time": "08:55:55",
+  "feeding": 75,
+  "pee": 0.2,
+  "poop": 0.3,
+  "dateAndTime": "2016-05-25T08:55:55.000Z"
+}, {
+  "date": "5/25/16",
+  "time": "09:49:05",
+  "feeding": 84,
+  "pee": 0.7,
+  "poop": 0.2,
+  "dateAndTime": "2016-05-25T09:49:05.000Z"
+}, {
+  "date": "5/25/16",
+  "time": "14:33:22",
+  "feeding": 86,
+  "pee": 0.8,
+  "poop": 0.5,
+  "dateAndTime": "2016-05-25T14:33:22.000Z"
+}, {
+  "date": "5/25/16",
+  "time": "16:31:31",
+  "feeding": 51,
+  "pee": 0.6,
+  "poop": 0.8,
+  "dateAndTime": "2016-05-25T16:31:31.000Z"
+}, {
+  "date": "5/25/16",
+  "time": "19:42:32",
   "feeding": 87,
   "pee": 0.5,
-  "poop": 0
+  "poop": 0.2,
+  "dateAndTime": "2016-05-25T19:42:32.000Z"
 }, {
-  "date": "6/25/16",
-  "time": "19:41:04",
-  "dateAndTime": "6/25/16 19:41",
-  "feeding": 64,
-  "pee": 0.8,
-  "poop": 0.4
-}, {
-  "date": "6/26/16",
-  "time": "2:45:36",
-  "dateAndTime": "6/26/16 2:45",
-  "feeding": 59,
-  "pee": 0.4,
-  "poop": 0.4
-}, {
-  "date": "6/26/16",
-  "time": "5:49:14",
-  "dateAndTime": "6/26/16 5:49",
-  "feeding": 56,
-  "pee": 1,
-  "poop": 0.1
-}, {
-  "date": "6/26/16",
-  "time": "8:25:38",
-  "dateAndTime": "6/26/16 8:25",
-  "feeding": 83,
-  "pee": 0.3,
-  "poop": 0.7
-}, {
-  "date": "6/26/16",
-  "time": "9:33:34",
-  "dateAndTime": "6/26/16 9:33",
-  "feeding": 83,
-  "pee": 0.2,
-  "poop": 0.1
-}, {
-  "date": "6/26/16",
-  "time": "14:57:39",
-  "dateAndTime": "6/26/16 14:57",
-  "feeding": 58,
+  "date": "5/26/16",
+  "time": "00:40:30",
+  "feeding": 80,
   "pee": 0.1,
-  "poop": 0.6
+  "poop": 1,
+  "dateAndTime": "2016-05-26T00:40:30.000Z"
 }, {
-  "date": "6/26/16",
-  "time": "17:30:28",
-  "dateAndTime": "6/26/16 17:30",
-  "feeding": 61,
-  "pee": 0.5,
-  "poop": 0.2
-}, {
-  "date": "6/26/16",
-  "time": "23:39:59",
-  "dateAndTime": "6/26/16 23:39",
-  "feeding": 89,
-  "pee": 0.3,
-  "poop": 0.8
-}, {
-  "date": "6/27/16",
-  "time": "2:37:04",
-  "dateAndTime": "6/27/16 2:37",
-  "feeding": 65,
+  "date": "5/26/16",
+  "time": "05:17:05",
+  "feeding": 77,
   "pee": 0.9,
-  "poop": 0.1
+  "poop": 0.8,
+  "dateAndTime": "2016-05-26T05:17:05.000Z"
 }, {
-  "date": "6/27/16",
-  "time": "4:06:48",
-  "dateAndTime": "6/27/16 4:06",
-  "feeding": 85,
+  "date": "5/26/16",
+  "time": "08:32:33",
+  "feeding": 66,
   "pee": 0.5,
-  "poop": 0.4
+  "poop": 0.5,
+  "dateAndTime": "2016-05-26T08:32:33.000Z"
 }, {
-  "date": "6/27/16",
-  "time": "7:19:00",
-  "dateAndTime": "6/27/16 7:19",
-  "feeding": 55,
+  "date": "5/26/16",
+  "time": "11:12:32",
+  "feeding": 75,
+  "pee": 0.6,
+  "poop": 0.5,
+  "dateAndTime": "2016-05-26T11:12:32.000Z"
+}, {
+  "date": "5/25/16",
+  "time": "14:26:29",
+  "feeding": 86,
+  "pee": 0.3,
+  "poop": 0.7,
+  "dateAndTime": "2016-05-25T14:26:29.000Z"
+}, {
+  "date": "5/25/16",
+  "time": "17:48:34",
+  "feeding": 62,
+  "pee": 0.5,
+  "poop": 0.6,
+  "dateAndTime": "2016-05-25T17:48:34.000Z"
+}, {
+  "date": "5/25/16",
+  "time": "20:44:41",
+  "feeding": 88,
+  "pee": 0.6,
+  "poop": 0.5,
+  "dateAndTime": "2016-05-25T20:44:41.000Z"
+}, {
+  "date": "5/26/16",
+  "time": "00:36:08",
+  "feeding": 89,
   "pee": 0,
-  "poop": 0.3
+  "poop": 0.2,
+  "dateAndTime": "2016-05-26T00:36:08.000Z"
 }, {
-  "date": "6/27/16",
-  "time": "10:55:27",
-  "dateAndTime": "6/27/16 10:55",
-  "feeding": 68,
-  "pee": 0.8,
-  "poop": 0.7
-}, {
-  "date": "6/27/16",
-  "time": "12:51:06",
-  "dateAndTime": "6/27/16 12:51",
-  "feeding": 81,
-  "pee": 0.4,
-  "poop": 1
-}, {
-  "date": "6/27/16",
-  "time": "17:25:47",
-  "dateAndTime": "6/27/16 17:25",
-  "feeding": 90,
-  "pee": 0.8,
-  "poop": 0.2
-}, {
-  "date": "6/27/16",
-  "time": "21:24:40",
-  "dateAndTime": "6/27/16 21:24",
-  "feeding": 74,
-  "pee": 0.7,
-  "poop": 0.9
-}, {
-  "date": "6/28/16",
-  "time": "2:55:37",
-  "dateAndTime": "6/28/16 2:55",
-  "feeding": 70,
-  "pee": 0.6,
-  "poop": 0.7
-}, {
-  "date": "6/28/16",
-  "time": "5:10:22",
-  "dateAndTime": "6/28/16 5:10",
-  "feeding": 57,
-  "pee": 0.3,
-  "poop": 0.6
-}, {
-  "date": "6/28/16",
-  "time": "6:45:05",
-  "dateAndTime": "6/28/16 6:45",
-  "feeding": 90,
-  "pee": 0.5,
-  "poop": 0.2
-}, {
-  "date": "6/28/16",
-  "time": "9:11:21",
-  "dateAndTime": "6/28/16 9:11",
-  "feeding": 60,
-  "pee": 1,
-  "poop": 0.1
-}, {
-  "date": "6/28/16",
-  "time": "13:00:47",
-  "dateAndTime": "6/28/16 13:00",
-  "feeding": 78,
-  "pee": 0.1,
-  "poop": 0.5
-}, {
-  "date": "6/28/16",
-  "time": "15:24:45",
-  "dateAndTime": "6/28/16 15:24",
-  "feeding": 64,
-  "pee": 0.8,
-  "poop": 0.9
-}, {
-  "date": "6/28/16",
-  "time": "20:57:58",
-  "dateAndTime": "6/28/16 20:57",
-  "feeding": 70,
+  "date": "5/26/16",
+  "time": "05:59:03",
+  "feeding": 63,
   "pee": 0.2,
-  "poop": 0.5
+  "poop": 0.7,
+  "dateAndTime": "2016-05-26T05:59:03.000Z"
 }, {
-  "date": "6/29/16",
-  "time": "2:31:59",
-  "dateAndTime": "6/29/16 2:31",
-  "feeding": 81,
+  "date": "5/26/16",
+  "time": "07:14:27",
+  "feeding": 75,
   "pee": 0.6,
-  "poop": 0.6
+  "poop": 0.4,
+  "dateAndTime": "2016-05-26T07:14:27.000Z"
 }, {
-  "date": "6/29/16",
-  "time": "3:14:59",
-  "dateAndTime": "6/29/16 3:14",
-  "feeding": 64,
-  "pee": 0.5,
-  "poop": 1
+  "date": "5/26/16",
+  "time": "11:05:34",
+  "feeding": 88,
+  "pee": 0.1,
+  "poop": 0.7,
+  "dateAndTime": "2016-05-26T11:05:34.000Z"
 }, {
-  "date": "6/29/16",
-  "time": "7:11:31",
-  "dateAndTime": "6/29/16 7:11",
-  "feeding": 82,
-  "pee": 0.3,
-  "poop": 0.9
+  "date": "5/26/16",
+  "time": "13:55:34",
+  "feeding": 76,
+  "pee": 0.1,
+  "poop": 0.3,
+  "dateAndTime": "2016-05-26T13:55:34.000Z"
 }, {
-  "date": "6/29/16",
-  "time": "11:56:33",
-  "dateAndTime": "6/29/16 11:56",
+  "date": "5/26/16",
+  "time": "15:15:07",
+  "feeding": 80,
+  "pee": 1,
+  "poop": 0.8,
+  "dateAndTime": "2016-05-26T15:15:07.000Z"
+}, {
+  "date": "5/26/16",
+  "time": "23:32:42",
   "feeding": 51,
   "pee": 0.3,
-  "poop": 0.1
+  "poop": 0.6,
+  "dateAndTime": "2016-05-26T23:32:42.000Z"
 }, {
-  "date": "6/29/16",
-  "time": "12:37:59",
-  "dateAndTime": "6/29/16 12:37",
-  "feeding": 54,
+  "date": "5/27/16",
+  "time": "01:24:59",
+  "feeding": 87,
   "pee": 0.3,
-  "poop": 0.3
+  "poop": 0.1,
+  "dateAndTime": "2016-05-27T01:24:59.000Z"
 }, {
-  "date": "6/29/16",
-  "time": "18:37:39",
-  "dateAndTime": "6/29/16 18:37",
+  "date": "5/27/16",
+  "time": "05:56:49",
+  "feeding": 71,
+  "pee": 0.9,
+  "poop": 1,
+  "dateAndTime": "2016-05-27T05:56:49.000Z"
+}, {
+  "date": "5/27/16",
+  "time": "08:14:30",
   "feeding": 58,
-  "pee": 0.2,
-  "poop": 0.4
+  "pee": 0.9,
+  "poop": 0.6,
+  "dateAndTime": "2016-05-27T08:14:30.000Z"
 }, {
-  "date": "6/29/16",
-  "time": "21:35:00",
-  "dateAndTime": "6/29/16 21:35",
-  "feeding": 86,
-  "pee": 0.1,
-  "poop": 1
+  "date": "5/27/16",
+  "time": "10:23:50",
+  "feeding": 61,
+  "pee": 0.5,
+  "poop": 1,
+  "dateAndTime": "2016-05-27T10:23:50.000Z"
 }, {
-  "date": "6/30/16",
-  "time": "1:46:28",
-  "dateAndTime": "6/30/16 1:46",
-  "feeding": 76,
-  "pee": 0.4,
-  "poop": 0.2
-}, {
-  "date": "6/30/16",
-  "time": "5:07:26",
-  "dateAndTime": "6/30/16 5:07",
+  "date": "5/27/16",
+  "time": "14:42:25",
   "feeding": 50,
-  "pee": 0.6,
-  "poop": 0.1
+  "pee": 0.8,
+  "poop": 0.6,
+  "dateAndTime": "2016-05-27T14:42:25.000Z"
 }, {
-  "date": "6/30/16",
-  "time": "8:55:35",
-  "dateAndTime": "6/30/16 8:55",
+  "date": "5/27/16",
+  "time": "15:29:19",
+  "feeding": 66,
+  "pee": 0,
+  "poop": 0.6,
+  "dateAndTime": "2016-05-27T15:29:19.000Z"
+}, {
+  "date": "5/27/16",
+  "time": "21:41:58",
+  "feeding": 87,
+  "pee": 0.1,
+  "poop": 0.2,
+  "dateAndTime": "2016-05-27T21:41:58.000Z"
+}, {
+  "date": "5/28/16",
+  "time": "01:22:58",
+  "feeding": 70,
+  "pee": 0.1,
+  "poop": 0.9,
+  "dateAndTime": "2016-05-28T01:22:58.000Z"
+}, {
+  "date": "5/28/16",
+  "time": "05:28:17",
+  "feeding": 65,
+  "pee": 0.5,
+  "poop": 0.4,
+  "dateAndTime": "2016-05-28T05:28:17.000Z"
+}, {
+  "date": "5/28/16",
+  "time": "07:47:43",
+  "feeding": 84,
+  "pee": 0.3,
+  "poop": 0.3,
+  "dateAndTime": "2016-05-28T07:47:43.000Z"
+}, {
+  "date": "5/28/16",
+  "time": "09:55:44",
+  "feeding": 56,
+  "pee": 0.8,
+  "poop": 0.1,
+  "dateAndTime": "2016-05-28T09:55:44.000Z"
+}, {
+  "date": "5/28/16",
+  "time": "14:17:45",
+  "feeding": 55,
+  "pee": 0.3,
+  "poop": 0.5,
+  "dateAndTime": "2016-05-28T14:17:45.000Z"
+}, {
+  "date": "5/28/16",
+  "time": "15:32:32",
+  "feeding": 74,
+  "pee": 0.1,
+  "poop": 0.2,
+  "dateAndTime": "2016-05-28T15:32:32.000Z"
+}, {
+  "date": "5/28/16",
+  "time": "20:46:50",
+  "feeding": 52,
+  "pee": 0.2,
+  "poop": 1,
+  "dateAndTime": "2016-05-28T20:46:50.000Z"
+}, {
+  "date": "5/29/16",
+  "time": "02:34:22",
+  "feeding": 75,
+  "pee": 0.7,
+  "poop": 0.8,
+  "dateAndTime": "2016-05-29T02:34:22.000Z"
+}, {
+  "date": "5/29/16",
+  "time": "05:26:52",
+  "feeding": 68,
+  "pee": 0.9,
+  "poop": 1,
+  "dateAndTime": "2016-05-29T05:26:52.000Z"
+}, {
+  "date": "5/29/16",
+  "time": "08:16:15",
+  "feeding": 54,
+  "pee": 0.2,
+  "poop": 0.2,
+  "dateAndTime": "2016-05-29T08:16:15.000Z"
+}, {
+  "date": "5/29/16",
+  "time": "11:30:11",
+  "feeding": 87,
+  "pee": 0.4,
+  "poop": 0.2,
+  "dateAndTime": "2016-05-29T11:30:11.000Z"
+}, {
+  "date": "5/29/16",
+  "time": "13:40:48",
+  "feeding": 66,
+  "pee": 0,
+  "poop": 0.3,
+  "dateAndTime": "2016-05-29T13:40:48.000Z"
+}, {
+  "date": "5/29/16",
+  "time": "18:53:13",
+  "feeding": 56,
+  "pee": 0.7,
+  "poop": 0.9,
+  "dateAndTime": "2016-05-29T18:53:13.000Z"
+}, {
+  "date": "5/29/16",
+  "time": "22:49:54",
+  "feeding": 84,
+  "pee": 0.6,
+  "poop": 0.1,
+  "dateAndTime": "2016-05-29T22:49:54.000Z"
+}, {
+  "date": "5/30/16",
+  "time": "01:30:16",
+  "feeding": 61,
+  "pee": 0,
+  "poop": 0.3,
+  "dateAndTime": "2016-05-30T01:30:16.000Z"
+}, {
+  "date": "5/30/16",
+  "time": "03:28:03",
+  "feeding": 70,
+  "pee": 0.7,
+  "poop": 0.1,
+  "dateAndTime": "2016-05-30T03:28:03.000Z"
+}, {
+  "date": "5/30/16",
+  "time": "07:22:49",
+  "feeding": 51,
+  "pee": 0.4,
+  "poop": 0,
+  "dateAndTime": "2016-05-30T07:22:49.000Z"
+}, {
+  "date": "5/30/16",
+  "time": "11:34:44",
   "feeding": 90,
   "pee": 0.7,
-  "poop": 0.7
+  "poop": 0.4,
+  "dateAndTime": "2016-05-30T11:34:44.000Z"
 }, {
-  "date": "6/30/16",
-  "time": "10:21:19",
-  "dateAndTime": "6/30/16 10:21",
-  "feeding": 82,
+  "date": "5/30/16",
+  "time": "13:57:08",
+  "feeding": 78,
+  "pee": 0.4,
+  "poop": 0.4,
+  "dateAndTime": "2016-05-30T13:57:08.000Z"
+}, {
+  "date": "5/30/16",
+  "time": "18:04:50",
+  "feeding": 76,
+  "pee": 1,
+  "poop": 0.3,
+  "dateAndTime": "2016-05-30T18:04:50.000Z"
+}, {
+  "date": "5/30/16",
+  "time": "19:49:09",
+  "feeding": 90,
   "pee": 0.6,
-  "poop": 0.8
+  "poop": 0.2,
+  "dateAndTime": "2016-05-30T19:49:09.000Z"
 }, {
-  "date": "6/30/16",
-  "time": "14:06:22",
-  "dateAndTime": "6/30/16 14:06",
-  "feeding": 50,
-  "pee": 0.4,
-  "poop": 0.8
+  "date": "6/1/16",
+  "time": "02:01:23",
+  "feeding": 66,
+  "pee": 0.9,
+  "poop": 0.6,
+  "dateAndTime": "2016-06-01T02:01:23.000Z"
 }, {
-  "date": "6/30/16",
-  "time": "18:16:05",
-  "dateAndTime": "6/30/16 18:16",
-  "feeding": 83,
-  "pee": 0.4,
-  "poop": 0
-}, {
-  "date": "6/30/16",
-  "time": "20:39:23",
-  "dateAndTime": "6/30/16 20:39",
+  "date": "6/1/16",
+  "time": "04:13:09",
   "feeding": 56,
-  "pee": 0.4,
-  "poop": 0.4
+  "pee": 0.6,
+  "poop": 0.1,
+  "dateAndTime": "2016-06-01T04:13:09.000Z"
 }, {
-  "date": "7/1/16",
-  "time": "1:19:58",
-  "dateAndTime": "7/1/16 1:19",
+  "date": "6/1/16",
+  "time": "08:07:59",
+  "feeding": 53,
+  "pee": 0.3,
+  "poop": 0.1,
+  "dateAndTime": "2016-06-01T08:07:59.000Z"
+}, {
+  "date": "6/1/16",
+  "time": "09:39:09",
+  "feeding": 56,
+  "pee": 1,
+  "poop": 1,
+  "dateAndTime": "2016-06-01T09:39:09.000Z"
+}, {
+  "date": "6/1/16",
+  "time": "12:13:13",
+  "feeding": 52,
+  "pee": 0.8,
+  "poop": 0.2,
+  "dateAndTime": "2016-06-01T12:13:13.000Z"
+}, {
+  "date": "6/1/16",
+  "time": "18:56:44",
+  "feeding": 73,
+  "pee": 0.1,
+  "poop": 0.7,
+  "dateAndTime": "2016-06-01T18:56:44.000Z"
+}, {
+  "date": "6/1/16",
+  "time": "21:39:42",
+  "feeding": 74,
+  "pee": 0.3,
+  "poop": 0.9,
+  "dateAndTime": "2016-06-01T21:39:42.000Z"
+}, {
+  "date": "6/2/16",
+  "time": "01:52:59",
+  "feeding": 67,
+  "pee": 0.9,
+  "poop": 0.7,
+  "dateAndTime": "2016-06-02T01:52:59.000Z"
+}, {
+  "date": "6/2/16",
+  "time": "05:04:15",
+  "feeding": 64,
+  "pee": 0.5,
+  "poop": 0.1,
+  "dateAndTime": "2016-06-02T05:04:15.000Z"
+}, {
+  "date": "6/2/16",
+  "time": "08:26:29",
+  "feeding": 60,
+  "pee": 0.5,
+  "poop": 0.6,
+  "dateAndTime": "2016-06-02T08:26:29.000Z"
+}, {
+  "date": "6/2/16",
+  "time": "11:19:14",
+  "feeding": 74,
+  "pee": 0.7,
+  "poop": 0.8,
+  "dateAndTime": "2016-06-02T11:19:14.000Z"
+}, {
+  "date": "6/2/16",
+  "time": "12:07:37",
+  "feeding": 64,
+  "pee": 0.9,
+  "poop": 0.7,
+  "dateAndTime": "2016-06-02T12:07:37.000Z"
+}, {
+  "date": "6/2/16",
+  "time": "15:31:33",
   "feeding": 75,
   "pee": 0.8,
-  "poop": 0.4
+  "poop": 0.3,
+  "dateAndTime": "2016-06-02T15:31:33.000Z"
 }, {
-  "date": "7/1/16",
-  "time": "5:47:34",
-  "dateAndTime": "7/1/16 5:47",
-  "feeding": 73,
-  "pee": 0.4,
-  "poop": 0.6
+  "date": "6/2/16",
+  "time": "23:24:20",
+  "feeding": 61,
+  "pee": 0.5,
+  "poop": 0.1,
+  "dateAndTime": "2016-06-02T23:24:20.000Z"
 }, {
-  "date": "7/1/16",
-  "time": "6:11:00",
-  "dateAndTime": "7/1/16 6:11",
+  "date": "6/3/16",
+  "time": "01:30:51",
+  "feeding": 60,
+  "pee": 0.5,
+  "poop": 0.8,
+  "dateAndTime": "2016-06-03T01:30:51.000Z"
+}, {
+  "date": "6/3/16",
+  "time": "03:30:02",
+  "feeding": 59,
+  "pee": 0.6,
+  "poop": 0.7,
+  "dateAndTime": "2016-06-03T03:30:02.000Z"
+}, {
+  "date": "6/3/16",
+  "time": "06:37:30",
+  "feeding": 61,
+  "pee": 0.2,
+  "poop": 0.9,
+  "dateAndTime": "2016-06-03T06:37:30.000Z"
+}, {
+  "date": "6/3/16",
+  "time": "09:22:13",
+  "feeding": 87,
+  "pee": 0.7,
+  "poop": 0.5,
+  "dateAndTime": "2016-06-03T09:22:13.000Z"
+}, {
+  "date": "6/3/16",
+  "time": "12:36:51",
+  "feeding": 89,
+  "pee": 0.6,
+  "poop": 0.9,
+  "dateAndTime": "2016-06-03T12:36:51.000Z"
+}, {
+  "date": "6/3/16",
+  "time": "17:59:34",
   "feeding": 72,
-  "pee": 0,
-  "poop": 0.8
+  "pee": 0.9,
+  "poop": 0.7,
+  "dateAndTime": "2016-06-03T17:59:34.000Z"
 }, {
-  "date": "7/1/16",
-  "time": "10:02:22",
-  "dateAndTime": "7/1/16 10:02",
+  "date": "6/3/16",
+  "time": "20:52:32",
+  "feeding": 80,
+  "pee": 0.4,
+  "poop": 0.4,
+  "dateAndTime": "2016-06-03T20:52:32.000Z"
+}, {
+  "date": "6/4/16",
+  "time": "01:56:18",
   "feeding": 52,
   "pee": 0.6,
-  "poop": 0.2
+  "poop": 0.9,
+  "dateAndTime": "2016-06-04T01:56:18.000Z"
 }, {
-  "date": "7/1/16",
-  "time": "12:05:37",
-  "dateAndTime": "7/1/16 12:05",
-  "feeding": 68,
-  "pee": 0.3,
-  "poop": 0.9
+  "date": "6/4/16",
+  "time": "05:45:06",
+  "feeding": 72,
+  "pee": 0.2,
+  "poop": 0.8,
+  "dateAndTime": "2016-06-04T05:45:06.000Z"
 }, {
-  "date": "7/1/16",
-  "time": "15:08:51",
-  "dateAndTime": "7/1/16 15:08",
+  "date": "6/4/16",
+  "time": "07:47:40",
+  "feeding": 70,
+  "pee": 0.7,
+  "poop": 1,
+  "dateAndTime": "2016-06-04T07:47:40.000Z"
+}, {
+  "date": "6/4/16",
+  "time": "10:33:31",
+  "feeding": 70,
+  "pee": 0.5,
+  "poop": 0.4,
+  "dateAndTime": "2016-06-04T10:33:31.000Z"
+}, {
+  "date": "6/4/16",
+  "time": "13:14:54",
   "feeding": 61,
-  "pee": 0.3,
-  "poop": 0.7
+  "pee": 0.1,
+  "poop": 0.3,
+  "dateAndTime": "2016-06-04T13:14:54.000Z"
 }, {
-  "date": "7/1/16",
-  "time": "19:13:02",
-  "dateAndTime": "7/1/16 19:13",
-  "feeding": 88,
-  "pee": 0.3,
-  "poop": 0.3
-}, {
-  "date": "7/2/16",
-  "time": "0:40:14",
-  "dateAndTime": "7/2/16 0:40",
+  "date": "6/4/16",
+  "time": "15:17:31",
   "feeding": 67,
-  "pee": 1,
-  "poop": 0.3
+  "pee": 0.8,
+  "poop": 0.2,
+  "dateAndTime": "2016-06-04T15:17:31.000Z"
 }, {
-  "date": "7/2/16",
-  "time": "3:59:08",
-  "dateAndTime": "7/2/16 3:59",
-  "feeding": 63,
+  "date": "6/4/16",
+  "time": "20:49:16",
+  "feeding": 90,
+  "pee": 0.7,
+  "poop": 0.7,
+  "dateAndTime": "2016-06-04T20:49:16.000Z"
+}, {
+  "date": "6/5/16",
+  "time": "02:35:52",
+  "feeding": 65,
+  "pee": 0.5,
+  "poop": 0.2,
+  "dateAndTime": "2016-06-05T02:35:52.000Z"
+}, {
+  "date": "6/5/16",
+  "time": "04:42:22",
+  "feeding": 71,
+  "pee": 0.5,
+  "poop": 0.8,
+  "dateAndTime": "2016-06-05T04:42:22.000Z"
+}, {
+  "date": "6/5/16",
+  "time": "08:54:25",
+  "feeding": 79,
   "pee": 0,
-  "poop": 0.2
+  "poop": 0.3,
+  "dateAndTime": "2016-06-05T08:54:25.000Z"
 }, {
-  "date": "7/2/16",
-  "time": "6:43:14",
-  "dateAndTime": "7/2/16 6:43",
-  "feeding": 74,
-  "pee": 0.6,
-  "poop": 0.4
+  "date": "6/5/16",
+  "time": "09:44:59",
+  "feeding": 51,
+  "pee": 0.9,
+  "poop": 0.4,
+  "dateAndTime": "2016-06-05T09:44:59.000Z"
 }, {
-  "date": "7/2/16",
-  "time": "10:15:34",
-  "dateAndTime": "7/2/16 10:15",
+  "date": "6/5/16",
+  "time": "13:22:21",
   "feeding": 69,
-  "pee": 0.3,
-  "poop": 0.9
+  "pee": 0,
+  "poop": 0.9,
+  "dateAndTime": "2016-06-05T13:22:21.000Z"
 }, {
-  "date": "7/2/16",
-  "time": "14:49:01",
-  "dateAndTime": "7/2/16 14:49",
-  "feeding": 68,
-  "pee": 0.8,
-  "poop": 0.8
-}, {
-  "date": "7/2/16",
-  "time": "15:15:49",
-  "dateAndTime": "7/2/16 15:15",
-  "feeding": 81,
-  "pee": 0.5,
-  "poop": 0.1
-}, {
-  "date": "7/2/16",
-  "time": "19:13:15",
-  "dateAndTime": "7/2/16 19:13",
-  "feeding": 81,
-  "pee": 0.7,
-  "poop": 0.4
-}, {
-  "date": "7/3/16",
-  "time": "20:15:22",
-  "dateAndTime": "7/3/16 20:15",
-  "feeding": 85,
-  "pee": 0.2,
-  "poop": 0.4
-}, {
-  "date": "7/3/16",
-  "time": "1:06:58",
-  "dateAndTime": "7/3/16 1:06",
-  "feeding": 61,
-  "pee": 0.1,
-  "poop": 0.6
-}, {
-  "date": "7/3/16",
-  "time": "5:21:59",
-  "dateAndTime": "7/3/16 5:21",
-  "feeding": 82,
-  "pee": 0.9,
-  "poop": 0.3
-}, {
-  "date": "7/3/16",
-  "time": "8:51:26",
-  "dateAndTime": "7/3/16 8:51",
-  "feeding": 73,
-  "pee": 0.8,
-  "poop": 0.5
-}, {
-  "date": "7/3/16",
-  "time": "9:00:19",
-  "dateAndTime": "7/3/16 9:00",
-  "feeding": 76,
-  "pee": 0.9,
-  "poop": 0.8
-}, {
-  "date": "7/3/16",
-  "time": "14:58:25",
-  "dateAndTime": "7/3/16 14:58",
-  "feeding": 69,
-  "pee": 0.7,
-  "poop": 0.7
-}, {
-  "date": "7/3/16",
-  "time": "15:14:40",
-  "dateAndTime": "7/3/16 15:14",
-  "feeding": 59,
-  "pee": 0.3,
-  "poop": 0.5
-}, {
-  "date": "7/4/16",
-  "time": "21:12:25",
-  "dateAndTime": "7/4/16 21:12",
-  "feeding": 62,
-  "pee": 0.8,
-  "poop": 0.9
-}, {
-  "date": "7/4/16",
-  "time": "2:04:57",
-  "dateAndTime": "7/4/16 2:04",
-  "feeding": 68,
-  "pee": 0.9,
-  "poop": 0.4
-}, {
-  "date": "7/4/16",
-  "time": "4:56:52",
-  "dateAndTime": "7/4/16 4:56",
-  "feeding": 87,
-  "pee": 0.1,
-  "poop": 0.5
-}, {
-  "date": "7/4/16",
-  "time": "6:15:44",
-  "dateAndTime": "7/4/16 6:15",
-  "feeding": 76,
-  "pee": 0.6,
-  "poop": 1
-}, {
-  "date": "7/4/16",
-  "time": "11:35:14",
-  "dateAndTime": "7/4/16 11:35",
-  "feeding": 55,
-  "pee": 0.5,
-  "poop": 0.9
-}, {
-  "date": "7/4/16",
-  "time": "13:00:16",
-  "dateAndTime": "7/4/16 13:00",
-  "feeding": 63,
-  "pee": 0.1,
-  "poop": 0.8
-}, {
-  "date": "7/4/16",
-  "time": "16:20:57",
-  "dateAndTime": "7/4/16 16:20",
-  "feeding": 81,
-  "pee": 0.4,
-  "poop": 0.9
-}, {
-  "date": "7/5/16",
-  "time": "19:15:48",
-  "dateAndTime": "7/5/16 19:15",
-  "feeding": 83,
-  "pee": 0.3,
-  "poop": 0.8
-}, {
-  "date": "7/5/16",
-  "time": "2:47:25",
-  "dateAndTime": "7/5/16 2:47",
-  "feeding": 87,
-  "pee": 0.3,
-  "poop": 0.8
-}, {
-  "date": "7/5/16",
-  "time": "3:59:55",
-  "dateAndTime": "7/5/16 3:59",
-  "feeding": 57,
-  "pee": 0.4,
-  "poop": 0.6
-}, {
-  "date": "7/5/16",
-  "time": "6:17:14",
-  "dateAndTime": "7/5/16 6:17",
-  "feeding": 81,
-  "pee": 0.8,
-  "poop": 0.9
-}, {
-  "date": "7/5/16",
-  "time": "10:57:36",
-  "dateAndTime": "7/5/16 10:57",
+  "date": "6/5/16",
+  "time": "15:06:45",
   "feeding": 53,
-  "pee": 0.3,
-  "poop": 0.4
+  "pee": 0.7,
+  "poop": 0.5,
+  "dateAndTime": "2016-06-05T15:06:45.000Z"
 }, {
-  "date": "7/5/16",
-  "time": "14:24:41",
-  "dateAndTime": "7/5/16 14:24",
-  "feeding": 84,
-  "pee": 0.4,
-  "poop": 0.3
+  "date": "6/5/16",
+  "time": "22:30:13",
+  "feeding": 90,
+  "pee": 0.7,
+  "poop": 0.6,
+  "dateAndTime": "2016-06-05T22:30:13.000Z"
 }, {
-  "date": "7/5/16",
-  "time": "16:19:51",
-  "dateAndTime": "7/5/16 16:19",
+  "date": "6/6/16",
+  "time": "01:32:34",
   "feeding": 81,
-  "pee": 0.3,
-  "poop": 0.6
+  "pee": 0.6,
+  "poop": 0.3,
+  "dateAndTime": "2016-06-06T01:32:34.000Z"
 }, {
-  "date": "7/5/16",
-  "time": "20:32:00",
-  "dateAndTime": "7/5/16 20:32",
-  "feeding": 89,
+  "date": "6/6/16",
+  "time": "04:14:22",
+  "feeding": 65,
+  "pee": 0.3,
+  "poop": 1,
+  "dateAndTime": "2016-06-06T04:14:22.000Z"
+}, {
+  "date": "6/6/16",
+  "time": "07:42:03",
+  "feeding": 66,
+  "pee": 0.9,
+  "poop": 0.5,
+  "dateAndTime": "2016-06-06T07:42:03.000Z"
+}, {
+  "date": "6/6/16",
+  "time": "09:54:02",
+  "feeding": 86,
+  "pee": 0.3,
+  "poop": 0.2,
+  "dateAndTime": "2016-06-06T09:54:02.000Z"
+}, {
+  "date": "6/6/16",
+  "time": "12:01:37",
+  "feeding": 61,
   "pee": 0.2,
-  "poop": 0.5
+  "poop": 0.7,
+  "dateAndTime": "2016-06-06T12:01:37.000Z"
 }, {
-  "date": "7/6/16",
-  "time": "0:48:47",
-  "dateAndTime": "7/6/16 0:48",
-  "feeding": 55,
-  "pee": 1,
-  "poop": 0.5
+  "date": "6/6/16",
+  "time": "16:58:18",
+  "feeding": 87,
+  "pee": 0.7,
+  "poop": 0.7,
+  "dateAndTime": "2016-06-06T16:58:18.000Z"
 }, {
-  "date": "7/6/16",
-  "time": "3:12:53",
-  "dateAndTime": "7/6/16 3:12",
-  "feeding": 89,
+  "date": "6/6/16",
+  "time": "22:49:22",
+  "feeding": 78,
+  "pee": 0.5,
+  "poop": 0.7,
+  "dateAndTime": "2016-06-06T22:49:22.000Z"
+}, {
+  "date": "6/7/16",
+  "time": "02:08:53",
+  "feeding": 76,
+  "pee": 0.8,
+  "poop": 0.6,
+  "dateAndTime": "2016-06-07T02:08:53.000Z"
+}, {
+  "date": "6/7/16",
+  "time": "04:58:01",
+  "feeding": 76,
+  "pee": 0.8,
+  "poop": 0.2,
+  "dateAndTime": "2016-06-07T04:58:01.000Z"
+}, {
+  "date": "6/7/16",
+  "time": "07:33:51",
+  "feeding": 87,
+  "pee": 0.5,
+  "poop": 0.8,
+  "dateAndTime": "2016-06-07T07:33:51.000Z"
+}, {
+  "date": "6/7/16",
+  "time": "11:59:28",
+  "feeding": 72,
   "pee": 0.9,
-  "poop": 0.2
+  "poop": 0.1,
+  "dateAndTime": "2016-06-07T11:59:28.000Z"
 }, {
-  "date": "7/6/16",
-  "time": "8:26:44",
-  "dateAndTime": "7/6/16 8:26",
-  "feeding": 64,
-  "pee": 0.3,
-  "poop": 0.2
-}, {
-  "date": "7/6/16",
-  "time": "11:31:03",
-  "dateAndTime": "7/6/16 11:31",
-  "feeding": 68,
-  "pee": 0.9,
-  "poop": 0.5
-}, {
-  "date": "7/6/16",
-  "time": "12:36:58",
-  "dateAndTime": "7/6/16 12:36",
+  "date": "6/7/16",
+  "time": "14:19:32",
   "feeding": 72,
   "pee": 0.5,
-  "poop": 0.8
+  "poop": 0.3,
+  "dateAndTime": "2016-06-07T14:19:32.000Z"
+}, {
+  "date": "6/7/16",
+  "time": "15:01:14",
+  "feeding": 77,
+  "pee": 0.2,
+  "poop": 0.4,
+  "dateAndTime": "2016-06-07T15:01:14.000Z"
+}, {
+  "date": "6/7/16",
+  "time": "22:37:11",
+  "feeding": 63,
+  "pee": 0.1,
+  "poop": 0.1,
+  "dateAndTime": "2016-06-07T22:37:11.000Z"
+}, {
+  "date": "6/8/16",
+  "time": "00:44:25",
+  "feeding": 66,
+  "pee": 0.8,
+  "poop": 0.9,
+  "dateAndTime": "2016-06-08T00:44:25.000Z"
+}, {
+  "date": "6/8/16",
+  "time": "04:50:11",
+  "feeding": 76,
+  "pee": 0.5,
+  "poop": 0.4,
+  "dateAndTime": "2016-06-08T04:50:11.000Z"
+}, {
+  "date": "6/8/16",
+  "time": "08:51:33",
+  "feeding": 62,
+  "pee": 0,
+  "poop": 0.4,
+  "dateAndTime": "2016-06-08T08:51:33.000Z"
+}, {
+  "date": "6/8/16",
+  "time": "11:20:57",
+  "feeding": 72,
+  "pee": 0.2,
+  "poop": 0.6,
+  "dateAndTime": "2016-06-08T11:20:57.000Z"
+}, {
+  "date": "6/8/16",
+  "time": "13:57:52",
+  "feeding": 65,
+  "pee": 1,
+  "poop": 0.7,
+  "dateAndTime": "2016-06-08T13:57:52.000Z"
+}, {
+  "date": "6/8/16",
+  "time": "15:15:46",
+  "feeding": 64,
+  "pee": 0.1,
+  "poop": 0.6,
+  "dateAndTime": "2016-06-08T15:15:46.000Z"
+}, {
+  "date": "6/8/16",
+  "time": "20:32:49",
+  "feeding": 87,
+  "pee": 0.2,
+  "poop": 0,
+  "dateAndTime": "2016-06-08T20:32:49.000Z"
+}, {
+  "date": "6/9/16",
+  "time": "02:44:29",
+  "feeding": 88,
+  "pee": 0.1,
+  "poop": 0.4,
+  "dateAndTime": "2016-06-09T02:44:29.000Z"
+}, {
+  "date": "6/9/16",
+  "time": "03:32:26",
+  "feeding": 54,
+  "pee": 0.5,
+  "poop": 0.4,
+  "dateAndTime": "2016-06-09T03:32:26.000Z"
+}, {
+  "date": "6/9/16",
+  "time": "07:05:59",
+  "feeding": 70,
+  "pee": 0.4,
+  "poop": 0.3,
+  "dateAndTime": "2016-06-09T07:05:59.000Z"
+}, {
+  "date": "6/9/16",
+  "time": "10:04:14",
+  "feeding": 61,
+  "pee": 0.2,
+  "poop": 0.4,
+  "dateAndTime": "2016-06-09T10:04:14.000Z"
+}, {
+  "date": "6/9/16",
+  "time": "12:17:22",
+  "feeding": 90,
+  "pee": 0.2,
+  "poop": 0.3,
+  "dateAndTime": "2016-06-09T12:17:22.000Z"
+}, {
+  "date": "6/9/16",
+  "time": "18:36:49",
+  "feeding": 90,
+  "pee": 0.3,
+  "poop": 0.7,
+  "dateAndTime": "2016-06-09T18:36:49.000Z"
+}, {
+  "date": "6/9/16",
+  "time": "20:08:40",
+  "feeding": 66,
+  "pee": 0.3,
+  "poop": 0.6,
+  "dateAndTime": "2016-06-09T20:08:40.000Z"
+}, {
+  "date": "6/10/16",
+  "time": "01:34:14",
+  "feeding": 85,
+  "pee": 0,
+  "poop": 0.8,
+  "dateAndTime": "2016-06-10T01:34:14.000Z"
+}, {
+  "date": "6/10/16",
+  "time": "04:30:21",
+  "feeding": 72,
+  "pee": 0.2,
+  "poop": 0.1,
+  "dateAndTime": "2016-06-10T04:30:21.000Z"
+}, {
+  "date": "6/10/16",
+  "time": "08:46:35",
+  "feeding": 88,
+  "pee": 0.3,
+  "poop": 0.9,
+  "dateAndTime": "2016-06-10T08:46:35.000Z"
+}, {
+  "date": "6/10/16",
+  "time": "09:28:44",
+  "feeding": 52,
+  "pee": 0.3,
+  "poop": 0.6,
+  "dateAndTime": "2016-06-10T09:28:44.000Z"
+}, {
+  "date": "6/10/16",
+  "time": "12:16:06",
+  "feeding": 65,
+  "pee": 0.3,
+  "poop": 0.5,
+  "dateAndTime": "2016-06-10T12:16:06.000Z"
+}, {
+  "date": "6/10/16",
+  "time": "18:59:24",
+  "feeding": 74,
+  "pee": 1,
+  "poop": 0.6,
+  "dateAndTime": "2016-06-10T18:59:24.000Z"
+}, {
+  "date": "6/10/16",
+  "time": "21:43:39",
+  "feeding": 53,
+  "pee": 0,
+  "poop": 0.7,
+  "dateAndTime": "2016-06-10T21:43:39.000Z"
+}, {
+  "date": "6/11/16",
+  "time": "00:20:47",
+  "feeding": 68,
+  "pee": 0.6,
+  "poop": 0.2,
+  "dateAndTime": "2016-06-11T00:20:47.000Z"
+}, {
+  "date": "6/11/16",
+  "time": "03:18:33",
+  "feeding": 76,
+  "pee": 0.8,
+  "poop": 0.5,
+  "dateAndTime": "2016-06-11T03:18:33.000Z"
+}, {
+  "date": "6/11/16",
+  "time": "08:23:40",
+  "feeding": 88,
+  "pee": 0.8,
+  "poop": 0.6,
+  "dateAndTime": "2016-06-11T08:23:40.000Z"
+}, {
+  "date": "6/11/16",
+  "time": "09:05:36",
+  "feeding": 88,
+  "pee": 1,
+  "poop": 0.2,
+  "dateAndTime": "2016-06-11T09:05:36.000Z"
+}, {
+  "date": "6/11/16",
+  "time": "13:55:19",
+  "feeding": 80,
+  "pee": 0.9,
+  "poop": 0.4,
+  "dateAndTime": "2016-06-11T13:55:19.000Z"
+}, {
+  "date": "6/11/16",
+  "time": "16:23:30",
+  "feeding": 72,
+  "pee": 0.1,
+  "poop": 1,
+  "dateAndTime": "2016-06-11T16:23:30.000Z"
+}, {
+  "date": "6/11/16",
+  "time": "22:53:43",
+  "feeding": 85,
+  "pee": 0.9,
+  "poop": 0.8,
+  "dateAndTime": "2016-06-11T22:53:43.000Z"
+}, {
+  "date": "6/12/16",
+  "time": "02:31:20",
+  "feeding": 53,
+  "pee": 0.3,
+  "poop": 1,
+  "dateAndTime": "2016-06-12T02:31:20.000Z"
+}, {
+  "date": "6/12/16",
+  "time": "04:51:56",
+  "feeding": 65,
+  "pee": 0.7,
+  "poop": 0.1,
+  "dateAndTime": "2016-06-12T04:51:56.000Z"
+}, {
+  "date": "6/12/16",
+  "time": "07:02:19",
+  "feeding": 74,
+  "pee": 0.8,
+  "poop": 0.4,
+  "dateAndTime": "2016-06-12T07:02:19.000Z"
+}, {
+  "date": "6/12/16",
+  "time": "09:16:02",
+  "feeding": 62,
+  "pee": 0.7,
+  "poop": 0.9,
+  "dateAndTime": "2016-06-12T09:16:02.000Z"
+}, {
+  "date": "6/12/16",
+  "time": "12:03:25",
+  "feeding": 61,
+  "pee": 0.1,
+  "poop": 0.6,
+  "dateAndTime": "2016-06-12T12:03:25.000Z"
+}, {
+  "date": "6/12/16",
+  "time": "15:03:58",
+  "feeding": 70,
+  "pee": 0.3,
+  "poop": 0.2,
+  "dateAndTime": "2016-06-12T15:03:58.000Z"
+}, {
+  "date": "6/12/16",
+  "time": "23:20:36",
+  "feeding": 50,
+  "pee": 0.8,
+  "poop": 0.2,
+  "dateAndTime": "2016-06-12T23:20:36.000Z"
+}, {
+  "date": "6/13/16",
+  "time": "02:17:51",
+  "feeding": 72,
+  "pee": 0.1,
+  "poop": 0.4,
+  "dateAndTime": "2016-06-13T02:17:51.000Z"
+}, {
+  "date": "6/13/16",
+  "time": "05:24:53",
+  "feeding": 54,
+  "pee": 0.1,
+  "poop": 0.3,
+  "dateAndTime": "2016-06-13T05:24:53.000Z"
+}, {
+  "date": "6/13/16",
+  "time": "08:07:10",
+  "feeding": 58,
+  "pee": 0.1,
+  "poop": 0.2,
+  "dateAndTime": "2016-06-13T08:07:10.000Z"
+}, {
+  "date": "6/13/16",
+  "time": "09:15:59",
+  "feeding": 60,
+  "pee": 0.2,
+  "poop": 0.6,
+  "dateAndTime": "2016-06-13T09:15:59.000Z"
+}, {
+  "date": "6/13/16",
+  "time": "14:06:34",
+  "feeding": 78,
+  "pee": 0.1,
+  "poop": 0.7,
+  "dateAndTime": "2016-06-13T14:06:34.000Z"
+}, {
+  "date": "6/13/16",
+  "time": "15:08:58",
+  "feeding": 53,
+  "pee": 1,
+  "poop": 0.8,
+  "dateAndTime": "2016-06-13T15:08:58.000Z"
+}, {
+  "date": "6/13/16",
+  "time": "19:52:19",
+  "feeding": 70,
+  "pee": 0.5,
+  "poop": 0.2,
+  "dateAndTime": "2016-06-13T19:52:19.000Z"
+}, {
+  "date": "6/14/16",
+  "time": "01:09:34",
+  "feeding": 85,
+  "pee": 0.2,
+  "poop": 0.7,
+  "dateAndTime": "2016-06-14T01:09:34.000Z"
+}, {
+  "date": "6/14/16",
+  "time": "03:37:55",
+  "feeding": 63,
+  "pee": 1,
+  "poop": 1,
+  "dateAndTime": "2016-06-14T03:37:55.000Z"
+}, {
+  "date": "6/14/16",
+  "time": "06:56:02",
+  "feeding": 72,
+  "pee": 0.7,
+  "poop": 0.8,
+  "dateAndTime": "2016-06-14T06:56:02.000Z"
+}, {
+  "date": "6/14/16",
+  "time": "11:04:50",
+  "feeding": 90,
+  "pee": 1,
+  "poop": 0.2,
+  "dateAndTime": "2016-06-14T11:04:50.000Z"
+}, {
+  "date": "6/14/16",
+  "time": "12:44:26",
+  "feeding": 57,
+  "pee": 0.1,
+  "poop": 0.7,
+  "dateAndTime": "2016-06-14T12:44:26.000Z"
+}, {
+  "date": "6/14/16",
+  "time": "15:06:47",
+  "feeding": 85,
+  "pee": 0.8,
+  "poop": 0.5,
+  "dateAndTime": "2016-06-14T15:06:47.000Z"
+}, {
+  "date": "6/14/16",
+  "time": "23:16:35",
+  "feeding": 62,
+  "pee": 0.1,
+  "poop": 0.1,
+  "dateAndTime": "2016-06-14T23:16:35.000Z"
+}, {
+  "date": "6/15/16",
+  "time": "00:00:48",
+  "feeding": 87,
+  "pee": 0.6,
+  "poop": 0.6,
+  "dateAndTime": "2016-06-15T00:00:48.000Z"
+}, {
+  "date": "6/15/16",
+  "time": "05:44:22",
+  "feeding": 71,
+  "pee": 0.5,
+  "poop": 0.6,
+  "dateAndTime": "2016-06-15T05:44:22.000Z"
+}, {
+  "date": "6/15/16",
+  "time": "08:22:30",
+  "feeding": 77,
+  "pee": 0.9,
+  "poop": 0.8,
+  "dateAndTime": "2016-06-15T08:22:30.000Z"
+}, {
+  "date": "6/15/16",
+  "time": "09:19:25",
+  "feeding": 65,
+  "pee": 0.7,
+  "poop": 0.4,
+  "dateAndTime": "2016-06-15T09:19:25.000Z"
+}, {
+  "date": "6/15/16",
+  "time": "14:15:34",
+  "feeding": 53,
+  "pee": 0.8,
+  "poop": 0.5,
+  "dateAndTime": "2016-06-15T14:15:34.000Z"
+}, {
+  "date": "6/15/16",
+  "time": "17:12:14",
+  "feeding": 67,
+  "pee": 0.1,
+  "poop": 0.6,
+  "dateAndTime": "2016-06-15T17:12:14.000Z"
+}, {
+  "date": "6/15/16",
+  "time": "19:46:35",
+  "feeding": 51,
+  "pee": 0.6,
+  "poop": 0.3,
+  "dateAndTime": "2016-06-15T19:46:35.000Z"
+}, {
+  "date": "6/16/16",
+  "time": "01:03:02",
+  "feeding": 66,
+  "pee": 0.8,
+  "poop": 0.3,
+  "dateAndTime": "2016-06-16T01:03:02.000Z"
+}, {
+  "date": "6/16/16",
+  "time": "03:12:40",
+  "feeding": 90,
+  "pee": 1,
+  "poop": 0.7,
+  "dateAndTime": "2016-06-16T03:12:40.000Z"
+}, {
+  "date": "6/16/16",
+  "time": "06:36:58",
+  "feeding": 56,
+  "pee": 0.7,
+  "poop": 0.8,
+  "dateAndTime": "2016-06-16T06:36:58.000Z"
+}, {
+  "date": "6/16/16",
+  "time": "11:20:05",
+  "feeding": 64,
+  "pee": 0.7,
+  "poop": 0.1,
+  "dateAndTime": "2016-06-16T11:20:05.000Z"
+}, {
+  "date": "6/16/16",
+  "time": "13:52:08",
+  "feeding": 69,
+  "pee": 0.9,
+  "poop": 0.3,
+  "dateAndTime": "2016-06-16T13:52:08.000Z"
+}, {
+  "date": "6/16/16",
+  "time": "18:11:00",
+  "feeding": 87,
+  "pee": 0.7,
+  "poop": 0.5,
+  "dateAndTime": "2016-06-16T18:11:00.000Z"
+}, {
+  "date": "6/16/16",
+  "time": "22:58:44",
+  "feeding": 68,
+  "pee": 0.6,
+  "poop": 0.4,
+  "dateAndTime": "2016-06-16T22:58:44.000Z"
+}, {
+  "date": "6/17/16",
+  "time": "00:50:06",
+  "feeding": 57,
+  "pee": 0.2,
+  "poop": 0.3,
+  "dateAndTime": "2016-06-17T00:50:06.000Z"
+}, {
+  "date": "6/17/16",
+  "time": "04:07:35",
+  "feeding": 85,
+  "pee": 0.3,
+  "poop": 0.6,
+  "dateAndTime": "2016-06-17T04:07:35.000Z"
+}, {
+  "date": "6/17/16",
+  "time": "07:52:06",
+  "feeding": 70,
+  "pee": 0.8,
+  "poop": 0.8,
+  "dateAndTime": "2016-06-17T07:52:06.000Z"
+}, {
+  "date": "6/17/16",
+  "time": "11:55:40",
+  "feeding": 50,
+  "pee": 0.8,
+  "poop": 0.3,
+  "dateAndTime": "2016-06-17T11:55:40.000Z"
+}, {
+  "date": "6/17/16",
+  "time": "13:16:06",
+  "feeding": 70,
+  "pee": 0.5,
+  "poop": 0.3,
+  "dateAndTime": "2016-06-17T13:16:06.000Z"
+}, {
+  "date": "6/17/16",
+  "time": "16:17:14",
+  "feeding": 90,
+  "pee": 0.1,
+  "poop": 0.9,
+  "dateAndTime": "2016-06-17T16:17:14.000Z"
+}, {
+  "date": "6/17/16",
+  "time": "22:15:12",
+  "feeding": 74,
+  "pee": 0.8,
+  "poop": 0.5,
+  "dateAndTime": "2016-06-17T22:15:12.000Z"
+}, {
+  "date": "6/18/16",
+  "time": "01:02:56",
+  "feeding": 50,
+  "pee": 0.4,
+  "poop": 0.2,
+  "dateAndTime": "2016-06-18T01:02:56.000Z"
+}, {
+  "date": "6/18/16",
+  "time": "05:15:00",
+  "feeding": 62,
+  "pee": 0.6,
+  "poop": 0.2,
+  "dateAndTime": "2016-06-18T05:15:00.000Z"
+}, {
+  "date": "6/18/16",
+  "time": "06:20:20",
+  "feeding": 79,
+  "pee": 0.5,
+  "poop": 0,
+  "dateAndTime": "2016-06-18T06:20:20.000Z"
+}, {
+  "date": "6/18/16",
+  "time": "09:47:51",
+  "feeding": 56,
+  "pee": 0.1,
+  "poop": 0.4,
+  "dateAndTime": "2016-06-18T09:47:51.000Z"
+}, {
+  "date": "6/18/16",
+  "time": "14:44:36",
+  "feeding": 87,
+  "pee": 0.3,
+  "poop": 0.4,
+  "dateAndTime": "2016-06-18T14:44:36.000Z"
+}, {
+  "date": "6/18/16",
+  "time": "17:29:07",
+  "feeding": 51,
+  "pee": 0.9,
+  "poop": 0.3,
+  "dateAndTime": "2016-06-18T17:29:07.000Z"
+}, {
+  "date": "6/18/16",
+  "time": "23:56:14",
+  "feeding": 76,
+  "pee": 0.4,
+  "poop": 0.7,
+  "dateAndTime": "2016-06-18T23:56:14.000Z"
+}, {
+  "date": "6/19/16",
+  "time": "00:37:19",
+  "feeding": 68,
+  "pee": 0.1,
+  "poop": 0.9,
+  "dateAndTime": "2016-06-19T00:37:19.000Z"
+}, {
+  "date": "6/19/16",
+  "time": "03:15:40",
+  "feeding": 71,
+  "pee": 0.3,
+  "poop": 0.3,
+  "dateAndTime": "2016-06-19T03:15:40.000Z"
+}, {
+  "date": "6/19/16",
+  "time": "08:27:10",
+  "feeding": 67,
+  "pee": 0.9,
+  "poop": 1,
+  "dateAndTime": "2016-06-19T08:27:10.000Z"
+}, {
+  "date": "6/19/16",
+  "time": "09:49:14",
+  "feeding": 78,
+  "pee": 0.5,
+  "poop": 1,
+  "dateAndTime": "2016-06-19T09:49:14.000Z"
+}, {
+  "date": "6/19/16",
+  "time": "14:47:37",
+  "feeding": 64,
+  "pee": 0.2,
+  "poop": 0.8,
+  "dateAndTime": "2016-06-19T14:47:37.000Z"
+}, {
+  "date": "6/19/16",
+  "time": "15:54:28",
+  "feeding": 90,
+  "pee": 0.1,
+  "poop": 0.3,
+  "dateAndTime": "2016-06-19T15:54:28.000Z"
+}, {
+  "date": "6/19/16",
+  "time": "21:48:38",
+  "feeding": 68,
+  "pee": 0.3,
+  "poop": 0.4,
+  "dateAndTime": "2016-06-19T21:48:38.000Z"
+}, {
+  "date": "6/20/16",
+  "time": "02:10:23",
+  "feeding": 60,
+  "pee": 0.8,
+  "poop": 0.6,
+  "dateAndTime": "2016-06-20T02:10:23.000Z"
+}, {
+  "date": "6/20/16",
+  "time": "05:08:00",
+  "feeding": 76,
+  "pee": 0.1,
+  "poop": 0.6,
+  "dateAndTime": "2016-06-20T05:08:00.000Z"
+}, {
+  "date": "6/20/16",
+  "time": "07:03:09",
+  "feeding": 79,
+  "pee": 0.6,
+  "poop": 0.8,
+  "dateAndTime": "2016-06-20T07:03:09.000Z"
+}, {
+  "date": "6/20/16",
+  "time": "09:17:54",
+  "feeding": 68,
+  "pee": 1,
+  "poop": 0.7,
+  "dateAndTime": "2016-06-20T09:17:54.000Z"
+}, {
+  "date": "6/20/16",
+  "time": "13:14:09",
+  "feeding": 50,
+  "pee": 0.2,
+  "poop": 0.6,
+  "dateAndTime": "2016-06-20T13:14:09.000Z"
+}, {
+  "date": "6/20/16",
+  "time": "18:19:19",
+  "feeding": 79,
+  "pee": 0.3,
+  "poop": 0.6,
+  "dateAndTime": "2016-06-20T18:19:19.000Z"
+}, {
+  "date": "6/20/16",
+  "time": "22:47:38",
+  "feeding": 67,
+  "pee": 0.8,
+  "poop": 0.6,
+  "dateAndTime": "2016-06-20T22:47:38.000Z"
+}, {
+  "date": "6/21/16",
+  "time": "02:33:15",
+  "feeding": 57,
+  "pee": 1,
+  "poop": 0.8,
+  "dateAndTime": "2016-06-21T02:33:15.000Z"
+}, {
+  "date": "6/21/16",
+  "time": "03:58:29",
+  "feeding": 83,
+  "pee": 0.9,
+  "poop": 0.8,
+  "dateAndTime": "2016-06-21T03:58:29.000Z"
+}, {
+  "date": "6/21/16",
+  "time": "06:14:27",
+  "feeding": 54,
+  "pee": 0.4,
+  "poop": 0.8,
+  "dateAndTime": "2016-06-21T06:14:27.000Z"
+}, {
+  "date": "6/21/16",
+  "time": "09:26:45",
+  "feeding": 75,
+  "pee": 0.9,
+  "poop": 0.6,
+  "dateAndTime": "2016-06-21T09:26:45.000Z"
+}, {
+  "date": "6/21/16",
+  "time": "14:01:06",
+  "feeding": 61,
+  "pee": 0.2,
+  "poop": 0.4,
+  "dateAndTime": "2016-06-21T14:01:06.000Z"
+}, {
+  "date": "6/21/16",
+  "time": "17:42:51",
+  "feeding": 86,
+  "pee": 0.6,
+  "poop": 0.8,
+  "dateAndTime": "2016-06-21T17:42:51.000Z"
+}, {
+  "date": "6/21/16",
+  "time": "22:45:11",
+  "feeding": 69,
+  "pee": 0.3,
+  "poop": 0.4,
+  "dateAndTime": "2016-06-21T22:45:11.000Z"
+}, {
+  "date": "6/22/16",
+  "time": "01:23:01",
+  "feeding": 84,
+  "pee": 0.2,
+  "poop": 0.7,
+  "dateAndTime": "2016-06-22T01:23:01.000Z"
+}, {
+  "date": "6/22/16",
+  "time": "04:36:55",
+  "feeding": 58,
+  "pee": 0.2,
+  "poop": 0.4,
+  "dateAndTime": "2016-06-22T04:36:55.000Z"
+}, {
+  "date": "6/22/16",
+  "time": "08:04:39",
+  "feeding": 90,
+  "pee": 0.7,
+  "poop": 0.1,
+  "dateAndTime": "2016-06-22T08:04:39.000Z"
+}, {
+  "date": "6/22/16",
+  "time": "10:01:34",
+  "feeding": 82,
+  "pee": 0.6,
+  "poop": 0.1,
+  "dateAndTime": "2016-06-22T10:01:34.000Z"
+}, {
+  "date": "6/22/16",
+  "time": "14:27:52",
+  "feeding": 89,
+  "pee": 0.7,
+  "poop": 0.5,
+  "dateAndTime": "2016-06-22T14:27:52.000Z"
+}, {
+  "date": "6/22/16",
+  "time": "18:47:53",
+  "feeding": 72,
+  "pee": 0.9,
+  "poop": 0.8,
+  "dateAndTime": "2016-06-22T18:47:53.000Z"
+}, {
+  "date": "6/22/16",
+  "time": "22:20:33",
+  "feeding": 75,
+  "pee": 0.1,
+  "poop": 0.2,
+  "dateAndTime": "2016-06-22T22:20:33.000Z"
+}, {
+  "date": "6/23/16",
+  "time": "00:32:49",
+  "feeding": 57,
+  "pee": 0.7,
+  "poop": 1,
+  "dateAndTime": "2016-06-23T00:32:49.000Z"
+}, {
+  "date": "6/23/16",
+  "time": "04:31:34",
+  "feeding": 70,
+  "pee": 0.9,
+  "poop": 0.6,
+  "dateAndTime": "2016-06-23T04:31:34.000Z"
+}, {
+  "date": "6/23/16",
+  "time": "08:24:31",
+  "feeding": 76,
+  "pee": 0.2,
+  "poop": 1,
+  "dateAndTime": "2016-06-23T08:24:31.000Z"
+}, {
+  "date": "6/23/16",
+  "time": "10:22:48",
+  "feeding": 61,
+  "pee": 0.2,
+  "poop": 0.9,
+  "dateAndTime": "2016-06-23T10:22:48.000Z"
+}, {
+  "date": "6/23/16",
+  "time": "14:44:11",
+  "feeding": 75,
+  "pee": 0.3,
+  "poop": 0.2,
+  "dateAndTime": "2016-06-23T14:44:11.000Z"
+}, {
+  "date": "6/23/16",
+  "time": "17:08:27",
+  "feeding": 87,
+  "pee": 0,
+  "poop": 0.7,
+  "dateAndTime": "2016-06-23T17:08:27.000Z"
+}, {
+  "date": "6/23/16",
+  "time": "23:28:43",
+  "feeding": 86,
+  "pee": 0.7,
+  "poop": 0.5,
+  "dateAndTime": "2016-06-23T23:28:43.000Z"
+}, {
+  "date": "6/24/16",
+  "time": "01:21:42",
+  "feeding": 90,
+  "pee": 0.2,
+  "poop": 0,
+  "dateAndTime": "2016-06-24T01:21:42.000Z"
+}, {
+  "date": "6/24/16",
+  "time": "03:31:47",
+  "feeding": 52,
+  "pee": 0.9,
+  "poop": 1,
+  "dateAndTime": "2016-06-24T03:31:47.000Z"
+}, {
+  "date": "6/24/16",
+  "time": "06:09:29",
+  "feeding": 83,
+  "pee": 0.7,
+  "poop": 0.6,
+  "dateAndTime": "2016-06-24T06:09:29.000Z"
+}, {
+  "date": "6/24/16",
+  "time": "10:40:53",
+  "feeding": 65,
+  "pee": 0.9,
+  "poop": 1,
+  "dateAndTime": "2016-06-24T10:40:53.000Z"
+}, {
+  "date": "6/24/16",
+  "time": "13:53:59",
+  "feeding": 88,
+  "pee": 0.5,
+  "poop": 0.7,
+  "dateAndTime": "2016-06-24T13:53:59.000Z"
+}, {
+  "date": "6/24/16",
+  "time": "15:09:18",
+  "feeding": 52,
+  "pee": 0.3,
+  "poop": 0.3,
+  "dateAndTime": "2016-06-24T15:09:18.000Z"
+}, {
+  "date": "6/24/16",
+  "time": "19:45:15",
+  "feeding": 89,
+  "pee": 0.9,
+  "poop": 0.1,
+  "dateAndTime": "2016-06-24T19:45:15.000Z"
+}, {
+  "date": "6/25/16",
+  "time": "02:08:56",
+  "feeding": 72,
+  "pee": 0.1,
+  "poop": 0.2,
+  "dateAndTime": "2016-06-25T02:08:56.000Z"
+}, {
+  "date": "6/25/16",
+  "time": "03:19:01",
+  "feeding": 63,
+  "pee": 0.3,
+  "poop": 0.4,
+  "dateAndTime": "2016-06-25T03:19:01.000Z"
+}, {
+  "date": "6/25/16",
+  "time": "06:21:13",
+  "feeding": 56,
+  "pee": 0.9,
+  "poop": 0.9,
+  "dateAndTime": "2016-06-25T06:21:13.000Z"
+}, {
+  "date": "6/25/16",
+  "time": "10:35:23",
+  "feeding": 65,
+  "pee": 0.9,
+  "poop": 1,
+  "dateAndTime": "2016-06-25T10:35:23.000Z"
+}, {
+  "date": "6/25/16",
+  "time": "13:02:23",
+  "feeding": 74,
+  "pee": 0,
+  "poop": 0.3,
+  "dateAndTime": "2016-06-25T13:02:23.000Z"
+}, {
+  "date": "6/25/16",
+  "time": "15:59:06",
+  "feeding": 75,
+  "pee": 1,
+  "poop": 0.7,
+  "dateAndTime": "2016-06-25T15:59:06.000Z"
+}, {
+  "date": "6/25/16",
+  "time": "23:34:02",
+  "feeding": 63,
+  "pee": 0.4,
+  "poop": 0.2,
+  "dateAndTime": "2016-06-25T23:34:02.000Z"
+}, {
+  "date": "6/26/16",
+  "time": "00:51:22",
+  "feeding": 65,
+  "pee": 0.8,
+  "poop": 0.6,
+  "dateAndTime": "2016-06-26T00:51:22.000Z"
+}, {
+  "date": "6/26/16",
+  "time": "03:55:55",
+  "feeding": 57,
+  "pee": 0.7,
+  "poop": 1,
+  "dateAndTime": "2016-06-26T03:55:55.000Z"
+}, {
+  "date": "6/26/16",
+  "time": "06:42:34",
+  "feeding": 76,
+  "pee": 0.4,
+  "poop": 0.1,
+  "dateAndTime": "2016-06-26T06:42:34.000Z"
+}, {
+  "date": "6/26/16",
+  "time": "10:51:05",
+  "feeding": 52,
+  "pee": 0.1,
+  "poop": 0.1,
+  "dateAndTime": "2016-06-26T10:51:05.000Z"
+}, {
+  "date": "6/25/16",
+  "time": "12:28:25",
+  "feeding": 50,
+  "pee": 0.9,
+  "poop": 0.7,
+  "dateAndTime": "2016-06-25T12:28:25.000Z"
+}, {
+  "date": "6/25/16",
+  "time": "17:18:02",
+  "feeding": 50,
+  "pee": 0.8,
+  "poop": 0.3,
+  "dateAndTime": "2016-06-25T17:18:02.000Z"
+}, {
+  "date": "6/25/16",
+  "time": "20:16:47",
+  "feeding": 82,
+  "pee": 0.4,
+  "poop": 0.4,
+  "dateAndTime": "2016-06-25T20:16:47.000Z"
+}, {
+  "date": "6/26/16",
+  "time": "02:26:24",
+  "feeding": 79,
+  "pee": 0.8,
+  "poop": 0.1,
+  "dateAndTime": "2016-06-26T02:26:24.000Z"
+}, {
+  "date": "6/26/16",
+  "time": "05:25:03",
+  "feeding": 65,
+  "pee": 0.6,
+  "poop": 0.5,
+  "dateAndTime": "2016-06-26T05:25:03.000Z"
+}, {
+  "date": "6/26/16",
+  "time": "08:15:06",
+  "feeding": 85,
+  "pee": 0.9,
+  "poop": 0,
+  "dateAndTime": "2016-06-26T08:15:06.000Z"
+}, {
+  "date": "6/26/16",
+  "time": "10:44:16",
+  "feeding": 61,
+  "pee": 0.8,
+  "poop": 0,
+  "dateAndTime": "2016-06-26T10:44:16.000Z"
+}, {
+  "date": "6/26/16",
+  "time": "14:35:11",
+  "feeding": 52,
+  "pee": 0,
+  "poop": 0.8,
+  "dateAndTime": "2016-06-26T14:35:11.000Z"
+}, {
+  "date": "6/26/16",
+  "time": "18:16:12",
+  "feeding": 71,
+  "pee": 0.3,
+  "poop": 0.4,
+  "dateAndTime": "2016-06-26T18:16:12.000Z"
+}, {
+  "date": "6/26/16",
+  "time": "23:03:39",
+  "feeding": 66,
+  "pee": 0.5,
+  "poop": 0,
+  "dateAndTime": "2016-06-26T23:03:39.000Z"
+}, {
+  "date": "6/27/16",
+  "time": "01:46:28",
+  "feeding": 61,
+  "pee": 1,
+  "poop": 0.1,
+  "dateAndTime": "2016-06-27T01:46:28.000Z"
+}, {
+  "date": "6/27/16",
+  "time": "04:44:30",
+  "feeding": 55,
+  "pee": 0.7,
+  "poop": 0.3,
+  "dateAndTime": "2016-06-27T04:44:30.000Z"
+}, {
+  "date": "6/27/16",
+  "time": "08:20:01",
+  "feeding": 82,
+  "pee": 0.5,
+  "poop": 0.5,
+  "dateAndTime": "2016-06-27T08:20:01.000Z"
+}, {
+  "date": "6/27/16",
+  "time": "11:32:28",
+  "feeding": 80,
+  "pee": 0.8,
+  "poop": 0.2,
+  "dateAndTime": "2016-06-27T11:32:28.000Z"
+}, {
+  "date": "6/27/16",
+  "time": "12:13:37",
+  "feeding": 75,
+  "pee": 0.4,
+  "poop": 0,
+  "dateAndTime": "2016-06-27T12:13:37.000Z"
+}, {
+  "date": "6/27/16",
+  "time": "17:31:53",
+  "feeding": 66,
+  "pee": 0.6,
+  "poop": 0.1,
+  "dateAndTime": "2016-06-27T17:31:53.000Z"
+}, {
+  "date": "6/27/16",
+  "time": "21:57:42",
+  "feeding": 66,
+  "pee": 0.2,
+  "poop": 1,
+  "dateAndTime": "2016-06-27T21:57:42.000Z"
+}, {
+  "date": "6/28/16",
+  "time": "01:45:01",
+  "feeding": 67,
+  "pee": 0.1,
+  "poop": 0.5,
+  "dateAndTime": "2016-06-28T01:45:01.000Z"
+}, {
+  "date": "6/28/16",
+  "time": "04:43:38",
+  "feeding": 84,
+  "pee": 0.5,
+  "poop": 0.5,
+  "dateAndTime": "2016-06-28T04:43:38.000Z"
+}, {
+  "date": "6/28/16",
+  "time": "07:27:19",
+  "feeding": 58,
+  "pee": 0.8,
+  "poop": 0.1,
+  "dateAndTime": "2016-06-28T07:27:19.000Z"
+}, {
+  "date": "6/28/16",
+  "time": "10:40:09",
+  "feeding": 63,
+  "pee": 0,
+  "poop": 0.5,
+  "dateAndTime": "2016-06-28T10:40:09.000Z"
+}, {
+  "date": "6/28/16",
+  "time": "14:56:18",
+  "feeding": 77,
+  "pee": 0.9,
+  "poop": 0.9,
+  "dateAndTime": "2016-06-28T14:56:18.000Z"
+}, {
+  "date": "6/28/16",
+  "time": "16:19:25",
+  "feeding": 62,
+  "pee": 0.8,
+  "poop": 0.8,
+  "dateAndTime": "2016-06-28T16:19:25.000Z"
+}, {
+  "date": "6/28/16",
+  "time": "22:50:50",
+  "feeding": 70,
+  "pee": 0.7,
+  "poop": 0.2,
+  "dateAndTime": "2016-06-28T22:50:50.000Z"
+}, {
+  "date": "6/29/16",
+  "time": "00:50:01",
+  "feeding": 74,
+  "pee": 0.3,
+  "poop": 0.4,
+  "dateAndTime": "2016-06-29T00:50:01.000Z"
+}, {
+  "date": "6/29/16",
+  "time": "04:53:12",
+  "feeding": 52,
+  "pee": 0.6,
+  "poop": 0.2,
+  "dateAndTime": "2016-06-29T04:53:12.000Z"
+}, {
+  "date": "6/29/16",
+  "time": "08:46:08",
+  "feeding": 53,
+  "pee": 0.7,
+  "poop": 0.1,
+  "dateAndTime": "2016-06-29T08:46:08.000Z"
+}, {
+  "date": "6/29/16",
+  "time": "11:44:10",
+  "feeding": 79,
+  "pee": 0.1,
+  "poop": 0.1,
+  "dateAndTime": "2016-06-29T11:44:10.000Z"
+}, {
+  "date": "6/29/16",
+  "time": "12:18:19",
+  "feeding": 79,
+  "pee": 1,
+  "poop": 0,
+  "dateAndTime": "2016-06-29T12:18:19.000Z"
+}, {
+  "date": "6/29/16",
+  "time": "16:31:05",
+  "feeding": 71,
+  "pee": 0.4,
+  "poop": 0.4,
+  "dateAndTime": "2016-06-29T16:31:05.000Z"
+}, {
+  "date": "6/29/16",
+  "time": "22:21:22",
+  "feeding": 82,
+  "pee": 0.7,
+  "poop": 0.5,
+  "dateAndTime": "2016-06-29T22:21:22.000Z"
+}, {
+  "date": "6/30/16",
+  "time": "00:30:53",
+  "feeding": 68,
+  "pee": 1,
+  "poop": 0.1,
+  "dateAndTime": "2016-06-30T00:30:53.000Z"
+}, {
+  "date": "6/30/16",
+  "time": "03:23:07",
+  "feeding": 71,
+  "pee": 0.8,
+  "poop": 0.9,
+  "dateAndTime": "2016-06-30T03:23:07.000Z"
+}, {
+  "date": "6/30/16",
+  "time": "08:09:36",
+  "feeding": 57,
+  "pee": 0.5,
+  "poop": 1,
+  "dateAndTime": "2016-06-30T08:09:36.000Z"
+}, {
+  "date": "6/30/16",
+  "time": "11:05:38",
+  "feeding": 75,
+  "pee": 0.5,
+  "poop": 0.4,
+  "dateAndTime": "2016-06-30T11:05:38.000Z"
+}, {
+  "date": "6/30/16",
+  "time": "12:27:01",
+  "feeding": 69,
+  "pee": 0.5,
+  "poop": 0.6,
+  "dateAndTime": "2016-06-30T12:27:01.000Z"
+}, {
+  "date": "6/30/16",
+  "time": "15:27:46",
+  "feeding": 68,
+  "pee": 0.2,
+  "poop": 0.3,
+  "dateAndTime": "2016-06-30T15:27:46.000Z"
+}, {
+  "date": "6/30/16",
+  "time": "22:30:25",
+  "feeding": 60,
+  "pee": 0.3,
+  "poop": 0.8,
+  "dateAndTime": "2016-06-30T22:30:25.000Z"
+}, {
+  "date": "7/1/16",
+  "time": "00:39:32",
+  "feeding": 82,
+  "pee": 0.3,
+  "poop": 0.1,
+  "dateAndTime": "2016-07-01T00:39:32.000Z"
+}, {
+  "date": "7/1/16",
+  "time": "05:41:42",
+  "feeding": 90,
+  "pee": 0,
+  "poop": 0.1,
+  "dateAndTime": "2016-07-01T05:41:42.000Z"
+}, {
+  "date": "7/1/16",
+  "time": "07:09:14",
+  "feeding": 78,
+  "pee": 0.6,
+  "poop": 0.8,
+  "dateAndTime": "2016-07-01T07:09:14.000Z"
+}, {
+  "date": "7/1/16",
+  "time": "09:41:43",
+  "feeding": 53,
+  "pee": 0.8,
+  "poop": 0.6,
+  "dateAndTime": "2016-07-01T09:41:43.000Z"
+}, {
+  "date": "7/1/16",
+  "time": "12:29:25",
+  "feeding": 88,
+  "pee": 0.2,
+  "poop": 0.8,
+  "dateAndTime": "2016-07-01T12:29:25.000Z"
+}, {
+  "date": "7/1/16",
+  "time": "18:50:05",
+  "feeding": 81,
+  "pee": 0.5,
+  "poop": 0.5,
+  "dateAndTime": "2016-07-01T18:50:05.000Z"
+}, {
+  "date": "7/1/16",
+  "time": "21:27:40",
+  "feeding": 50,
+  "pee": 0.4,
+  "poop": 0.5,
+  "dateAndTime": "2016-07-01T21:27:40.000Z"
+}, {
+  "date": "7/2/16",
+  "time": "00:09:06",
+  "feeding": 78,
+  "pee": 0.6,
+  "poop": 0.5,
+  "dateAndTime": "2016-07-02T00:09:06.000Z"
+}, {
+  "date": "7/2/16",
+  "time": "05:42:48",
+  "feeding": 69,
+  "pee": 0.6,
+  "poop": 0.7,
+  "dateAndTime": "2016-07-02T05:42:48.000Z"
+}, {
+  "date": "7/2/16",
+  "time": "07:42:19",
+  "feeding": 58,
+  "pee": 0.1,
+  "poop": 0.2,
+  "dateAndTime": "2016-07-02T07:42:19.000Z"
+}, {
+  "date": "7/2/16",
+  "time": "09:48:30",
+  "feeding": 65,
+  "pee": 0.9,
+  "poop": 0,
+  "dateAndTime": "2016-07-02T09:48:30.000Z"
+}, {
+  "date": "7/2/16",
+  "time": "14:48:02",
+  "feeding": 70,
+  "pee": 0.9,
+  "poop": 0.3,
+  "dateAndTime": "2016-07-02T14:48:02.000Z"
+}, {
+  "date": "7/2/16",
+  "time": "18:15:04",
+  "feeding": 80,
+  "pee": 0,
+  "poop": 0.4,
+  "dateAndTime": "2016-07-02T18:15:04.000Z"
+}, {
+  "date": "7/2/16",
+  "time": "20:33:58",
+  "feeding": 50,
+  "pee": 0,
+  "poop": 0.7,
+  "dateAndTime": "2016-07-02T20:33:58.000Z"
+}, {
+  "date": "7/3/16",
+  "time": "21:23:20",
+  "feeding": 73,
+  "pee": 0.4,
+  "poop": 0.5,
+  "dateAndTime": "2016-07-03T21:23:20.000Z"
+}, {
+  "date": "7/3/16",
+  "time": "02:25:46",
+  "feeding": 63,
+  "pee": 0.5,
+  "poop": 0.6,
+  "dateAndTime": "2016-07-03T02:25:46.000Z"
+}, {
+  "date": "7/3/16",
+  "time": "03:20:54",
+  "feeding": 88,
+  "pee": 0.1,
+  "poop": 0.6,
+  "dateAndTime": "2016-07-03T03:20:54.000Z"
+}, {
+  "date": "7/3/16",
+  "time": "08:18:21",
+  "feeding": 57,
+  "pee": 0.5,
+  "poop": 0.6,
+  "dateAndTime": "2016-07-03T08:18:21.000Z"
+}, {
+  "date": "7/3/16",
+  "time": "10:37:08",
+  "feeding": 74,
+  "pee": 0.9,
+  "poop": 0.5,
+  "dateAndTime": "2016-07-03T10:37:08.000Z"
+}, {
+  "date": "7/3/16",
+  "time": "13:58:35",
+  "feeding": 87,
+  "pee": 0.2,
+  "poop": 0.4,
+  "dateAndTime": "2016-07-03T13:58:35.000Z"
+}, {
+  "date": "7/3/16",
+  "time": "18:53:49",
+  "feeding": 81,
+  "pee": 0.6,
+  "poop": 0.5,
+  "dateAndTime": "2016-07-03T18:53:49.000Z"
+}, {
+  "date": "7/4/16",
+  "time": "23:16:22",
+  "feeding": 67,
+  "pee": 0.3,
+  "poop": 0.5,
+  "dateAndTime": "2016-07-04T23:16:22.000Z"
+}, {
+  "date": "7/4/16",
+  "time": "01:01:03",
+  "feeding": 57,
+  "pee": 0.5,
+  "poop": 0.9,
+  "dateAndTime": "2016-07-04T01:01:03.000Z"
+}, {
+  "date": "7/4/16",
+  "time": "05:45:08",
+  "feeding": 84,
+  "pee": 0.9,
+  "poop": 0.9,
+  "dateAndTime": "2016-07-04T05:45:08.000Z"
+}, {
+  "date": "7/4/16",
+  "time": "06:36:19",
+  "feeding": 89,
+  "pee": 0.9,
+  "poop": 0.4,
+  "dateAndTime": "2016-07-04T06:36:19.000Z"
+}, {
+  "date": "7/4/16",
+  "time": "10:59:41",
+  "feeding": 81,
+  "pee": 0.9,
+  "poop": 0.3,
+  "dateAndTime": "2016-07-04T10:59:41.000Z"
+}, {
+  "date": "7/4/16",
+  "time": "14:18:42",
+  "feeding": 83,
+  "pee": 0.7,
+  "poop": 0.2,
+  "dateAndTime": "2016-07-04T14:18:42.000Z"
+}, {
+  "date": "7/4/16",
+  "time": "15:49:37",
+  "feeding": 79,
+  "pee": 0.1,
+  "poop": 0.9,
+  "dateAndTime": "2016-07-04T15:49:37.000Z"
+}, {
+  "date": "7/5/16",
+  "time": "19:12:04",
+  "feeding": 61,
+  "pee": 0,
+  "poop": 0.9,
+  "dateAndTime": "2016-07-05T19:12:04.000Z"
+}, {
+  "date": "7/5/16",
+  "time": "00:38:14",
+  "feeding": 61,
+  "pee": 0.4,
+  "poop": 0.2,
+  "dateAndTime": "2016-07-05T00:38:14.000Z"
+}, {
+  "date": "7/5/16",
+  "time": "04:04:28",
+  "feeding": 62,
+  "pee": 0.8,
+  "poop": 0.7,
+  "dateAndTime": "2016-07-05T04:04:28.000Z"
+}, {
+  "date": "7/5/16",
+  "time": "06:22:16",
+  "feeding": 53,
+  "pee": 1,
+  "poop": 0.3,
+  "dateAndTime": "2016-07-05T06:22:16.000Z"
+}, {
+  "date": "7/5/16",
+  "time": "10:32:26",
+  "feeding": 67,
+  "pee": 0.4,
+  "poop": 0.6,
+  "dateAndTime": "2016-07-05T10:32:26.000Z"
+}, {
+  "date": "7/5/16",
+  "time": "14:14:24",
+  "feeding": 59,
+  "pee": 0,
+  "poop": 0.8,
+  "dateAndTime": "2016-07-05T14:14:24.000Z"
+}, {
+  "date": "7/5/16",
+  "time": "16:32:57",
+  "feeding": 86,
+  "pee": 0.9,
+  "poop": 1,
+  "dateAndTime": "2016-07-05T16:32:57.000Z"
+}, {
+  "date": "7/5/16",
+  "time": "20:27:17",
+  "feeding": 82,
+  "pee": 0.3,
+  "poop": 0.5,
+  "dateAndTime": "2016-07-05T20:27:17.000Z"
 }, {
   "date": "7/6/16",
-  "time": "18:32:52",
-  "dateAndTime": "7/6/16 18:32",
-  "feeding": 68,
+  "time": "02:36:04",
+  "feeding": 89,
+  "pee": 0.6,
+  "poop": 0.7,
+  "dateAndTime": "2016-07-06T02:36:04.000Z"
+}, {
+  "date": "7/6/16",
+  "time": "04:15:22",
+  "feeding": 89,
+  "pee": 0.9,
+  "poop": 0.7,
+  "dateAndTime": "2016-07-06T04:15:22.000Z"
+}, {
+  "date": "7/6/16",
+  "time": "08:05:05",
+  "feeding": 83,
+  "pee": 0.5,
+  "poop": 0.3,
+  "dateAndTime": "2016-07-06T08:05:05.000Z"
+}, {
+  "date": "7/6/16",
+  "time": "10:50:00",
+  "feeding": 51,
+  "pee": 0.8,
+  "poop": 1,
+  "dateAndTime": "2016-07-06T10:50:00.000Z"
+}, {
+  "date": "7/6/16",
+  "time": "12:31:45",
+  "feeding": 71,
   "pee": 0.7,
-  "poop": 0.4
-}, {"date": "7/6/16", "time": "20:37:21", "dateAndTime": "7/6/16 20:37", "feeding": 88, "pee": 1, "poop": 0.1}]
+  "poop": 0.4,
+  "dateAndTime": "2016-07-06T12:31:45.000Z"
+}, {
+  "date": "7/6/16",
+  "time": "16:54:52",
+  "feeding": 75,
+  "pee": 0.3,
+  "poop": 0.1,
+  "dateAndTime": "2016-07-06T16:54:52.000Z"
+}, {
+  "date": "7/6/16",
+  "time": "22:29:49",
+  "feeding": 84,
+  "pee": 0.7,
+  "poop": 0,
+  "dateAndTime": "2016-07-06T22:29:49.000Z"
+}]
