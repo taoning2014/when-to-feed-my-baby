@@ -30,7 +30,7 @@
     <ion-list>
       <ion-item
         class="item-remove-animate item-avatar item-icon-right"
-        ng-repeat="item in hctrl.items | orderBy:'date' | filter: hctrl.filterBy"
+        ng-repeat="item in hctrl.items | orderBy:'-date' | filter: hctrl.filterBy"
         type="item-text-wrap">
         <img ng-src="img/{{item.img}}">
         <h2>{{item.type}}</h2>
