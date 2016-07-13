@@ -52,7 +52,7 @@ function addDocument(document) {
     type: 'document',
     body: {
       date: document.date,
-      time: document.time.split(':')[0],
+      time: document._time.split(':')[0],
       feeding: document.feeding,
       changing: document.changing
     }

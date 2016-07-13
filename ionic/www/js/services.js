@@ -97,7 +97,7 @@ angular.module('starter.services', [])
     function createObj(keyStr, amountNum) {
       var newObj = {
         date: (new Date()).toISOString(),
-        hour: (new Date()).getHours(),
+        _time: (new Date()).getHours().toString(),
         feeding: 0,
         changing: 0
       };
