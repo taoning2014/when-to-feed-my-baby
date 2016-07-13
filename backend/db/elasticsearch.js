@@ -63,7 +63,7 @@ function searchDocument() {
   return elasticClient.search({
     index: indexName,
     type: 'document',
-    size: 10
+    size: 500
   });
 }
 

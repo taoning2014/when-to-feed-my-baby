@@ -24,14 +24,14 @@ elastic.indexExists().then(function (exists) {
 });
 
 router.get('/api/v1', function (req, res) {
-  console.log('Got get request', (new Date()).toISOString());
   elastic.searchDocument().then(function (data) {
-    console.log('DDDD');
-    console.log(data);
     // don't know how to only return _source filed, so process data here
-    var processedData = data.hits.hits.map(function(item) {
-      return item._source;
-    });
+    var processedData = data.hits.hits
+      .map(function (item) {
+        return item._source;
+      }).sort(function(item1, item2) {
+        return -item1.date.localeCompare(item2.date);
+      }).slice(0, 10);
 
     res.json(processedData);
   });
