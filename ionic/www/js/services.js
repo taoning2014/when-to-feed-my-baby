@@ -136,7 +136,7 @@ angular.module('starter.services', [])
           }
         });
     }
-
+    // aws location: ec2-52-90-75-44.compute-1.amazonaws.com
     return {
       createObj: createObj,
       merge: merge,
