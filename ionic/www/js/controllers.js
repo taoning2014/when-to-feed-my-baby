@@ -70,13 +70,9 @@ angular.module('starter.controllers', ['ionic'])
 
     self.clear = function () {
       LocalStorageFactory.clearStorage();
-      //ServerStorageFactory.clearStorage(function() {
-      //  DataFactory.getData(function(data) {
-      //  Should better call "self.doRefresh();"
-      //    self.items = describedFilter(data);
-      //  });
-      //});
-
+      ServerStorageFactory.clearStorage().then(function () {
+        self.doRefresh();
+      });
     };
 
     // console.log('data: ', data);

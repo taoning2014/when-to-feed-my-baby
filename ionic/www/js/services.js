@@ -53,8 +53,8 @@ angular.module('starter.services', [])
       return $http.post(UtilityFactory.backendAPIURL, obj);
     }
 
-    function clearStorage(cb) {
-      return $http.delete(UtilityFactory.backendAPIURL).then(cb);
+    function clearStorage() {
+      return $http.delete(UtilityFactory.backendAPIURL);
     }
 
     return {
@@ -69,6 +69,8 @@ angular.module('starter.services', [])
   .factory('DataFactory', function (LocalStorageFactory, UtilityFactory, $http) {
     function getData(cb) {
       return $http.get(UtilityFactory.backendAPIURL).then(function (result) {
+        console.log('got back data:');
+        console.log(result.data);
         var removeDuplicate;
         var dbData = result.data;
         var storageData = LocalStorageFactory.getStorage();
@@ -116,17 +118,22 @@ angular.module('starter.services', [])
 
     function merge(dbData, storageData) {
       var itemArray = Array.prototype.concat.apply([], dbData);
-
+      var map = {};
       itemArray = Array.prototype.concat.apply(itemArray, storageData.changingArray);
       itemArray = Array.prototype.concat.apply(itemArray, storageData.feedingArray);
 
+      console.log('Debug array');
+      console.log(itemArray);
       // remove duplicate elements
       return itemArray
-        .sort(function (item1, item2) {
-          return item1.date - item2.date;
-        })
         .filter(function (item, pos, array) {
-          return !pos || item.date !== array[pos - 1].date;
+          console.log(item);
+          if (map[item.date]) {
+            return false;
+          } else {
+            map[item.date] = true;
+            return true;
+          }
         });
     }
 
