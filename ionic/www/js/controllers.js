@@ -69,8 +69,6 @@
   function HistoryCtrl($scope, $timeout, LocalStorageFactory,
                        ServerStorageFactory, DataFactory, data,
                        describedFilter) {
-    console.log('Data: ');
-    console.log(data);
     var self = this;
     self.filterBy = '';
     self.items = describedFilter(data);

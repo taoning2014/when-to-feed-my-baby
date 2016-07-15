@@ -41,7 +41,6 @@
       store.setItem('feeding', '[]');
       store.setItem('changing', '[]');
     }
-
   }
 
   function ServerStorageFactory(UtilityFactory, $http) {
@@ -139,10 +138,10 @@
         .filter(function (item, pos, array) {
           if (map[item.date]) {
             return false;
-          } else {
-            map[item.date] = true;
-            return true;
           }
+
+          map[item.date] = true;
+          return true;
         });
     }
   }

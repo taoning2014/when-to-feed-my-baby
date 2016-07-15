@@ -4,6 +4,9 @@
 
   function described() {
     return function (items) {
+      if (!items || items.length === 0) {
+        return [];
+      }
       return items.map(function (item) {
         if (item.feeding !== 0) {
           item.type = 'Dianel got hungry, so we fed him';
@@ -14,6 +17,6 @@
         }
         return item;
       });
-    }
+    };
   }
 })();
