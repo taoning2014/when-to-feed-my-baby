@@ -1,9 +1,19 @@
-angular.module('starter.services', [])
+(function () {
+  angular.module('starter.services', [])
+    .factory('LocalStorageFactory', LocalStorageFactory)
+    .factory('ServerStorageFactory', ServerStorageFactory)
+    .factory('DataFactory', DataFactory)
+    .factory('UtilityFactory', UtilityFactory);
 
-  .factory('LocalStorageFactory', function ($window) {
+  function LocalStorageFactory($window) {
     var store = $window.localStorage;
+    var service = {
+      getStorage: getStorage,
+      setStorage: setStorage,
+      clearStorage: clearStorage
+    };
+    return service;
 
-    // return an obj contains 2 arrays
     function getStorage() {
       var feeding = store.getItem('feeding');
       var changing = store.getItem('changing');
@@ -17,7 +27,6 @@ angular.module('starter.services', [])
     function setStorage(obj) {
       var key = obj.feeding !== 0 ? 'feeding' : 'changing';
       var array;
-
       if (!store.getItem(key)) {
         store.setItem(key, JSON.stringify([obj]));
       } else {
@@ -33,14 +42,16 @@ angular.module('starter.services', [])
       store.setItem('changing', '[]');
     }
 
-    return {
+  }
+
+  function ServerStorageFactory(UtilityFactory, $http) {
+    var service = {
       getStorage: getStorage,
       setStorage: setStorage,
       clearStorage: clearStorage
     };
-  })
+    return service;
 
-  .factory('ServerStorageFactory', function (UtilityFactory, $http) {
     function getStorage() {
       console.log('Debug: ');
       console.log(UtilityFactory.backendAPIURL);
@@ -56,44 +67,36 @@ angular.module('starter.services', [])
     function clearStorage() {
       return $http.delete(UtilityFactory.backendAPIURL);
     }
-
-    return {
-      getStorage: getStorage,
-      setStorage: setStorage,
-      clearStorage: clearStorage
-    };
-  })
+  }
 
   // this factory get data from local storage and server
   // merge duplicate data then sort before serve to controller
-  .factory('DataFactory', function (LocalStorageFactory, UtilityFactory, $http) {
-    function getData(cb) {
-      return $http.get(UtilityFactory.backendAPIURL).then(function (result) {
-        console.log('got back data:');
-        console.log(result.data);
-        var removeDuplicate;
-        var dbData = result.data;
-        var storageData = LocalStorageFactory.getStorage();
-        // merge local and db
-        removeDuplicate = UtilityFactory.merge(dbData, storageData);
-        console.log('debug remove: ');
-        console.log(removeDuplicate);
-        if (typeof cb === 'function') {
-          cb(removeDuplicate);
-        } else {
-          return removeDuplicate;
-        }
-        return -1;
-      });
-    }
-
-    return {
+  function DataFactory(LocalStorageFactory, UtilityFactory, $http, $q) {
+    var service = {
       getData: getData
     };
-  })
+    return service;
 
-  // utility functions
-  .factory('UtilityFactory', function () {
+    function getData() {
+      return $http.get(UtilityFactory.backendAPIURL).then(function (result) {
+        var dbData = result.data;
+        var storageData = LocalStorageFactory.getStorage();
+        return UtilityFactory.merge(dbData, storageData);
+      }, function (err) {
+        return UtilityFactory.merge(null, LocalStorageFactory.getStorage());
+      });
+    }
+  }
+
+  function UtilityFactory() {
+    // aws location: ec2-52-90-75-44.compute-1.amazonaws.com
+    var service = {
+      createObj: createObj,
+      merge: merge,
+      backendAPIURL: 'http://localhost:3000/api/v1'
+    };
+    return service;
+
     function createObj(keyStr, amountNum) {
       var newObj = {
         date: (new Date()).toISOString(),
@@ -127,7 +130,6 @@ angular.module('starter.services', [])
       // remove duplicate elements
       return itemArray
         .filter(function (item, pos, array) {
-          console.log(item);
           if (map[item.date]) {
             return false;
           } else {
@@ -136,10 +138,5 @@ angular.module('starter.services', [])
           }
         });
     }
-    // aws location: ec2-52-90-75-44.compute-1.amazonaws.com
-    return {
-      createObj: createObj,
-      merge: merge,
-      backendAPIURL: 'http://localhost:3000/api/v1'
-    };
-  });
+  }
+})();
