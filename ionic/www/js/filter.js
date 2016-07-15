@@ -1,8 +1,10 @@
-angular.module('starter.filter', [])
+(function () {
+  angular.module('starter.filter', [])
+    .filter('described', described);
 
-  .filter('described', function() {
-    return function(items) {
-      return items.map(function(item) {
+  function described() {
+    return function (items) {
+      return items.map(function (item) {
         if (item.feeding !== 0) {
           item.type = 'Dianel got hungry, so we fed him';
           item.img = 'feeding.png';
@@ -12,5 +14,6 @@ angular.module('starter.filter', [])
         }
         return item;
       });
-    };
-  });
+    }
+  }
+})();
