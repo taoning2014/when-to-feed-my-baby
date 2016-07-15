@@ -53,19 +53,26 @@
     return service;
 
     function getStorage() {
-      console.log('Debug: ');
       console.log(UtilityFactory.backendAPIURL);
-      return $http.get(UtilityFactory.backendAPIURL);
+      return $http.get(UtilityFactory.backendAPIURL).catch(function (err) {
+        console.log('server is not up');
+        return null;
+      });
     }
 
     function setStorage(obj) {
-      console.log('call backend');
       console.log(obj);
-      return $http.post(UtilityFactory.backendAPIURL, obj);
+      return $http.post(UtilityFactory.backendAPIURL, obj).catch(function (err) {
+        console.log('server is not up');
+        return null;
+      });
     }
 
     function clearStorage() {
-      return $http.delete(UtilityFactory.backendAPIURL);
+      return $http.delete(UtilityFactory.backendAPIURL).catch(function (err) {
+        console.log('server is not up');
+        return null;
+      });
     }
   }
 
