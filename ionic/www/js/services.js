@@ -88,9 +88,9 @@
       return $http.get(UtilityFactory.backendAPIURL).then(function (result) {
         var dbData = result.data;
         var storageData = LocalStorageFactory.getStorage();
-        return UtilityFactory.merge(dbData, storageData);
+        return $q.when(UtilityFactory.merge(dbData, storageData));
       }, function (err) {
-        return UtilityFactory.merge(null, LocalStorageFactory.getStorage());
+        return $q.when(UtilityFactory.merge(null, LocalStorageFactory.getStorage()));
       });
     }
   }

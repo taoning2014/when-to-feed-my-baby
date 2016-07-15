@@ -85,7 +85,7 @@
     }
 
     function doRefresh() {
-      DataFactory.getData(function (data) {
+      DataFactory.getData().then(function (data) {
         self.items = describedFilter(data);
         $timeout(function () {
           $scope.$broadcast('scroll.refreshComplete');
