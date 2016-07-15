@@ -107,7 +107,7 @@ Got some images from airbnb for demo purpose
 [MIT][license-url] We believe that mean should be free and easy to integrate within your existing projects so we chose [The MIT License](http://opensource.org/licenses/MIT)
 
 
-[npm-image]: https://img.shields.io/npm/v/express-paginate.svg?style=flat
+[npm-image]: https://img.shields.io/npm/v/npm.svg
 [npm-url]: https://npmjs.org/package/express-paginate
 [commitizen-image]: https://img.shields.io/badge/commitizen-friendly-brightgreen.svg
 [commitizen-url]: http://commitizen.github.io/cz-cli
