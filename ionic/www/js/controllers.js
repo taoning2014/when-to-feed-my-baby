@@ -1,6 +1,9 @@
-angular.module('starter.controllers', ['ionic'])
+(function () {
+  angular.module('starter.controllers', ['ionic'])
+    .controller('RecordingCtrl', RecordingCtrl)
+    .controller('HistoryCtrl', HistoryCtrl);
 
-  .controller('RecordingCtrl', function ($timeout, UtilityFactory, LocalStorageFactory, ServerStorageFactory) {
+  function RecordingCtrl($timeout, UtilityFactory, LocalStorageFactory, ServerStorageFactory) {
     var self = this;
     var obj;
     // console.log('Data: ', data);
@@ -14,7 +17,11 @@ angular.module('starter.controllers', ['ionic'])
     self.txtBtn2 = 'Changing Daniel\'s Diaper';
     self.wetPersentage = 50;
 
-    self.feeding = function () {
+    // bindable function
+    self.feeding = feeding;
+    self.changing = changing;
+
+    function feeding() {
       if (!self.inFeedingState) {
         self.inFeedingState = true;
         self.inChangingDiapelState = false;
@@ -23,7 +30,6 @@ angular.module('starter.controllers', ['ionic'])
       } else {
         obj = UtilityFactory.createObj('feeding', self.feedingAmount);
         console.log('Test feeding amount: ', obj);
-        // set record
         LocalStorageFactory.setStorage(obj);
         ServerStorageFactory.setStorage(obj);
         self.txtBtn1 = 'Recording to server...';
@@ -35,9 +41,9 @@ angular.module('starter.controllers', ['ionic'])
           self.feedingAmount = 50;
         }, 1500);
       }
-    };
+    }
 
-    self.changing = function () {
+    function changing() {
       if (!self.inChangingDiapelState) {
         self.inFeedingState = false;
         self.inChangingDiapelState = true;
@@ -46,7 +52,6 @@ angular.module('starter.controllers', ['ionic'])
       } else {
         obj = UtilityFactory.createObj('changing', self.wetPersentage);
         console.log('Test changing amount: ', obj);
-        // set record
         LocalStorageFactory.setStorage(obj);
         ServerStorageFactory.setStorage(obj);
         self.txtBtn2 = 'Recording to server...';
@@ -58,32 +63,34 @@ angular.module('starter.controllers', ['ionic'])
           self.wetPersentage = 50;
         }, 1500);
       }
-    };
-  })
+    }
+  }
 
-  .controller('HistoryCtrl', function ($scope, $timeout, LocalStorageFactory,
-                                       ServerStorageFactory, DataFactory, data,
-                                       describedFilter) {
+  function HistoryCtrl($scope, $timeout, LocalStorageFactory,
+                       ServerStorageFactory, DataFactory, data,
+                       describedFilter) {
+    console.log('Data: ');
+    console.log(data);
     var self = this;
     self.filterBy = '';
     self.items = describedFilter(data);
+    self.clear = clear;
+    self.doRefresh = doRefresh;
 
-    self.clear = function () {
+    function clear() {
       LocalStorageFactory.clearStorage();
       ServerStorageFactory.clearStorage().then(function () {
         self.doRefresh();
       });
-    };
+    }
 
-    // console.log('data: ', data);
-    self.doRefresh = function () {
-      // console.log('data1: ', data);
+    function doRefresh() {
       DataFactory.getData(function (data) {
         self.items = describedFilter(data);
-        // console.log('data: ', self.items);
         $timeout(function () {
           $scope.$broadcast('scroll.refreshComplete');
         }, 1500);
       });
-    };
-  });
+    }
+  }
+})();
