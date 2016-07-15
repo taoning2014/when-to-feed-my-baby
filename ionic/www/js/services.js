@@ -60,7 +60,6 @@
     }
 
     function setStorage(obj) {
-      console.log(obj);
       return $http.post(UtilityFactory.backendAPIURL, obj).catch(function (err) {
         console.log('server is not up');
         return null;
