@@ -13,15 +13,18 @@
 		"StatusBar": true
 	},
 	"rules": {
-		"new-cap": 1,
-		"no-console": 0,
-		"func-names": 1,
-		"max-len": [2, 120, 2],
-		"space-before-function-paren": 0,
-    "no-shadow": 1,
-    "no-param-reassign": 1,
+    "space-before-function-paren": 0,
     "quotes": 0,
     "quote-props": 0,
-    "object-curly-spacing": 0
+    "object-curly-spacing": 0,
+    "wrap-iife": 0,
+    "no-use-before-define": 0,
+    "no-console": 0,
+		"new-cap": 1,
+    "no-unused-vars": 1,
+		"func-names": 1,
+    "no-shadow": 1,
+    "no-param-reassign": 1,
+    "max-len": [2, 120, 2]
 	}
 }
