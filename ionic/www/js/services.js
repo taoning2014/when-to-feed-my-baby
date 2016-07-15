@@ -25,7 +25,7 @@
 
     // push data into one array based on the key
     function setStorage(obj) {
-      var key = obj.feeding !== 0 ? 'feeding' : 'changing';
+      var key = parseInt(obj.feeding) !== 0 ? 'feeding' : 'changing';
       var array;
       if (!store.getItem(key)) {
         store.setItem(key, JSON.stringify([obj]));
@@ -112,10 +112,10 @@
 
       switch (keyStr) {
         case 'feeding':
-          newObj.feeding = amountNum;
+          newObj.feeding = parseInt(amountNum);
           break;
         case 'changing':
-          newObj.changing = amountNum;
+          newObj.changing = parseInt(amountNum);
           break;
         default:
           break;
